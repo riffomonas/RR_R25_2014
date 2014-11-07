@@ -51,27 +51,26 @@ this community. Aside for the general importance of insuring that all research
 is reproducible, our ***rationale*** for why this is important now, is due to
 the significant growth of the community and the observation that it is slowly
 coalescing around a set of best practices that need to be disseminated and
-implemented. To achieve our objective, we propose two specific aims:
+implemented. To achieve our objective, we propose the following specific aim:
 
-**Specific Aim 1. Develop a set of auto-tutorial modules to teach microbiome
-researchers habits for engaging in reproducible research.** The goal of these
-modules is to create a framework within a research group for documenting
-research progress, collaborating between researchers and supervisors, and
-ensuring the reproducibility of their research as it is disseminated
-inpublications and oral presentations. These modules will be developed,
-evaluated, and refined by engaging microbiome researchers across a wide network
-that we have established through previous engagement with the research
-community.
-
-**Specific Aim 2. Establish a community-supported resource devoted to
-disseminating  best practices in performing microbiome research.** The area of
-microbiome research is a relatively young field that is largely driven by
-advances in technology and analytical software. The past decade has witnessed
-significant changes in the field and it is equally likely that similar changes
-will occur over the next decade. Therefore, we will use this project as a
-starting point to establish a resource that is supported by the research
-community to develop and disseminate best practices as they relate to performing
-microbiome research.  
+**Develop a set of auto-tutorial modules to teach microbiome researchers habits
+for engaging in reproducible research.** The goal of these modules is to create
+a framework within a research group for documenting research progress,
+collaborating between researchers and supervisors, and ensuring the
+reproducibility of their research as it is disseminated inpublications and oral
+presentations. These modules will be developed, evaluated, and refined by
+engaging microbiome researchers across a wide network that we have established
+through previous engagement with the research community. These modules will be
+the basis for establishing a community-supported resource devoted to
+disseminating best practices in performing microbiome research. The area of
+microbiome research is a relatively young field that has been largely driven by
+advances in technology. The past decade has witnessed significant changes in the
+field and it is equally likely that similar changes will occur over the next
+decade. Since traditional curricula have not been able to keep up with these
+advances, there is an urgent need to develop and disseminate such modules.
+Therefore, we will use this project as a starting point to establish a resource
+that is supported by the research community to develop and disseminate best
+practices as they relate to performing microbiome research.
 
 The ***expected outcomes*** of the proposed modules are the improvement of the
 reproducibility of research within the microbiome research community including
