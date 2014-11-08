@@ -1,3 +1,5 @@
+Project Summary
+===============
 Enthusiasm for understanding how changes in the human microbiome affect health
 has led to an influx of researchers who have little experience in documenting
 and performing bioinfomatic analyses. Compounding this problem is the fact that
