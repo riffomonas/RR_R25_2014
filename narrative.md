@@ -1,5 +1,5 @@
-Project Narrative
-=================
+# Project Narrative
+
 The proposed research is relevant to public health because it supports
 researchers within the domain of microbiome research, who have shown that it is
 impossible to separate human health from the structure and function of the human
