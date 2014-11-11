@@ -73,7 +73,6 @@ build off of previous analyses to expand our knowledge of how the microbiome
 affects transitions between health and disease.
 
 
-
 ## Proposed Research Education Program.
 While the proposed research education program may complement ongoing research
 training and education occurring at the applicant institution, the proposed
@@ -242,6 +241,7 @@ advertise the materials in their publications. The multiple levels of commitment
 and broad support that this proposal enjoys speaks to its importance and the
 unique qualifications of Schloss to lead the project.
 
+
 ## Evaluation Plan
 Applications must include a plan for evaluating the activities supported by the
 award in terms of their frequency of use and their usefulness. The application
@@ -288,7 +288,6 @@ source, community-supported endeavor. To support this all materials related
 to the project will be maintained as a public GitHub project repository
 (http://www.github/retromonas). In fact, the development of this proposal is
 available at http://www.github/retromonas/reproduciblity_R25.
-
 
 
 ## Timeline
