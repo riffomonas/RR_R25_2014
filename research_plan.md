@@ -120,6 +120,54 @@ modules designed to enhance data reproducibility, targeted to graduate students,
 postdoctoral fellows, and beginning investigators.**
 
 
+## Evaluation Plan
+Applications must include a plan for evaluating the activities supported by the
+award in terms of their frequency of use and their usefulness. The application
+must specify baseline metrics (e.g., numbers, educational levels, and
+demographic characteristics of participants), as well as measures to gauge the
+short or long-term success of the research education award in achieving its
+objectives. Wherever appropriate, applicants are encouraged to obtain feedback
+from participants to help identify weaknesses and to provide suggestions for
+improvements.
+
+
+## Dissemination Plan
+We hope that this project will be a seed to engage other developers and the
+microbiome community, in general, improve the reproducibility of microbiome
+research. All instructional materials will be made freely available through a
+website at www.retromonas.org. To disseminate these materials we will several
+avenues. We will:  
+
+* Utilize social media (e.g. Twitter and blogs) to promote a reproducible
+microbiome research initiative. This will create enthusiasm in the microbiome
+community and foster their interest in developing and improving the modules.
+* Publish at least two manuscripts describing the issue of
+reproducibility in microbiome research and the development of our teaching
+modules.
+* Exploit several microbiome-based e-mailing lists that Schloss (PI) is part of
+including the extensive mothur mailing list (N=XXXX users) and the Human
+Microbiome Project XXXXX mailing list (N=XXXX users).
+* Network with other microbiome researchers (see letters of support) to
+facilitate workshops at 3 universities each of the two years of  the project.
+This will serve ot help us develop the modules as well as  disseminate the
+modules.
+* Utilize our connections within the American Society for Microbiology
+to advertise advertise the module through *Microbe* magazine and in workshop
+offerings at the society's General Meetings in 2016 and 2017 (see letter of
+support from ASM).
+
+
+In addition to a website that hosts information about the instructional
+materials, we intend to continue to develop instructional materials and best
+practices beyond the funded period of this project to foster greater
+reproducibility in microbiome research. Once funding for this project has been
+exhausted, the project should be able to continue on as a democratic, open
+source, community-supported endeavor. To support this all materials related
+to the project will be maintained as a public GitHub project repository
+(http://www.github/retromonas). In fact, the development of this proposal is
+available at http://www.github/retromonas/reproduciblity_R25.
+
+
 ## Principal Investigator
 As indicated by his biosketch and the numerous letters of support, Schloss is a
 respected member of the microbiome research community and is an excellent
@@ -220,7 +268,6 @@ Tutorials, Guidance, Checklists" website
 (http://www.gsa.gov/portal/content/103565).  
 
 
-
 ## Institutional Environment and Commitment
 Schloss has secured institutional support for this project on multiple levels.
 First, as indicated by the letter of support from Dr. Harry L.T. Mobley, Chair
@@ -249,54 +296,6 @@ workshops at the annual General Meeting and that they would be willing to help
 advertise the materials in their publications. The multiple levels of commitment
 and broad support that this proposal enjoys speaks to its importance and the
 unique qualifications of Schloss to lead the project.
-
-
-## Evaluation Plan
-Applications must include a plan for evaluating the activities supported by the
-award in terms of their frequency of use and their usefulness. The application
-must specify baseline metrics (e.g., numbers, educational levels, and
-demographic characteristics of participants), as well as measures to gauge the
-short or long-term success of the research education award in achieving its
-objectives. Wherever appropriate, applicants are encouraged to obtain feedback
-from participants to help identify weaknesses and to provide suggestions for
-improvements.
-
-
-## Dissemination Plan
-We hope that this project will be a seed to engage other developers and the
-microbiome community, in general, improve the reproducibility of microbiome
-research. All instructional materials will be made freely available through a
-website at www.retromonas.org. To disseminate these materials we will several
-avenues. We will:  
-
-* Utilize social media (e.g. Twitter and blogs) to promote a reproducible
-microbiome research initiative. This will create enthusiasm in the microbiome
-community and foster their interest in developing and improving the modules.
-* Publish at least two manuscripts describing the issue of
-reproducibility in microbiome research and the development of our teaching
-modules.
-* Exploit several microbiome-based e-mailing lists that Schloss (PI) is part of
-including the extensive mothur mailing list (N=XXXX users) and the Human
-Microbiome Project XXXXX mailing list (N=XXXX users).
-* Network with other microbiome researchers (see letters of support) to
-facilitate workshops at 3 universities each of the two years of  the project.
-This will serve ot help us develop the modules as well as  disseminate the
-modules.
-* Utilize our connections within the American Society for Microbiology
-to advertise advertise the module through *Microbe* magazine and in workshop
-offerings at the society's General Meetings in 2016 and 2017 (see letter of
-support from ASM).
-
-
-In addition to a website that hosts information about the instructional
-materials, we intend to continue to develop instructional materials and best
-practices beyond the funded period of this project to foster greater
-reproducibility in microbiome research. Once funding for this project has been
-exhausted, the project should be able to continue on as a democratic, open
-source, community-supported endeavor. To support this all materials related
-to the project will be maintained as a public GitHub project repository
-(http://www.github/retromonas). In fact, the development of this proposal is
-available at http://www.github/retromonas/reproduciblity_R25.
 
 
 ## Timeline
