@@ -118,14 +118,29 @@ fellows, and beginning investigators."
 
 
 ## Institutional Environment and Commitment
-Describe the institutional environment, reiterating the availability of
-facilities and educational resources (described separately under “Facilities &
-Other Resources”), that can contribute to the planned Research Education
-Program. Evidence of institutional commitment to the research educational
-program is required. A letter of institutional commitment must be attached as
-part of Letters of Support (see below). Appropriate institutional commitment
-should include the provision of adequate staff, facilities, and educational
-resources that can contribute to the planned research education program.
+Schloss has secured institutional support for this project on multiple levels.
+First, as indicated by the letter of support from Dr. Harry L.T. Mobley, Chair
+of the Department of Microbiology & Immunology at the University of Michigan
+School of Medicine, Schloss has the support of the university to gain access to
+adequate staff, facilities, and educational resources to make the planned
+research education program successful. Second, Schloss has interacted with the
+Center for Research on Learning and Teaching (CRLT) at the University of
+Michigan to plan the assessment program for this project (see letter of support
+from Smith). The CRLT provides a mixture of complimentary and fee-based
+services, but does not participate in projects as personnel on grant proposals.
+The support provided by CRLT will insure that Schloss it utilizing the latest in
+pedagogical theory and assessment to develop the proposed teaching modules.
+Third, as indicated by the numerous letters of support from other microbiome
+researchers at the University of Michigan and across the United States, Schloss
+has the support and commitment of other investigators to implement this project.
+They all see the value of developing instructional materials such as those
+described in this proposal. Finally, at the national level, Schloss has secured
+the support and commitment of the American Society of Microbiology. Their letter
+of support indicates that they would be receptive of Schloss presenting his
+teaching materials in workshops at the annual General Meeting and that they
+would be willing to help advertise the materials in their publications. The
+multiple levels of commitment and broad support that this proposal enjoys speaks
+to its importance and the unique qualifications of Schloss to lead the project.
 
 
 ## Evaluation Plan
