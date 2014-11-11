@@ -120,25 +120,34 @@ modules designed to enhance data reproducibility, targeted to graduate students,
 postdoctoral fellows, and beginning investigators.**
 
 
-## Program Director/Principal Investigator
-Describe arrangements for administration of the program.  Provide evidence that
-the Program Director/Principal Investigator is actively engaged in research
-and/or teaching in an area related to the mission of NIH, and can organize,
-administer, monitor, and evaluate the research education program. For programs
-proposing multiple PDs/PIs, describe the complementary and integrated expertise
-of the PDs/PIs; their leadership approach, and governance appropriate for the
-planned project.
-
-Is the PD/PI capable of providing both administrative and scientific leadership
-to the development and implementation of the proposed program? Is there evidence
-that an appropriate level of effort will be devoted by the program leadership to
-ensure the program's intended goal is accomplished? If applicable, is there
-evidence that the participating faculty have experience in mentoring students
-and teaching science? If applicable, are the faculty good role models for the
-participants by nature of their scientific accomplishments? If the project is
-collaborative or multi-PD/PI, do the investigators have complementary and
-integrated expertise; are their leadership approach, governance and
-organizational structure appropriate for the project?
+## Principal Investigator
+As indicated by his biosketch and the numerous letters of support, Schloss is a
+respected member of the microbiome research community and is an excellent
+teacher that is anxious to utilize innovative teaching methods to communicate
+complex materials. Over the past 6 years, Schloss has been the PI on 9 research
+grants funded by NIH and other agencies including 2 R01 projects related to the
+microibome. He has served as a co-Investigator on 7 additional projects during
+that time. From this funding he has published 32 peer-reviewed publications and
+he was the senior author on 16 of these studies; all of these studies have
+involved research questions related to the microbiome. At the University of
+Michigan, Schloss has developed two courses: *Symbiosis* and *Microbial
+informatics*. The latter is a course that is designed to teach microbiology MS
+and PhD students and postdocs to use R. This semester, in preparation for this
+proposal, Schloss successfully experimented with using knitr-based documents and
+GitHub repositories to submit assignments. In addition, all of his course
+materials have been made available through the course's GitHub site including
+the lecture slides that were prepared using the R slidify package that is based
+on the knitr package (microbialinformatics.github.io). Although this course
+touches on the content of the proposed teaching mateirals, it focused on
+developing R skills rather than laboratory practices. This couse and Schloss's
+willingness to experiment with the content is indicative of his innovative
+approach to teaching. Finally, over the past 7 years, Schloss has offered 4-5
+workshops describing how microbiologists can use mothur and R to analyze data
+from microbiome research projects. This experience has given him a unique
+perspective into the needs and competencies of the microbiome resarch community.
+Together, these data and experiences indicate Schloss is "actively engaged in
+research in an area related to the mission of NIH, and can organize, administer,
+monitor, and evaluate the research education program."
 
 
 ## Program Faculty
