@@ -143,11 +143,25 @@ organizational structure appropriate for the project?
 
 
 ## Program Faculty
-Researchers from diverse backgrounds, including racial and ethnic minorities,
-persons with disabilities, and women are encouraged to participate as program
-faculty. Faculty should have research expertise and experience relevant to the
-proposed program and demonstrate a history of, or the potential for, their
-intended roles.
+Schloss will be the primary Program Faculty member for this project. In
+addition, we have received numerous letters of support from colleagues at the
+University of Michigan and across the United States indicating their support for
+this project. In addition, each has responded enthusiastically to their
+willingness to have us test our initial instructional materials with them and
+their research groups. These colleagues represent a diverse array of individuals
+with varying research interests (alphabetical):
+
+* Jim Cavalcoli, PhD: University of Michigan
+* Claire Fraser, PhD: University of Maryland
+* Elizabeth Grice, PhD: University of Pennsylvania
+* Jo Handelsman, PhD: Yale University
+* Gary Huffnagle, PhD: University of Michigan
+* John LiPuma, MD: University of Michigan
+* Harry Mobley, PhD: University of Michigan
+* Eric Pamer, MD: Memorial Sloan-Ketterin Cancer Center
+* Courtney Robinson, PhD: Howard University
+* Julie Segre, PhD: National Human Genetics Research Institute
+* Vincent Young, MD/PhD: University of Michigan
 
 
 ## Program Participants
@@ -226,7 +240,7 @@ they would be receptive of Schloss presenting his teaching materials in
 workshops at the annual General Meeting and that they would be willing to help
 advertise the materials in their publications. The multiple levels of commitment
 and broad support that this proposal enjoys speaks to its importance and the
-unique qualifications of Schloss to lead the project. 
+unique qualifications of Schloss to lead the project.
 
 ## Evaluation Plan
 Applications must include a plan for evaluating the activities supported by the
