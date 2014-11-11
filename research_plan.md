@@ -61,10 +61,6 @@ graduate student, postdoctoral fellow and beginning investigator level, or a
 module on appropriate design of animal studies to be taken immediately prior to
 beginning such work. Describe the plans for piloting the training module.
 
-Describe plans for making the proposed training module section 508 compliant of
-the Rehabilitation Act (29 U.S.C. '794 d), as amended by the Workforce
-Investment Act of 1998 (P.L. 105 – 220; see http://www.section508.gov/ for
-additional information).
 
 The over-arching goal of this NIH R25 program is to support educational
 activities that complement and/or enhance the training of a workforce to meet
@@ -106,15 +102,52 @@ intended roles.
 
 
 ## Program Participants
-Applications must describe the intended participants, and the eligibility
-criteria and/or specific educational background characteristics that are
-essential for participation in the proposed research education program. Identify
-the career levels  for which the proposed program is planned. The training
-proposed must be targeted to graduate students, postdoctoral fellows, and/or
-beginning investigators
+The target audiences for these modules are graduate students, postdoctoral
+fellows, junior faculty, and more senior investigators that lead research
+groups. Although we anticipate that any researcher will gain something from the
+materials, our  primary audience is the growing pool of researchers that are new
+to microbiome research and have limited computational skills. For this audience,
+we will have an entry level stage where they would go through all of the
+modules. An innovative component of our project will provide training materials
+for those leading research groups to help them understand how to interact with
+those researchers that they supervise. Two significant problems with a lack of
+reproducibility include the inability of supervisors to adequately vet a
+trainees methods and the inability of supervisors to fully engage with the
+trainee in develop the methods. By including participants from across multiple
+levels we will be able to take a more holistic approach to the problem of
+reproducible research within the microbiome research area.
 
-"The target audiences for these modules are graduate students, postdoctoral
-fellows, and beginning investigators."  
+We pride ourselves on recruiting diverse cohorts of researchers to the workshops
+we hold to instruct people on best practices for using mothur to analyze 16S
+rRNA gene sequences. It is common for the number of women to outnumber men and
+to have 4-5 African American and Hispanic American researchers attend workshop
+with 30 participants. This level of diversity is uncommon in computational
+workshops. Our strategy is to place a very low bar for admission to the
+workshops, requiring that the researcher merely email us to register. We have
+identified a number of research groups led by diverse investigators that we will
+use to help develop and refine our materials prior to final dissemination.
+Included in these is the research group of Dr. Courtney Robinson, an Assistant
+Professor at Howard University, which is a Historically Black University. For
+all of our assessments we will keep track of the researchers' gender, race,
+ethnicity, and academic rank to understand whether there are individual groups
+that we are not accessing or that may be having greater difficulties with some
+materials than other groups. Finally, because the materials will be made freely
+available to anyone that wants to participate in the modules, there should be
+little difficulty in maintaining a high level of diversity among the
+participants. Regardless, we will continue to monitor the demographic
+distribution of the participants on the pre-test. We are committed to making
+our materials accessible to anyone wanting to engage them. Our track record with
+previous training efforts indicates that our approach does an exceptional job of
+engaging a diverse cross section of microbiologists.
+
+We take seriously our commitment to maintaining a low barrier to participation
+in our training modules. This includes insuring that the proposed training
+modules are compliant with section 508 of the Rehabilitation Act (29 U.S.C. '794
+d), as amended by the Workforce Investment Act of 1998 (P.L. 105–220). To
+achieve this, we will follow the recommendations provided at the "GSA 508
+Tutorials, Guidance, Checklists" website
+(http://www.gsa.gov/portal/content/103565).  
+
 
 
 ## Institutional Environment and Commitment
