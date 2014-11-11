@@ -212,18 +212,21 @@ from Smith). The CRLT provides a mixture of complimentary and fee-based
 services, but does not participate in projects as personnel on grant proposals.
 The support provided by CRLT will insure that Schloss it utilizing the latest in
 pedagogical theory and assessment to develop the proposed teaching modules.
-Third, as indicated by the numerous letters of support from other microbiome
-researchers at the University of Michigan and across the United States, Schloss
-has the support and commitment of other investigators to implement this project.
-They all see the value of developing instructional materials such as those
-described in this proposal. Finally, at the national level, Schloss has secured
-the support and commitment of the American Society of Microbiology. Their letter
-of support indicates that they would be receptive of Schloss presenting his
-teaching materials in workshops at the annual General Meeting and that they
-would be willing to help advertise the materials in their publications. The
-multiple levels of commitment and broad support that this proposal enjoys speaks
-to its importance and the unique qualifications of Schloss to lead the project.
-
+Third, the letter of support from Dr. Mary O'Riordan, Director of the University
+of Michigan Program in Biomedical Sciences (PIBS), Schloss has her support to
+solicit incoming graduate students to help develop and assess the instructional
+materials that he develops for this project. Fourth, as indicated by the
+numerous letters of support from other microbiome researchers at the University
+of Michigan and across the United States, Schloss has the support and commitment
+of other investigators to implement this project. They all see the value of
+developing instructional materials such as those described in this proposal.
+Finally, at the national level, Schloss has secured the support and commitment
+of the American Society of Microbiology. Their letter of support indicates that
+they would be receptive of Schloss presenting his teaching materials in
+workshops at the annual General Meeting and that they would be willing to help
+advertise the materials in their publications. The multiple levels of commitment
+and broad support that this proposal enjoys speaks to its importance and the
+unique qualifications of Schloss to lead the project. 
 
 ## Evaluation Plan
 Applications must include a plan for evaluating the activities supported by the
