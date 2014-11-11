@@ -75,6 +75,7 @@ creative educational activities with a primary focus on **exportable training
 modules designed to enhance data reproducibility, targeted to graduate students,
 postdoctoral fellows, and beginning investigators.**
 
+
 ## Program Director/Principal Investigator
 Describe arrangements for administration of the program.  Provide evidence that
 the Program Director/Principal Investigator is actively engaged in research
@@ -114,6 +115,7 @@ beginning investigators
 
 "The target audiences for these modules are graduate students, postdoctoral
 fellows, and beginning investigators."  
+
 
 ## Institutional Environment and Commitment
 Describe the institutional environment, reiterating the availability of
