@@ -140,8 +140,41 @@ improvements.
 
 
 ## Dissemination Plan
-A specific plan must be provided to disseminate nationally at no additional cost
-the finished training modules.
+We hope that this project will be a seed to engage other developers and the
+microbiome community, in general, improve the reproducibility of microbiome
+research. All instructional materials will be made freely available through a
+website at www.retromonas.org. To disseminate these materials we will several
+avenues. We will:
+
+* Utilize social media (e.g. Twitter and blogs) to promote a reproducible
+microbiome research initiative. This will create enthusiasm in the microbiome
+community and foster their interest in developing and improving the modules.
+* Publish at least two manuscripts describing the issue of
+reproducibility in microbiome research and the development of our teaching
+modules.
+* Exploit several microbiome-based mailing lists including the extensive mothur
+mailing list (N=XXXX users) and the Human Microbiome Project XXXXX mailing list
+(N=XXXX users).
+* Network with other microbiome researchers (see letters of support) to
+facilitate workshops at 3 universities each of the two years of  the project.
+This will serve ot help us develop the modules as well as  disseminate the
+modules.
+* Utilize our connections within the American Society for Microbiology
+to advertise advertise the module through *Microbe* magazine and in workshop
+offerings at the society's General Meetings in 2016 and 2017 (see letter of
+support from ASM).
+
+
+In addition to a website that hosts information about the instructional
+materials, we intend to continue to develop instructional materials and best
+practices beyond the funded period of this project to foster greater
+reproducibility in microbiome research. Once funding for this project has been
+exhausted, the project should be able to continue on as a democratic, open
+source, community-supported endeavor. To support this all materials related
+to the project will be maintained as a public GitHub project repository
+(http://www.github/retromonas). In fact, the development of this proposal is
+available at http://www.github/retromonas/reproduciblity_R25.
+
 
 
 ## Timeline
