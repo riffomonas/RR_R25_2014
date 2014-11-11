@@ -66,10 +66,6 @@ the Rehabilitation Act (29 U.S.C. '794 d), as amended by the Workforce
 Investment Act of 1998 (P.L. 105 – 220; see http://www.section508.gov/ for
 additional information).
 
-Provide a timeline for module development, piloting and refinement,
-dissemination, evaluation, and maintenance.  This timeline must propose making
-the training publicly available within two years of the award date
-
 The over-arching goal of this NIH R25 program is to support educational
 activities that complement and/or enhance the training of a workforce to meet
 the nation’s biomedical, behavioral and clinical research needs and foster a
@@ -144,3 +140,9 @@ improvements.
 ## Dissemination Plan
 A specific plan must be provided to disseminate nationally at no additional cost
 the finished training modules.
+
+
+## Timeline
+Provide a timeline for module development, piloting and refinement,
+dissemination, evaluation, and maintenance.  This timeline must propose making
+the training publicly available within two years of the award date
