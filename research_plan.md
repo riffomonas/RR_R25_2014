@@ -73,63 +73,34 @@ build off of previous analyses to expand our knowledge of how the microbiome
 affects transitions between health and disease.
 
 
-## Proposed Research Education Program.
+## Proposed Research Education Program
+**Specific Aim: Develop a set of autotutorials to teach microbiome researchers
+**habits for engaging in reproducible research.**
 
-It is expected that the proposed training modules will identify deficiencies and
-teach best laboratory practices in one or more of the following four general
-areas:
+***Introduction.*** The *objective* of this aim is to create a framework within
+a research team for documenting research progress, collaborating between
+researchers and supervisors, and ensuring the reproducibility of their research
+as it is disseminated in publications and oral presentations. We *hypothesize*
+that training microbiome researchers in the best practices for documenting their
+analyses will lead to greater transperancy in publications, improved
+reproducibility, and increased collaboration within and between research groups.
+The *rational* for pursuing this aim is based on personal experiences gained
+through supporting the mothur software package, supervising a number of
+microbiome research projects, and the observation that most microbiome research
+papers provide minimalist descriptions of the methods used to analyze sequencing
+data and the raw data are frequently not made publicly available. We will
+achieve the objective of this aim by developing a module consisting of a series
+of autotutorials that any microbiome researcher can follow to quickly develop
+the needed skills to generate a fully reproducible and automated analysis. This
+will improve the the overall *analysis and reporting* of microbiome research.
+Furthermore, our autotutorials will include content for research supervisors who
+are not personally doing the analyses but need an entry point for insuring the
+validity and reproducibility of their trainees' research. This will imporove the
+*culture of microbiome science*. The content of this module will be made freely
+and publicly available and will serve as a starting point for developing other
+training modules to improve the rigor and reproducibility of microbiome
+research.
 
-* Analysis and reporting: what are the necessary procedural details that should
-be included; what are the research resources that must be identified, including
-their type and source
-* Culture of science: how to ensure adequate oversight when the volume and speed
-of new science may mean mentors are unfamiliar with technology used by their
-trainees.
-
-Describe the subject material to be covered.  Describe the
-format for the training module proposed and justify it in terms of the education
-goals.
-
-The length of the proposed training module should be explained in terms
-of scope and depth of coverage of the subject matter and how the research
-education will be utilized by trainees, for example, a module on how to avoid
-confirmation bias to be taken by all beginning laboratory workers at the
-graduate student, postdoctoral fellow and beginning investigator level, or a
-module on appropriate design of animal studies to be taken immediately prior to
-beginning such work.
-
-Describe the plans for piloting the training module.
-
-**Develop a set of auto-tutorial modules to teach microbiome researchers habits
-for engaging in reproducible research.**
-
-***Introduction.***
-
-### Modules will provide
-* instruction on the importance of computational notebooks
-* templates for setting up and maintaining a blog-based notebook
-* best practices for using version control software (e.g. git and GitHub)
-* discussion of code review as an mechanism for mentor-mentee interaction
-* best practices for using literate programming tools for fostering reproducible
-  research
-
-The goal of these modules is to create
-a framework within a research team for documenting research progress,
-collaborating between researchers and supervisors, and ensuring the
-reproducibility of their research as it is disseminated in publications and oral
-presentations. These modules will be developed, evaluated, and refined by
-engaging microbiome researchers across a wide network that we have established
-through previous engagement with the research community. These modules will be
-the basis for establishing a community-supported resource devoted to
-disseminating best practices in performing microbiome research. The area of
-microbiome research is a relatively young field that has been largely driven by
-advances in sequencing technology. The past decade has witnessed significant
-changes in the field and it is equally likely that similar changes will occur
-over the next decade. Since traditional curricula have not been able to keep up
-with these advances, there is an urgent need to develop and disseminate such
-modules. Therefore, we will use this project as a starting point to establish a
-resource that is supported by the research community to develop and disseminate
-best practices as they relate to performing microbiome research.
 
 ---
 
@@ -168,6 +139,31 @@ best practices as they relate to performing microbiome research.
 ***Research Design***
 *_Proposed modules_*
 ---
+
+### Modules will provide
+* instruction on the importance of computational notebooks
+* templates for setting up and maintaining a blog-based notebook
+* best practices for using version control software (e.g. git and GitHub)
+* discussion of code review as an mechanism for mentor-mentee interaction
+* best practices for using literate programming tools for fostering reproducible
+  research
+
+
+
+The length of the proposed training module should be explained in terms
+of scope and depth of coverage of the subject matter and how the research
+education will be utilized by trainees, for example, a module on how to avoid
+confirmation bias to be taken by all beginning laboratory workers at the
+graduate student, postdoctoral fellow and beginning investigator level, or a
+module on appropriate design of animal studies to be taken immediately prior to
+beginning such work.
+
+Describe the plans for piloting the training module.
+
+
+
+
+
 
 ### Plan
 * For each module, develop open source templates and example workflows
