@@ -48,8 +48,8 @@ this community. Our ***rationale*** for why the proposed effort is timely, is
 due to the significant growth of the community. To achieve our objective, we
 propose the following specific aim:
 
-**Develop a set of auto-tutorial modules to teach microbiome researchers habits
-for engaging in reproducible research.** The goal of these modules is to create
+**Develop a set of autotutorials to teach microbiome researchers habits for
+engaging in reproducible research.** The goal of these modules is to create
 a framework within a research team for documenting research progress,
 collaborating between researchers and supervisors, and ensuring the
 reproducibility of their research as it is disseminated in publications and oral
