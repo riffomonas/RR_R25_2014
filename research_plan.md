@@ -74,16 +74,6 @@ affects transitions between health and disease.
 
 
 ## Proposed Research Education Program.
-While the proposed research education program may complement ongoing research
-training and education occurring at the applicant institution, the proposed
-educational experiences must be distinct from those research training and
-research education programs currently receiving federal support. When research
-training programs are on-going in the same department, the applicant
-organization should clearly distinguish between the activities in the proposed
-research education program and the research training supported by the training
-program. The description should include the educational and/or career level(s)
-of the planned participants. The research education proposed must be targeted to
-graduate students, postdoctoral fellows, and beginning investigators
 
 It is expected that the proposed training modules will identify deficiencies and
 teach best laboratory practices in one or more of the following four general
@@ -92,35 +82,36 @@ areas:
 * Analysis and reporting: what are the necessary procedural details that should
 be included; what are the research resources that must be identified, including
 their type and source
-
 * Culture of science: how to ensure adequate oversight when the volume and speed
 of new science may mean mentors are unfamiliar with technology used by their
 trainees.
 
-State the goals for education and justify the area of training selected for
-module development in terms of its relevance and potential impact on improving
-data reproducibility. Describe the subject material to be covered.  Describe the
+Describe the subject material to be covered.  Describe the
 format for the training module proposed and justify it in terms of the education
-goals.  The length of the proposed training module should be explained in terms
+goals.
+
+The length of the proposed training module should be explained in terms
 of scope and depth of coverage of the subject matter and how the research
 education will be utilized by trainees, for example, a module on how to avoid
 confirmation bias to be taken by all beginning laboratory workers at the
 graduate student, postdoctoral fellow and beginning investigator level, or a
 module on appropriate design of animal studies to be taken immediately prior to
-beginning such work. Describe the plans for piloting the training module.
+beginning such work.
+
+Describe the plans for piloting the training module.
 
 **Develop a set of auto-tutorial modules to teach microbiome researchers habits
 for engaging in reproducible research.**
 
 ***Introduction.***
 
-***Justification & Feasibility***
-*_Review of Relevant Literature_*
-*_Preliminary Studies_*
-
-***Research Design***
-
-
+### Modules will provide
+* instruction on the importance of computational notebooks
+* templates for setting up and maintaining a blog-based notebook
+* best practices for using version control software (e.g. git and GitHub)
+* discussion of code review as an mechanism for mentor-mentee interaction
+* best practices for using literate programming tools for fostering reproducible
+  research
 
 The goal of these modules is to create
 a framework within a research team for documenting research progress,
@@ -140,18 +131,10 @@ modules. Therefore, we will use this project as a starting point to establish a
 resource that is supported by the research community to develop and disseminate
 best practices as they relate to performing microbiome research.
 
-### Objective
-Create a module to teach individuals and research teams how to create
-collaborative and reproducible computational research notebooks
-
 ---
 
-### Aims
-* Develop training materials that describe best practices in the use of
-  electronic, reproducible, and collaborative computational notebooks
-* Establish an evolving resource for describing tools and practices for
-  further development of these materials and practices (e.g. make, authoring
-  papers, etc)
+***Justification & Feasibility***
+*_Review of Relevant Literature_*
 
 ---
 
@@ -178,22 +161,12 @@ collaborative and reproducible computational research notebooks
 * Doodling - apps for that?
 * Many ELN have proprietary formats
 
----
 
-### Modules will provide
-* instruction on the importance of computational notebooks
-* templates for setting up and maintaining a blog-based notebook
-* best practices for using version control software (e.g. git and GitHub)
-* discussion of code review as an mechanism for mentor-mentee interaction
-* best practices for using literate programming tools for fostering reproducible
-  research
 
----
+*_Preliminary Studies_*
 
-### Target enrollees
-* students/postdocs/bioinformaticians - people doing the work (workers)
-* collaborators (e.g. people supervising the work)
-
+***Research Design***
+*_Proposed modules_*
 ---
 
 ### Plan
@@ -202,8 +175,6 @@ collaborative and reproducible computational research notebooks
    - Cookbook w/ predefined project
    - Generic w/ predefined project
    - Generic w/ their project
-
----
 
 ### Modules
 1. Importance of RR and the value of a laboratory notebook towards that goal
@@ -226,18 +197,6 @@ collaborative and reproducible computational research notebooks
   - publishing
   - LaTex
   - slidify
-
----
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -435,6 +394,9 @@ unique qualifications of Schloss to lead the project.
 
 ## Future Directions
 
+* Establish an evolving resource for describing tools and practices for
+  further development of these materials and practices (e.g. make, authoring
+  papers, etc)
 
 
 
