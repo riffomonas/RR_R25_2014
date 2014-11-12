@@ -103,7 +103,8 @@ research.
 
 
 ***Justification & Feasibility***
-*_Review of Relevant Literature_*
+
+**Review of Relevant Literature**
 
 * Reproducible research
   * Basis for concern over reproducible research broadly
@@ -131,10 +132,15 @@ research.
 
 
 
-*_Preliminary Studies_*
+**Preliminary Studies**
+
+* mothur instructional materials / workshop / reproducibility
+* our papers published with digital notebooks
+* preliminary autotutorials
+
 
 ***Research Design***
-*_Proposed modules_*
+**Proposed modules**
 ---
 
 ### Modules will provide
