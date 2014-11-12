@@ -2,8 +2,8 @@
 ## Significance
 The NIH-funded Human Microbiome Project (HMP) Roadmap Initiative engendered
 great enthusiasm in understanding how the structure and function of the
-microbiome relates to human health {The Human Microbiome Consortium, 2012
-#2616;The Human Microbiome Consortium, 2012 #2617}. This initiative has resulted
+microbiome relates to human health {The Human Microbiome Consortium, 2012 #2616;
+The Human Microbiome Consortium, 2012 #2617}. This initiative has resulted
 in a expansion of support at the NIH, who now supports these research efforts
 across 27 institutes, centers, and offices. The funding for microbiome research
 more than doubled between fiscal years 2010 and 2012 to a total of more than
@@ -75,7 +75,7 @@ affects transitions between health and disease.
 
 ## Proposed Research Education Program
 **Specific Aim: Develop a set of autotutorials to teach microbiome researchers
-**habits for engaging in reproducible research.**
+habits for engaging in reproducible research**
 
 ***Introduction.*** The *objective* of this aim is to create a framework within
 a research team for documenting research progress, collaborating between
@@ -102,35 +102,32 @@ training modules to improve the rigor and reproducibility of microbiome
 research.
 
 
----
-
 ***Justification & Feasibility***
 *_Review of Relevant Literature_*
 
----
-
-### Problems with paper/pen notebooks
-* Note useful to the researcher
-* Not collaborative - live most of their lives in a file cabinet or a shelf
-  - this would be very collaborative
-  - permanence
-* Difficult to index through
-  - tags
-  - search engine accessible
-* Inefficient, difficult to incorporate multi-media
-  - makes writing more efficient
-  - multi-media very easy to incorporate
-* Incomplete - large datasets impossible to tape into document
-* Difficult to share with potential employers
-
----
-
-### Problems with digital notebooks
-* Learning curve - but people need to get over that in computational disciplines
-* Privacy concerns
-* Legal aspects
-* Doodling - apps for that?
-* Many ELN have proprietary formats
+* Reproducible research
+  * Basis for concern over reproducible research broadly
+  * Basis for concern within the microbiome research world
+  * Examples of microbiome research papers that co-publish computational notebooks
+* Problems with paper/pen notebooks
+  * Note useful to the researcher
+  * Not collaborative - live most of their lives in a file cabinet or a shelf
+    - this would be very collaborative
+    - permanence
+  * Difficult to index through
+    - tags
+    - search engine accessible
+  * Inefficient, difficult to incorporate multi-media
+    - makes writing more efficient
+    - multi-media very easy to incorporate
+  * Incomplete - large datasets impossible to tape into document
+  * Difficult to share with potential employers
+* Problems with digital notebooks
+  * Learning curve - but people need to get over that in computational disciplines
+  * Security/privacy concerns
+  * Legal aspects
+  * Doodling - apps for that?
+  * Many ELN have proprietary formats
 
 
 
