@@ -110,14 +110,106 @@ module on appropriate design of animal studies to be taken immediately prior to
 beginning such work. Describe the plans for piloting the training module.
 
 
-The over-arching goal of this NIH R25 program is to support educational
-activities that complement and/or enhance the training of a workforce to meet
-the nation’s biomedical, behavioral and clinical research needs and foster a
-better understanding of biomedical, behavioral and clinical research and its
-implications. To accomplish the stated over-arching goal, this FOA will support
-creative educational activities with a primary focus on **exportable training
-modules designed to enhance data reproducibility, targeted to graduate students,
-postdoctoral fellows, and beginning investigators.**
+### Objective
+Create a module to teach individuals and research teams how to create
+collaborative and reproducible computational research notebooks
+
+---
+
+### Aims
+* Develop training materials that describe best practices in the use of
+  electronic, reproducible, and collaborative computational notebooks
+* Establish an evolving resource for describing tools and practices for
+  further development of these materials and practices (e.g. make, authoring
+  papers, etc)
+
+---
+
+### Problems with paper/pen notebooks
+* Note useful to the researcher
+* Not collaborative - live most of their lives in a file cabinet or a shelf
+  - this would be very collaborative
+  - permanence
+* Difficult to index through
+  - tags
+  - search engine accessible
+* Inefficient, difficult to incorporate multi-media
+  - makes writing more efficient
+  - multi-media very easy to incorporate
+* Incomplete - large datasets impossible to tape into document
+* Difficult to share with potential employers
+
+---
+
+### Problems with digital notebooks
+* Learning curve - but people need to get over that in computational disciplines
+* Privacy concerns
+* Legal aspects
+* Doodling - apps for that?
+* Many ELN have proprietary formats
+
+---
+
+### Modules will provide
+* instruction on the importance of computational notebooks
+* templates for setting up and maintaining a blog-based notebook
+* best practices for using version control software (e.g. git and GitHub)
+* discussion of code review as an mechanism for mentor-mentee interaction
+* best practices for using literate programming tools for fostering reproducible
+  research
+
+---
+
+### Target enrollees
+* students/postdocs/bioinformaticians - people doing the work (workers)
+* collaborators (e.g. people supervising the work)
+
+---
+
+### Plan
+* For each module, develop open source templates and example workflows
+* Three levels of modules
+   - Cookbook w/ predefined project
+   - Generic w/ predefined project
+   - Generic w/ their project
+
+---
+
+### Modules
+1. Importance of RR and the value of a laboratory notebook towards that goal
+  - case studies
+  - discussion items
+1. Development of electronic notebook using a blog
+  - markdown
+  - knitr
+1. Maintaining blog and documentation using git and GitHub
+  - version control
+  - case studies w/ varying levels of documentation
+1. How to collaborate
+  - pull requests
+  - code review
+  - blog comments
+1. Licensing
+  - privacy
+  - open science
+1. Advanced topics
+  - publishing
+  - LaTex
+  - slidify
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Evaluation Plan
