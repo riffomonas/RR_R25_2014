@@ -109,6 +109,36 @@ graduate student, postdoctoral fellow and beginning investigator level, or a
 module on appropriate design of animal studies to be taken immediately prior to
 beginning such work. Describe the plans for piloting the training module.
 
+**Develop a set of auto-tutorial modules to teach microbiome researchers habits
+for engaging in reproducible research.**
+
+***Introduction.***
+
+***Justification & Feasibility***
+*_Review of Relevant Literature_*
+*_Preliminary Studies_*
+
+***Research Design***
+
+
+
+The goal of these modules is to create
+a framework within a research team for documenting research progress,
+collaborating between researchers and supervisors, and ensuring the
+reproducibility of their research as it is disseminated in publications and oral
+presentations. These modules will be developed, evaluated, and refined by
+engaging microbiome researchers across a wide network that we have established
+through previous engagement with the research community. These modules will be
+the basis for establishing a community-supported resource devoted to
+disseminating best practices in performing microbiome research. The area of
+microbiome research is a relatively young field that has been largely driven by
+advances in sequencing technology. The past decade has witnessed significant
+changes in the field and it is equally likely that similar changes will occur
+over the next decade. Since traditional curricula have not been able to keep up
+with these advances, there is an urgent need to develop and disseminate such
+modules. Therefore, we will use this project as a starting point to establish a
+resource that is supported by the research community to develop and disseminate
+best practices as they relate to performing microbiome research.
 
 ### Objective
 Create a module to teach individuals and research teams how to create
@@ -388,6 +418,26 @@ workshops at the annual General Meeting and that they would be willing to help
 advertise the materials in their publications. The multiple levels of commitment
 and broad support that this proposal enjoys speaks to its importance and the
 unique qualifications of Schloss to lead the project.
+
+
+## Expected Outcomes
+
+
+
+
+
+
+## Potential Problems & Alternative Strategies
+
+
+
+
+
+## Future Directions
+
+
+
+
 
 
 ## Timeline
