@@ -218,12 +218,31 @@ Consider what students already know and target the difficult concepts
   can be addressed?
 
 
-* For each module, develop open source templates and example workflows
+For each module:
+* Indicate the expected incoming knowledge, previously held ideas, and possible
+  misconceptions
+* State the learning goals: what is *essential* for the student to learn
+  (primary) what is *important* to understand (secondary)?
+* State the intended learning outcomes: what performances or behaviors will
+  indicate whether students have met the learning goals?
+* Autotutorial activities: What activities will engage a diversity of students
+  in learning?
+  * Get the students to ENGAGE their prior knowledge at the beginning
+  * Make sure that activities are diverse and get the student to EXPLORE the
+    topic. Should not be able to merely click through a website.
+  * Topics and activities should start cookie cutter and proscribed, then be
+    more open-ended, and then get the participant to self-evaluate. As they go
+    through, they should have to do more EXPLAINing and less regurgitation
+  * Needs to have an activity where the participant can EVALUATE their practices
+    or those of their lab/discipline
+  * Final activity should be a launch point for the participant to go into
+    their own research (ELABORATE/EXTEND)
+* Assessment activities: What activities will give students and instructors
+  regular feedback about learning? Needs to evaluate the participants as well
+  as the module
 
-* Topic material:
-   - Cookbook w/ predefined project
-   - Generic w/ predefined project
-   - Generic w/ their project
+
+
 
 ### Autotutorials
 **The importance of reproducible research and its relevance to studying the
