@@ -209,7 +209,8 @@ Consider what students already know and target the difficult concepts
 
 
 * For each module, develop open source templates and example workflows
-* Three levels of modules
+
+* Topic material:
    - Cookbook w/ predefined project
    - Generic w/ predefined project
    - Generic w/ their project
