@@ -135,6 +135,7 @@ research.
 **Preliminary Studies**
 
 * mothur instructional materials / workshop / reproducibility
+* MICRBIOL612
 * our papers published with digital notebooks
 * preliminary autotutorials
 
