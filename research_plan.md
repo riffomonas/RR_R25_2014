@@ -395,10 +395,10 @@ Consider what students already know and target the difficult concepts
 
 
 
-1. Advanced topics
-  - publishing
-  - LaTex
-  - slidify
+Future directions: Advanced topics
+* publishing
+* LaTex
+* slidify
 
 
 
