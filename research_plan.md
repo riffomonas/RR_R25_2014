@@ -183,8 +183,18 @@ Core components of a teachable unit
 Themes of a teachable unit
 * Active learning
 * Assessment
-* Diversity
+* Diversity - use male/female names in case studies; select papers from diverse
+  environments; make sure papers that participants read are open
 * Scientific teaching  
+
+
+Bloom hierarchy
+* Evaluation
+* Synthesis
+* Analysis
+* Application
+* Understanding
+* Knowledge
 
 
 Backward design
@@ -217,19 +227,55 @@ Consider what students already know and target the difficult concepts
 
 ### Autotutorials
 1. The importance of reproducible research and its relevance to studying the
-   human microbimoe
+   human microbiome
+
+* Incomming:
+  * Knowledge: At least a general familiarity with scientific method and
+    microbiome research
+  * Held ideas: Data and methods should be shrouded to protect research group
+    from competitors
+  * Misconceptions: A lack of reproduciblity indicates bad science or fraud
 
 * Learning goals:
   * Primary: Understand that reproducible research refers to the ability of
     another researcher to use your methods to reproduce your results
   * Secondary: Be able to articulate the causes and possible solutions for the
     lack of reproducibility in microbiome research
-  *
+  * Secondary: Appreciate that an inability to reproduce another researcher's
+    results limits the ability to build off of that work
+
 * Learning outcomes:
-  * Participants will be able to articulate the importance of making raw data
-    and detailed methods accessible
-  * Participants will be able to identify various technologies as solutions to
-    hurdles to reproducibility
+  * Articulate the importance of making raw data and detailed methods
+    accessible (Understanding)
+  * Identify various technologies as solutions to practices that limit
+    reproducibility (Comprehension)
+
+* Activities:
+  * Case study 1: PI publishes a paper and gets innundated by emails asking
+    about the nitty gritty of the methods
+  * Case study 2: Student finds Meadows et al. IPython notebook and wants to do
+    a secondary analysis
+  * Presentation: describe of the recent history highlighting problems in
+    reproducibility across science and in the microbiome literature (20 min).
+  * Read: Wommack and Ravel editorial from Microbiome
+  * Think-pair-share: what are the areas of microbiome research that are most
+    prone to limit reproduciblity?
+  * Read and analyze a recent microbiome paper to identify where there are
+    possible limitations to reproducibility
+  * Presentation: identify areas that are the most prone to limiting
+    reproducibility and provide a technology overview that links technologies
+    to specific hurdles in terms of insuring reproducibiltiy (20 min).
+  * Go and do: create accounts at GitHub, FigShare, and DataDryad
+  * Extend: go through an audit of your research group's five most recent
+    publications and score them for their reproducibility using a checklist
+
+* Assessment:
+  * Take in responses to think-pair-share activity
+  * Matching task linking reproducibility fail to a practice/technology that can
+    help
+  * Evidence that they created the GitHub, FigShare, and DataDryad accounts
+  * Time spent on case studies and presentations
+  * Indication from future publications that practices have changed? ($$$)
 
 
 
