@@ -171,7 +171,7 @@ Describe the plans for piloting the training module.
 
 ### Plan
 
-
+Core components of a teachable unit
 * Learning goals: what will students know, understand, and be able to do?
 * Intended learning outcomes: what performances or behaviors will indicate
   whether students have met the learning goals?
@@ -179,6 +179,13 @@ Describe the plans for piloting the training module.
   regular feedback about learning?
 * Classroom activities: What activities will engage a diversity of students in
   learning?
+
+Themes of a teachable unit
+* Active learning
+* Assessment
+* Diversity
+* Scientific teaching  
+
 
 Backward design
 1. Identify desired results
@@ -197,6 +204,9 @@ Backward design
 1. Importance of RR and the value of a laboratory notebook towards that goal
   - case studies
   - discussion items
+
+
+
 1. Development of electronic notebook using a blog
   - markdown
   - knitr
