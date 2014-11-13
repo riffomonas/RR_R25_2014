@@ -226,10 +226,10 @@ Consider what students already know and target the difficult concepts
    - Generic w/ their project
 
 ### Autotutorials
-1. The importance of reproducible research and its relevance to studying the
-   human microbiome
+**The importance of reproducible research and its relevance to studying the
+   human microbiome**
 
-* Incomming:
+* Incoming:
   * Knowledge: At least a general familiarity with scientific method and
     microbiome research
   * Held ideas: Data and methods should be shrouded to protect research group
@@ -271,8 +271,8 @@ Consider what students already know and target the difficult concepts
 
 * Assessment:
   * Take in responses to think-pair-share activity
-  * Matching task linking reproducibility fail to a practice/technology that can
-    help
+  * Matching task linking reproducibility fail to a practice/technology
+  * How many reproducibility fails can they identify in the microbiome paper?
   * Evidence that they created the GitHub, FigShare, and DataDryad accounts
   * Time spent on case studies and presentations
   * Indication from future publications that practices have changed? ($$$)
