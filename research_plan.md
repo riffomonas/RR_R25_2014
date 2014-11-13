@@ -194,16 +194,41 @@ Backward design
 4. Align goals, activities, and assessments
 
 
+Filter for learning goals
+* Primary conceptual goals (these are *essential* to understand)
+* Secondary conceptual goals (these are *important* to understand)
+* Specific topics (these *illustrate* what is to be understood or present
+  *interesting* examples with which students should be familiar)
+
+Consider what students already know and target the difficult concepts
+* What prior knowledge, previously held ideas, or misconceptions might students
+  have?
+* What are the conceptually challenging aspects of this material?
+* What experiences will encourage students to share their misconceptions so they
+  can be addressed?
+
+
 * For each module, develop open source templates and example workflows
 * Three levels of modules
    - Cookbook w/ predefined project
    - Generic w/ predefined project
    - Generic w/ their project
 
-### Modules
-1. Importance of RR and the value of a laboratory notebook towards that goal
-  - case studies
-  - discussion items
+### Autotutorials
+1. The importance of reproducible research and its relevance to studying the
+   human microbimoe
+
+* Learning goals:
+  * Primary: Understand that reproducible research refers to the ability of
+    another researcher to use your methods to reproduce your results
+  * Secondary: Be able to articulate the causes and possible solutions for the
+    lack of reproducibility in microbiome research
+  *
+* Learning outcomes:
+  * Participants will be able to articulate the importance of making raw data
+    and detailed methods accessible
+  * Participants will be able to identify various technologies as solutions to
+    hurdles to reproducibility
 
 
 
