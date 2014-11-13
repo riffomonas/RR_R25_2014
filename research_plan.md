@@ -273,24 +273,24 @@ For each module:
   * Identify various technologies as solutions to practices that limit
     reproducibility (Comprehension)
 
-* Activities:
-  * Case study 1: PI publishes a paper and gets innundated by emails asking
-    about the nitty gritty of the methods
+* Activities (2 hrs):
+  * Case study 1: PI publishes a paper and gets inundated by emails asking
+    about the nitty gritty of the methods (10 min)
   * Case study 2: Student finds Meadows et al. IPython notebook and wants to do
-    a secondary analysis
+    a secondary analysis (10 min)
   * Presentation: describe of the recent history highlighting problems in
     reproducibility across science and in the microbiome literature (20 min).
-  * Read: Wommack and Ravel editorial from Microbiome
+  * Read: Wommack and Ravel editorial from Microbiome (5 min)
   * Think-pair-share: what are the areas of microbiome research that are most
-    prone to limit reproduciblity?
+    prone to limit reproduciblity? (5 min)
   * Read and analyze a recent microbiome paper to identify where there are
-    possible limitations to reproducibility
+    possible limitations to reproducibility (20 min)
   * Presentation: identify areas that are the most prone to limiting
     reproducibility and provide a technology overview that links technologies
-    to specific hurdles in terms of insuring reproducibiltiy (20 min).
-  * Go and do: create accounts at GitHub, FigShare, and DataDryad
-  * Extend: go through an audit of your research group's five most recent
-    publications and score them for their reproducibility using a checklist
+    to specific hurdles in terms of insuring reproducibility (20 min).
+  * Go and do: create accounts at GitHub, FigShare, and DataDryad (20 min)
+  * Extend: go through an audit of your research group's most recent
+    publications and score them for their reproducibility using a checklist (?)
 
 * Assessment:
   * Take in responses to think-pair-share activity
