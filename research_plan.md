@@ -302,6 +302,33 @@ For each module:
 
 
 
+*Developing literate data analysis pipelines using git and GitHub*
+  - version control
+  - case studies w/ varying levels of documentation
+
+* Incoming:
+  * Knowledge:
+  * Misconceptions:
+  * Conceptually difficult:
+
+* Learning goals:
+  * Primary:
+  * Secondary:
+
+* Learning outcomes:
+
+
+
+* Activities:
+
+
+
+
+* Assessment:
+
+
+
+
 **Developing and maintaining a reproducible computational notebook**
 
 * Incoming:
@@ -335,29 +362,6 @@ Have they customized the look of their blog?
 
 
 
-1. Maintaining blog and documentation using git and GitHub
-  - version control
-  - case studies w/ varying levels of documentation
-
-* Incoming:
-  * Knowledge:
-  * Misconceptions:
-  * Conceptually difficult:
-
-* Learning goals:
-  * Primary:
-  * Secondary:
-
-* Learning outcomes:
-
-
-
-* Activities:
-
-
-
-
-* Assessment:
 
 
 
