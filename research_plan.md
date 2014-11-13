@@ -170,6 +170,23 @@ Describe the plans for piloting the training module.
 
 
 ### Plan
+
+
+* Learning goals: what will students know, understand, and be able to do?
+* Intended learning outcomes: what performances or behaviors will indicate
+  whether students have met the learning goals?
+* Assessment activities: What activities will give students and instructors
+  regular feedback about learning?
+* Classroom activities: What activities will engage a diversity of students in
+  learning?
+
+Backward design
+1. Identify desired results
+2. Determine evidence for learning
+3. Plan learning experiences and instruction (activities)
+4. Align goals, activities, and assessments
+
+
 * For each module, develop open source templates and example workflows
 * Three levels of modules
    - Cookbook w/ predefined project
