@@ -219,8 +219,8 @@ Consider what students already know and target the difficult concepts
 
 
 For each module:
-* Indicate the expected incoming knowledge, previously held ideas, and possible
-  misconceptions
+* Indicate the expected incoming knowledge, possible misconceptions, and
+  conceptually difficult content
 * State the learning goals: what is *essential* for the student to learn
   (primary) what is *important* to understand (secondary)?
 * State the intended learning outcomes: what performances or behaviors will
@@ -251,9 +251,13 @@ For each module:
 * Incoming:
   * Knowledge: At least a general familiarity with scientific method and
     microbiome research
-  * Held ideas: Data and methods should be shrouded to protect research group
-    from competitors
-  * Misconceptions: A lack of reproduciblity indicates bad science or fraud
+  * Conceptually difficult: A lack of reproduciblity indicates bad science or
+    fraud
+  * Misconceptions:
+    * Data and methods should be shrouded to protect research group from
+      competitors
+    * Their lab doesn't put out results that are not reproducible
+
 
 * Learning goals:
   * Primary: Understand that reproducible research refers to the ability of
@@ -298,17 +302,16 @@ For each module:
 
 
 
-**Development of a reproducible computational notebook**
-
-
-
-  - markdown
-  - knitr
+**Developing and maintaining a reproducible computational notebook**
 
 * Incoming:
-  * Knowledge:
-  * Held ideas:
+  * Knowledge: Experience working with a paper-based laboratory notebook,
+    perhaps an electronic laboratory notebook
   * Misconceptions:
+    * Paper-based notebooks are considered superior to ELNs
+    * It is impossible to have a computational laboratory notebook
+  * Conceptually difficult:
+
 
 * Learning goals:
   * Primary:
@@ -326,7 +329,8 @@ For each module:
 * Assessment:
 
 
-
+How many posts after 10, 30, 100 days?
+Have they customized the look of their blog?
 
 
 
@@ -337,8 +341,8 @@ For each module:
 
 * Incoming:
   * Knowledge:
-  * Held ideas:
   * Misconceptions:
+  * Conceptually difficult:
 
 * Learning goals:
   * Primary:
@@ -365,8 +369,8 @@ For each module:
 
 * Incoming:
   * Knowledge:
-  * Held ideas:
   * Misconceptions:
+  * Conceptually difficult:
 
 * Learning goals:
   * Primary:
