@@ -279,19 +279,122 @@ Consider what students already know and target the difficult concepts
 
 
 
-1. Development of electronic notebook using a blog
+**Development of a reproducible computational notebook**
+
+
+
   - markdown
   - knitr
+
+* Incoming:
+  * Knowledge:
+  * Held ideas:
+  * Misconceptions:
+
+* Learning goals:
+  * Primary:
+  * Secondary:
+
+* Learning outcomes:
+
+
+
+* Activities:
+
+
+
+
+* Assessment:
+
+
+
+
+
+
+
 1. Maintaining blog and documentation using git and GitHub
   - version control
   - case studies w/ varying levels of documentation
+
+* Incoming:
+  * Knowledge:
+  * Held ideas:
+  * Misconceptions:
+
+* Learning goals:
+  * Primary:
+  * Secondary:
+
+* Learning outcomes:
+
+
+
+* Activities:
+
+
+
+
+* Assessment:
+
+
+
+
 1. How to collaborate
   - pull requests
   - code review
   - blog comments
+
+* Incoming:
+  * Knowledge:
+  * Held ideas:
+  * Misconceptions:
+
+* Learning goals:
+  * Primary:
+  * Secondary:
+
+* Learning outcomes:
+
+
+
+* Activities:
+
+
+
+
+* Assessment:
+
+
+
+
 1. Licensing
   - privacy
   - open science
+
+* Incoming:
+  * Knowledge:
+  * Held ideas:
+  * Misconceptions:
+
+* Learning goals:
+  * Primary:
+  * Secondary:
+
+* Learning outcomes:
+
+
+
+* Activities:
+
+
+
+
+* Assessment:
+
+
+
+
+
 1. Advanced topics
   - publishing
   - LaTex
