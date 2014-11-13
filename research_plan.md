@@ -302,26 +302,50 @@ For each module:
 
 
 
-*Developing literate data analysis pipelines using git and GitHub*
-  - version control
-  - case studies w/ varying levels of documentation
+*Developing literate data analysis pipelines with git*
 
 * Incoming:
-  * Knowledge:
-  * Misconceptions:
+  * Knowledge: Experience writing a paper with a million versions (PhD comics)
+  * Misconceptions: My project isn't big enough for all of this
   * Conceptually difficult:
+    * limited programming knowledge / experience
+    * difficulty with command line tools
 
 * Learning goals:
-  * Primary:
-  * Secondary:
+  * Primary: Understand the importance of documenting one's analysis
+  * Secondary: Appreciate the value of keeping track of the evolution of an
+    analysis
+  * Topic: Will focus on knitr because of it's tie in with RStudio and its GUI,
+    but will also highligh IPython notebooks and the developing Jupyter project
 
 * Learning outcomes:
-
-
+  * Explain what is meant by "literate" programming and its value in
+    reproducible research
+  * Assess the strengths and weaknesses of various options for literate
+    programming
+  * Learn how to create a fully reproducible, automated, and documented analysis
+    pipeline
 
 * Activities:
+  * Case study 1: Describe a postdoc performing a statistical analysis in
+    Excel/Minitab. New data comes in, now what?
+  * Case study 2: A technician in the lab created a spreadsheet that allows you
+    to input the DNA concentration for a sample and tells you the amount of DNA
+    to mix with an amount of H20 to get a 10 ng/ul solution. You want a 5 ng/ul
+    solution and go to look at the forumla and can't figure it out. Now what?
+  * Presentation: Define literate programming; introduce wikis, IPython
+    notebooks, and knitr-based documents; differentiate between these options
+  * Go explore: have participants look at good and bad examples from published
+    papers; have them point out strengths and weaknesses
+  * Get input: How do the participants rank the options in terms of ease of use,
+    reproducibility, usability, and ability to riff off of?
+  * 
 
 
+- version control
+- R markdown / IPython notebooks
+
+Continuum of reproducibility -> document electronically what you've done with versioning to a fully executable paper
 
 
 * Assessment:
