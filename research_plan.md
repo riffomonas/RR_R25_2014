@@ -453,14 +453,17 @@ analyses**
     * Making analysis accessible to PI or those that don't understand code
 
 * Learning goals:
-  * Primary:
-  * Secondary:
+  * Primary: Science is an iterative process, were reproducibility is only the
+    starting point to moving the field forward
+  * Secondary: Understand how to use technology to engage in peer review of
+    computational analysis
+  * Topic/technology: GitHub. It's free, popular, has a lot of features, for
+    academic users their repositories can be made public
 
 * Learning outcomes:
-
-- pull requests
-- code review
-- blog comments
+  * Appreciate the value of different platforms for archiving raw data
+  * Understand how to file questions on a repository
+  * Experience forking, modifying, and submitting/receiving pull requests
 
 
 * Activities:
@@ -468,6 +471,11 @@ analyses**
 * Case study: Congratulations, you just published a paper with reproducible
   analyses! What hurdles remain to being fully reproducible? Data access,
   making data public
+
+- pull requests
+- code review
+- blog comments
+
 
 
 
