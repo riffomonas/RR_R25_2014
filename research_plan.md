@@ -332,7 +332,7 @@ workflows**
 
 * Activities:
   * Case study 1: The prospect of taping screen shots, print outs, command line
-    argruments into a paper-based notebook
+    arguments into a paper-based notebook
   * Case study 2: You, 3 months from now, are your most important collaborator.
   * Presentation: Define literate programming; introduce wikis, IPython
     notebooks, and knitr-based documents; differentiate between these options
@@ -345,6 +345,7 @@ workflows**
   * Case study 3: The time stamps on my files are a mess, how and when did they
     get like this?!
   * Demonstration: learning git (cook book)
+  * Quiz: link common git commands with their function
   * Activity: Using git to track changes in formatting
   * Case study 4: Continuum of reproducibility -> document electronically what
     you've done vs. a fully executable paper
@@ -352,8 +353,13 @@ workflows**
     document describing how a figure was generated
 
 * Assessment:
-  * 
-
+  * Quiz results
+  * Evaluate submitted strengths and weaknesses of their exploration of papers
+    documentation
+  * How well activities match what we're looking for in the canned activities
+  * Time spent on case studies and presentations
+  * Number, frequency, quality of commits in the "Extend" activity
+  * Evidence for more advanced git commands
 
 
 
