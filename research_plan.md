@@ -398,7 +398,7 @@ workflows**
   * Create a fully reproducible, automated, and documented analysis pipeline
 
 * Activities:
-  * Case study 1: Describe a postdoc performing a statistical analysis in
+  * Case study 1: Postdoc performs a statistical analysis in
     Excel/Minitab. New data comes in, now what?
   * Case study 2: You are revising your paper and begin to notice a number of
     typos where you have either mis-transcribed a mean and 95% confidence
@@ -423,6 +423,14 @@ workflows**
     automate it
 
 * Assessment:
+  * Time spent on case studies and presentations
+  * Survey results
+  * Evaluate reactions to literate analyses from the literature
+  * Use of resource materials
+  * How well activities match what we're looking for in the canned activities
+  * Number of executable codeblocks in markdown document
+  * Number, frequency, quality of commits in the "Extend" activity
+
 
 
 
