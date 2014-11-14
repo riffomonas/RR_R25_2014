@@ -324,14 +324,11 @@ workflows**
       numerous add-on tools, and integration with other packages (e.g. RStudio,
       XCode, etc.)
 
-
 * Learning outcomes:
-  * Explain what is meant by "literate" programming and its value in
-    reproducible research
-  * Assess the strengths and weaknesses of various options for literate
-    programming
-  * Learn how to create a fully reproducible, automated, and documented analysis
-    pipeline
+  * Describe the process and importance of documenting the evolution of an
+    analysis pipeline
+  * Create and maintain a repository for their project that results in
+    documentation
 
 * Activities:
   * Case study 1: Describe a postdoc performing a statistical analysis in
@@ -374,6 +371,12 @@ RStudio and its GUI,
   * Secondary:
 
 * Learning outcomes:
+* Explain what is meant by "literate" programming and its value in
+  reproducible research
+* Assess the strengths and weaknesses of various options for literate
+  programming
+* Learn how to create a fully reproducible, automated, and documented analysis
+  pipeline
 
 
 
