@@ -370,8 +370,8 @@ workflows**
 
 
 
-**Autotutorial 3: Developing documents with embedded automated computational
-analysis**
+**Autotutorial 3: Developing a computational laboratory notebook for iterative
+analyses**
 
 * Incoming:
   * Knowledge:
@@ -439,46 +439,7 @@ analysis**
     published? ($$$)
 
 
-**Autotutorial 4: blog**
-* Incoming:
-  * Knowledge:
-    * Experience working with a paper-based laboratory notebook, perhaps an
-      electronic laboratory notebook ==> Linear workflow
-    * Knowledge of popular blogs as log of people's opinions, history, etc
-  * Misconceptions:
-    * Paper-based notebooks are considered superior to ELNs
-    * It is impossible to have a computational laboratory notebook
-  * Conceptually difficult:
-    * Some web programming
-
-
-* Learning goals:
-  * Primary:
-  * Secondary:
-
-* Learning outcomes:
-
-
-
-* Activities:
-
-
-
-
-* Assessment:
-
-
-How many posts after 10, 30, 100 days?
-Have they customized the look of their blog?
-
-
-
-
-
-
-
-
-**Autotutorial 5:  How to collaborate**
+**Autotutorial 4:  How to collaborate**
   - pull requests
   - code review
   - blog comments
