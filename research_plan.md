@@ -443,7 +443,7 @@ analyses**
 
 * Incoming:
   * Knowledge:
-    * Familiarity with the scientific method as an iterative proces
+    * Familiarity with the scientific method as an iterative process
     * Knowledge of different types of databases
     * Experience requesting strains and reagents from others
   * Misconceptions:
@@ -466,45 +466,49 @@ analyses**
   * Articulate the strengths and weaknesses of different open source licenses
 
 * Activities:
-  * Case study: Congratulations, you just published a paper with reproducible
-    analyses! What hurdles remain to being fully reproducible? Data access,
-    making data public
-
-- pull requests
-- code review
-- blog comments
-
-
-
-
-* Assessment:
-
-
-
-
-1. Licensing
-  - privacy
-  - open science
-
-* Incoming:
-  * Knowledge:
-  * Held ideas:
-  * Misconceptions:
-
-* Learning goals:
-  * Primary:
-  * Secondary:
-
-* Learning outcomes:
-
-
-
-* Activities:
-
-
-
+  * Case study 1: A research group has their paper accepted at NatureScienceCell
+    and another researcher that is perceived as being a competitor reaches out
+    to them to get access to their raw data and data analysis pipeline. What
+    would you suggest? How would you argue?
+  * Presentation: Open science - licensing, open vs. closed source code
+  * Discussion: Does your laboratory have a consistent practice on whether to
+    make repositories public or private during development? What license does
+    your lab prefer? Why?
+  * Go explore: Journals vary in their requirements for making data accessible
+    and methods transparent. Go to the websites for your five favorite journals
+    and describe their policies. Which of the journals seems the most "open"?
+  * Case study 2: Congratulations, you just published a paper with reproducible
+    analyses! What hurdles remain to being fully reproducible? Making the data
+    and source code accessible. Where to make the data/source code available
+    what are the strengths and weaknesses of each?
+  * Presentation: Overview of storage possibilities including personal lab
+    servers, public databases, and commercial options (e.g. DataDrayd, FigShare,
+    Amazon, GitHub)
+  * Go explore: Look at your five favorite papers. How accessible are the
+    original raw data? Are there metadata about the data? Is the analysis
+    pipeline available?
+  * Demonstration: submitting data to a commercial repository
+  * Activity: submit a data file to DataDryad and automate the retrieval of that
+    file
+  * Demonstration: creating a presence on GitHub; pull/push workflow
+  * Activity: post repository to GitHub
+  * Demonstration: forking/pull requests, code review
+  * Activity: collaborative coding, code review
+  * Extend: post your repository to GitHub, pick a license, and privacy setting.
+  * Extend: engage your PI or labmates in conducting code review of each other's
+    code
 
 * Assessment:
+  * Time spent on case studies and presentations
+  * Go explore results
+  * How well results match what we're looking for in the canned activities
+  * Demonstration that they got data in and out of DataDryad
+  * Have they setup their repository?
+  * How many repositories in their account after 30, 50, 100 days?
+  * Number and frequency of forks and pull requests in the "Extend" activities
+  * Indication from future publications that automated analyses are being
+    published? ($$$)
+
 
 
 
