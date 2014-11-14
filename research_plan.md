@@ -364,6 +364,8 @@ workflows**
   * Time spent on case studies and presentations
   * Number, frequency, quality of commits in the "Extend" activity
   * Evidence for more advanced git commands
+  * Indication from future publications that more descriptive analysis methods
+    are being published? ($$$)
 
 
 
@@ -431,17 +433,21 @@ workflows**
   * How well results match what we're looking for in the canned activities
   * Number of executable codeblocks in markdown document
   * Number, frequency, quality of commits in the "Extend" activity
-
+  * Indication from future publications that automated analyses are being
+    published? ($$$)
 
 
 **Autotutorial 4: blog**
 * Incoming:
-  * Knowledge: Experience working with a paper-based laboratory notebook,
-    perhaps an electronic laboratory notebook
+  * Knowledge:
+    * Experience working with a paper-based laboratory notebook, perhaps an
+      electronic laboratory notebook ==> Linear workflow
+    * Knowledge of popular blogs as log of people's opinions, history, etc
   * Misconceptions:
     * Paper-based notebooks are considered superior to ELNs
     * It is impossible to have a computational laboratory notebook
   * Conceptually difficult:
+    * Some web programming
 
 
 * Learning goals:
