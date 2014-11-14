@@ -307,6 +307,7 @@ workflows**
   * Knowledge:
     * Experience writing a paper with a million versions (PhD comics)
     * Appreciation that an analysis is not a linear process
+    * History of using applications like Dropbox and Box
   * Misconceptions:
     * My project isn't big enough for all of this
     * Difference between binary (*.docx) and text files
