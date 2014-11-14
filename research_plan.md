@@ -443,8 +443,14 @@ analyses**
 
 * Incoming:
   * Knowledge:
+    * Familiarity with the scientific method as an iterative proces
+    * Knowledge of different types of databases
+    * Experience requesting strains and reagents from others
   * Misconceptions:
+    * The end goal is a paper, rather than the next paper going forward
   * Conceptually difficult:
+    * Releasing data into the wild
+    * Making analysis accessible to PI or those that don't understand code
 
 * Learning goals:
   * Primary:
