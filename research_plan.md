@@ -510,10 +510,6 @@ analyses**
     published? ($$$)
 
 
-
-
-
-
 Alternative topics
 * Blogging
 * Presentations
