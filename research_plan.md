@@ -419,6 +419,7 @@ workflows**
     materials into a knitr document
   * Introspection: what would it take to consistently automate one component of
     their analsyis? an entire paper?
+  * << Case study 3: ??? >>
   * Extend: take the markdown document that they created in Autotutorial 2 and
     automate it
 
