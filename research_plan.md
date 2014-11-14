@@ -248,6 +248,8 @@ For each module:
 **Autotutorial 1: The importance of reproducible research and its relevance to studying the
    human microbiome**
 
+* Rationale:
+
 * Incoming:
   * Knowledge: At least a general familiarity with scientific method and
     microbiome research
@@ -303,6 +305,9 @@ For each module:
 
 **Autotutorial 2: Maintaining an "electron trail" when documenting data analysis
 workflows**
+
+* Rationale:
+
 * Incoming:
   * Knowledge:
     * Experience writing a paper with a million versions (PhD comics)
@@ -373,6 +378,8 @@ workflows**
 **Autotutorial 3: Developing a computational laboratory notebook for iterative
 analyses**
 
+* Rationale:
+
 * Incoming:
   * Knowledge:
     * information from Autotutorial 2
@@ -439,7 +446,10 @@ analyses**
     published? ($$$)
 
 
+
 **Autotutorial 4: Making a computational notebook collaborative**
+
+* Rationale:
 
 * Incoming:
   * Knowledge:
