@@ -428,15 +428,9 @@ workflows**
   * Survey results
   * Evaluate reactions to literate analyses from the literature
   * Use of resource materials
-  * How well activities match what we're looking for in the canned activities
+  * How well results match what we're looking for in the canned activities
   * Number of executable codeblocks in markdown document
   * Number, frequency, quality of commits in the "Extend" activity
-
-
-
-
-
-
 
 
 
