@@ -307,7 +307,9 @@ workflows**
   * Knowledge:
     * Experience writing a paper with a million versions (PhD comics)
     * Appreciation that an analysis is not a linear process
-  * Misconceptions: My project isn't big enough for all of this
+  * Misconceptions:
+    * My project isn't big enough for all of this
+    * Difference between binary (*.docx) and text files
   * Conceptually difficult:
     * difficulty with command line tools
     * version control is a novel concept
@@ -374,14 +376,13 @@ workflows**
     * limited programming knowledge
     * very different way of thinking
 
-RStudio and its GUI,
-  but will also highlight IPython notebooks and the developing Jupyter project
 
 
 * Learning goals:
   * Primary:
   * Secondary:
-  * Topic/Technology:
+  * Topic/Technology: RStudio and its GUI, but will also highlight IPython notebooks and the developing Jupyter project
+
 
 * Learning outcomes:
 * Explain what is meant by "literate" programming and its value in
