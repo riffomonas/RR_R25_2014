@@ -309,7 +309,6 @@ workflows**
     * Appreciation that an analysis is not a linear process
   * Misconceptions: My project isn't big enough for all of this
   * Conceptually difficult:
-    * limited programming knowledge / experience
     * difficulty with command line tools
     * version control is a novel concept
 
@@ -317,8 +316,14 @@ workflows**
   * Primary: Understand the importance of documenting one's analysis
   * Secondary: Appreciate the value of keeping track of the evolution of an
     analysis
-  * Topic: Will focus on knitr because of it's tie in with RStudio and its GUI,
-    but will also highlight IPython notebooks and the developing Jupyter project
+  * Topic/Technology:
+    * Will focus on markdown because of it's tie in with so many other
+      technologies (knitr, IPython, GitHub, pandoc) that we will use in later
+      autotutorials.
+    * Will utilize git and GitHub for version contorl because of its popularity,
+      numerous add-on tools, and integration with other packages (e.g. RStudio,
+      XCode, etc.)
+
 
 * Learning outcomes:
   * Explain what is meant by "literate" programming and its value in
@@ -358,6 +363,10 @@ versioning to a fully executable paper
   * Knowledge:
   * Misconceptions:
   * Conceptually difficult:
+* limited programming knowledge / experience
+
+RStudio and its GUI,
+  but will also highlight IPython notebooks and the developing Jupyter project
 
 
 * Learning goals:
