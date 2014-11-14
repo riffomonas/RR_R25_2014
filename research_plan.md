@@ -462,15 +462,13 @@ analyses**
 
 * Learning outcomes:
   * Appreciate the value of different platforms for archiving raw data
-  * Understand how to file questions on a repository
   * Experience forking, modifying, and submitting/receiving pull requests
-
+  * Articulate the strengths and weaknesses of different open source licenses
 
 * Activities:
-
-* Case study: Congratulations, you just published a paper with reproducible
-  analyses! What hurdles remain to being fully reproducible? Data access,
-  making data public
+  * Case study: Congratulations, you just published a paper with reproducible
+    analyses! What hurdles remain to being fully reproducible? Data access,
+    making data public
 
 - pull requests
 - code review
