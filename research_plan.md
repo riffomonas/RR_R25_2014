@@ -495,6 +495,9 @@ Have they customized the look of their blog?
 
 * Activities:
 
+* Case study: Congratulations, you just published a paper with reproducible
+  analyses! What hurdles remain to being fully reproducible? Data access,
+  making data public
 
 
 
