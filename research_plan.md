@@ -370,7 +370,7 @@ workflows**
 
 
 
-**Autotutorial 3: Developing documents with embeded automated computational
+**Autotutorial 3: Developing documents with embedded automated computational
 analysis**
 
 * Incoming:
