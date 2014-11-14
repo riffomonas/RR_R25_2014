@@ -370,16 +370,19 @@ workflows**
 **Autotutorial 3: Developing automated computational analysis documentation**
 
 * Incoming:
-  * Knowledge: Information from Autotutorial 2
-  * Misconceptions: Programming is hard, GUIs/web-based tools are easy
+  * Knowledge:
+    * information from Autotutorial 2
+    * some programming knowledge
+    * how to use GUI and web-based tools
+  * Misconceptions:
+    * Programming is hard
+    * GUIs/web-based tools are easy
   * Conceptually difficult:
     * limited programming knowledge
     * very different way of thinking
 
-
-
 * Learning goals:
-  * Primary:
+  * Primary: 
   * Secondary:
   * Topic/Technology: RStudio and its GUI, but will also highlight IPython notebooks and the developing Jupyter project
 
