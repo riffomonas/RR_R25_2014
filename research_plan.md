@@ -498,10 +498,10 @@ analyses**
 
 
 
-Future directions: Advanced topics
-* publishing
+Alternative topics
+* Blogging
+* Presentations
 * LaTex
-* slidify
 
 
 
