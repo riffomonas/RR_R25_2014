@@ -439,10 +439,7 @@ analyses**
     published? ($$$)
 
 
-**Autotutorial 4:  How to collaborate**
-  - pull requests
-  - code review
-  - blog comments
+**Autotutorial 4: Making a computational notebook collaborative**
 
 * Incoming:
   * Knowledge:
@@ -455,6 +452,9 @@ analyses**
 
 * Learning outcomes:
 
+- pull requests
+- code review
+- blog comments
 
 
 * Activities:
