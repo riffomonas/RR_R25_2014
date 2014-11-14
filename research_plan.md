@@ -331,26 +331,28 @@ workflows**
     documentation
 
 * Activities:
-  * Case study 1: Describe a postdoc performing a statistical analysis in
-    Excel/Minitab. New data comes in, now what?
-  * Case study 2: A technician in the lab created a spreadsheet that allows you
-    to input the DNA concentration for a sample and tells you the amount of DNA
-    to mix with an amount of H20 to get a 10 ng/ul solution. You want a 5 ng/ul
-    solution and go to look at the forumla and can't figure it out. Now what?
+  * Case study 1: The prospect of taping screen shots, print outs, command line
+    argruments into a paper-based notebook
+  * Case study 2: You, 3 months from now, are your most important collaborator.
   * Presentation: Define literate programming; introduce wikis, IPython
     notebooks, and knitr-based documents; differentiate between these options
   * Go explore: have participants look at good and bad examples from published
     papers; have them point out strengths and weaknesses
   * Get input: How do the participants rank the options in terms of ease of use,
     reproducibility, usability, and ability to riff off of?
-
-
-Continuum of reproducibility -> document electronically what you've done with
-versioning to a fully executable paper
-
+  * Demonstration: learning markdown (cook book)
+  * Activity: Format an unformatted document
+  * Case study 3: The time stamps on my files are a mess, how and when did they
+    get like this?!
+  * Demonstration: learning git (cook book)
+  * Activity: Using git to track changes in formatting
+  * Case study 4: Continuum of reproducibility -> document electronically what
+    you've done vs. a fully executable paper
+  * Extend: take the most recently published paper in your lab and write a
+    document describing how a figure was generated
 
 * Assessment:
-
+  * 
 
 
 
@@ -382,6 +384,12 @@ RStudio and its GUI,
 
 * Activities:
 
+* Case study 1: Describe a postdoc performing a statistical analysis in
+  Excel/Minitab. New data comes in, now what?
+* Case study 2: A technician in the lab created a spreadsheet that allows you
+  to input the DNA concentration for a sample and tells you the amount of DNA
+  to mix with an amount of H20 to get a 10 ng/ul solution. You want a 5 ng/ul
+  solution and go to look at the forumla and can't figure it out. Now what?
 
 
 
