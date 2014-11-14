@@ -382,18 +382,20 @@ workflows**
     * very different way of thinking
 
 * Learning goals:
-  * Primary: 
-  * Secondary:
-  * Topic/Technology: RStudio and its GUI, but will also highlight IPython notebooks and the developing Jupyter project
-
+  * Primary: Appreciate the value of a fully automated analysis pipeline for
+    insuring reproducibility
+  * Secondary: Be able to assess their skills as an analyst and what additional
+    skills they need to develop. May need to see this as an advanced topic that
+    people come back to repeatedly until they develop competencies
+  * Topic/Technology:
+    * RStudio/knitr, but will also highlight IPython notebooks and the
+      developing Jupyter project
+    * R / Python
 
 * Learning outcomes:
-* Explain what is meant by "literate" programming and its value in
-  reproducible research
-* Assess the strengths and weaknesses of various options for literate
-  programming
-* Learn how to create a fully reproducible, automated, and documented analysis
-  pipeline
+  * Explain what is meant by "literate" programming and its value in
+    reproducible research
+  * Create a fully reproducible, automated, and documented analysis pipeline
 
 
 
