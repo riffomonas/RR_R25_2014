@@ -344,18 +344,20 @@ workflows**
   * Activity: Format an unformatted document
   * Case study 3: The time stamps on my files are a mess, how and when did they
     get like this?!
-  * Demonstration: learning git (cook book)
+  * Demonstration: learning git (cook book); simple workflows, the log,
+    navigating the history, branches
   * Quiz: link common git commands with their function
-  * Activity: Using git to track changes in formatting
+  * Activity: Using git to track changes in formatting; go back through
+    history; branches
   * Case study 4: Continuum of reproducibility -> document electronically what
     you've done vs. a fully executable paper
   * Extend: take the most recently published paper in your lab and write a
     document describing how a figure was generated
 
 * Assessment:
-  * Quiz results
   * Evaluate submitted strengths and weaknesses of their exploration of papers
     documentation
+  * Quiz results
   * How well activities match what we're looking for in the canned activities
   * Time spent on case studies and presentations
   * Number, frequency, quality of commits in the "Extend" activity
@@ -363,12 +365,14 @@ workflows**
 
 
 
-**Autotutorial 3: Developing and maintaining a reproducible computational analysis documentation**
+**Autotutorial 3: Developing automated computational analysis documentation**
+
 * Incoming:
-  * Knowledge:
-  * Misconceptions:
+  * Knowledge: Information from Autotutorial 2
+  * Misconceptions: Programming is hard, GUIs/web-based tools are easy
   * Conceptually difficult:
-* limited programming knowledge / experience
+    * limited programming knowledge
+    * very different way of thinking
 
 RStudio and its GUI,
   but will also highlight IPython notebooks and the developing Jupyter project
@@ -377,6 +381,7 @@ RStudio and its GUI,
 * Learning goals:
   * Primary:
   * Secondary:
+  * Topic/Technology:
 
 * Learning outcomes:
 * Explain what is meant by "literate" programming and its value in
