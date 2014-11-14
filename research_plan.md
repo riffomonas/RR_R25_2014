@@ -397,18 +397,30 @@ workflows**
     reproducible research
   * Create a fully reproducible, automated, and documented analysis pipeline
 
-
-
 * Activities:
-
-* Case study 1: Describe a postdoc performing a statistical analysis in
-  Excel/Minitab. New data comes in, now what?
-* Case study 2: A technician in the lab created a spreadsheet that allows you
-  to input the DNA concentration for a sample and tells you the amount of DNA
-  to mix with an amount of H20 to get a 10 ng/ul solution. You want a 5 ng/ul
-  solution and go to look at the forumla and can't figure it out. Now what?
-
-
+  * Case study 1: Describe a postdoc performing a statistical analysis in
+    Excel/Minitab. New data comes in, now what?
+  * Case study 2: You are revising your paper and begin to notice a number of
+    typos where you have either mis-transcribed a mean and 95% confidence
+    interval or have the wrong one inserted. Now what?
+  * Survey: Assess knowledge of command line arguments, python, R, make
+  * Presentation: define literate programming; describe tools for improving
+    reproducibility including open source code, make, knitr, IPython
+  * Go explore: React to several examples in the microbiome literature of
+    literate analyses
+  * Demonstration: make
+  * Activity: Navigate students through incorporating make into the Autotutorial
+    2 materials
+  * Demonstration: IPython/Jupyter notebooks
+  * Activity: Navigate students through incorporating the Autotutorial 2
+    materials into IPyton notebooks in an automated manner
+  * Demonstration: knitr
+  * Activity: Navigate students through incorporating the Autotutorial 2
+    materials into a knitr document
+  * Introspection: what would it take to consistently automate one component of
+    their analsyis? an entire paper?
+  * Extend: take the markdown document that they created in Autotutorial 2 and
+    automate it
 
 * Assessment:
 
