@@ -245,7 +245,7 @@ For each module:
 
 
 ### Autotutorials
-**The importance of reproducible research and its relevance to studying the
+**Autotutorial 1: The importance of reproducible research and its relevance to studying the
    human microbiome**
 
 * Incoming:
@@ -257,7 +257,6 @@ For each module:
     * Data and methods should be shrouded to protect research group from
       competitors
     * Their lab doesn't put out results that are not reproducible
-
 
 * Learning goals:
   * Primary: Understand that reproducible research refers to the ability of
@@ -302,21 +301,24 @@ For each module:
 
 
 
-*Developing literate data analysis pipelines with git*
-
+**Autotutorial 2: Maintaining an "electron trail" when documenting data analysis
+workflows**
 * Incoming:
-  * Knowledge: Experience writing a paper with a million versions (PhD comics)
+  * Knowledge:
+    * Experience writing a paper with a million versions (PhD comics)
+    * Appreciation that an analysis is not a linear process
   * Misconceptions: My project isn't big enough for all of this
   * Conceptually difficult:
     * limited programming knowledge / experience
     * difficulty with command line tools
+    * version control is a novel concept
 
 * Learning goals:
   * Primary: Understand the importance of documenting one's analysis
   * Secondary: Appreciate the value of keeping track of the evolution of an
     analysis
   * Topic: Will focus on knitr because of it's tie in with RStudio and its GUI,
-    but will also highligh IPython notebooks and the developing Jupyter project
+    but will also highlight IPython notebooks and the developing Jupyter project
 
 * Learning outcomes:
   * Explain what is meant by "literate" programming and its value in
@@ -339,13 +341,10 @@ For each module:
     papers; have them point out strengths and weaknesses
   * Get input: How do the participants rank the options in terms of ease of use,
     reproducibility, usability, and ability to riff off of?
-  * 
 
 
-- version control
-- R markdown / IPython notebooks
-
-Continuum of reproducibility -> document electronically what you've done with versioning to a fully executable paper
+Continuum of reproducibility -> document electronically what you've done with
+versioning to a fully executable paper
 
 
 * Assessment:
@@ -353,8 +352,37 @@ Continuum of reproducibility -> document electronically what you've done with ve
 
 
 
-**Developing and maintaining a reproducible computational notebook**
 
+**Autotutorial 3: Developing and maintaining a reproducible computational analysis documentation**
+* Incoming:
+  * Knowledge:
+  * Misconceptions:
+  * Conceptually difficult:
+
+
+* Learning goals:
+  * Primary:
+  * Secondary:
+
+* Learning outcomes:
+
+
+
+* Activities:
+
+
+
+
+* Assessment:
+
+
+
+
+
+
+
+
+**Autotutorial 4: blog**
 * Incoming:
   * Knowledge: Experience working with a paper-based laboratory notebook,
     perhaps an electronic laboratory notebook
@@ -390,7 +418,7 @@ Have they customized the look of their blog?
 
 
 
-1. How to collaborate
+**Autotutorial 5:  How to collaborate**
   - pull requests
   - code review
   - blog comments
