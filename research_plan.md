@@ -208,58 +208,67 @@ organization.
 **Autotutorial 1: The importance of reproducible research and its relevance to
 studying the human microbiome**
 
-* Rationale: 
+***Rationale:*** Very few published microbiome studies can be reproduced based
+on the level of detail provided in the published paper. In some cases, it is
+not possible to access the raw data and associated metadata. Thus, it is
+critical to start the module by establishing the importance of reproducible
+research.
 
-* Incoming:
-  * Knowledge: At least a general familiarity with scientific method and
-    microbiome research
-  * Conceptually difficult: A lack of reproduciblity indicates bad science or
-    fraud
-  * Misconceptions:
-    * Data and methods should be shrouded to protect research group from
-      competitors
-    * Their lab doesn't put out results that are not reproducible
+***Incoming:***
+* *Knowledge:* At least a general familiarity with scientific method and
+  microbiome research
+* *Misconceptions:*
+  * Data and methods should be shrouded to protect research group from
+    competitors
+  * "My lab's papers don't have a reproducibility problem"
 
-* Learning goals:
-  * Primary: Understand that reproducible research refers to the ability of
-    another researcher to use your methods to reproduce your results
-  * Secondary: Be able to articulate the causes and possible solutions for the
-    lack of reproducibility in microbiome research
-  * Secondary: Appreciate that an inability to reproduce another researcher's
-    results limits the ability to build off of that work
+***Conceptually difficult content:*** A lack of reproducibility indicates bad
+science or fraud.
 
-* Learning outcomes:
-  * Articulate the importance of making raw data and detailed methods
-    accessible (Understanding)
-  * Identify various technologies as solutions to practices that limit
-    reproducibility (Comprehension)
+***Learning goals:***
+* *Primary:* Understand that reproducible research refers to the ability of
+  another researcher to use your methods to reproduce your results
+* *Secondary:*
+  * Be able to articulate the causes and possible solutions for the lack of
+    reproducibility in microbiome research
+  * Appreciate that an inability to reproduce another researcher's results
+    limits the ability to build off of that work
 
-* Activities (2 hrs):
-  * Case study 1: PI publishes a paper and gets inundated by emails asking
-    about the nitty gritty of the methods (10 min)
-  * Case study 2: Student finds Meadows et al. IPython notebook and wants to do
-    a secondary analysis (10 min)
-  * Presentation: describe of the recent history highlighting problems in
-    reproducibility across science and in the microbiome literature (20 min).
-  * Read: Wommack and Ravel editorial from Microbiome (5 min)
-  * Think-pair-share: what are the areas of microbiome research that are most
-    prone to limit reproduciblity? (5 min)
-  * Read and analyze a recent microbiome paper to identify where there are
-    possible limitations to reproducibility (20 min)
-  * Presentation: identify areas that are the most prone to limiting
-    reproducibility and provide a technology overview that links technologies
-    to specific hurdles in terms of insuring reproducibility (20 min).
-  * Go and do: create accounts at GitHub, FigShare, and DataDryad (20 min)
-  * Extend: go through an audit of your research group's most recent
-    publications and score them for their reproducibility using a checklist (?)
+***Learning outcomes:***
+* Articulate the importance of making raw data and detailed methods accessible
+* Identify various technologies as solutions to practices that limit
+  reproducibility
 
-* Assessment:
-  * Take in responses to think-pair-share activity
-  * Matching task linking reproducibility fail to a practice/technology
-  * How many reproducibility fails can they identify in the microbiome paper?
-  * Evidence that they created the GitHub, FigShare, and DataDryad accounts
-  * Time spent on case studies and presentations
-  * Indication from future publications that practices have changed? ($$$)
+***Activities (2 hrs):***
+* **Case study 1:** Lab publishes a paper and gets inundated by emails asking
+  about the nitty gritty of the methods. The trainee that did the study has gone
+  on to a new job. This is an example of the common problem in microbiome
+  research (10 min)
+* **Case study 2:** Student finds Meadows et al. IPython notebook [ref] and wants to
+  do a secondary analysis. This is an example of a good practice in microbioe
+  research (10 min)
+* **Presentation:** Describe of the recent history highlighting problems in
+  reproducibility across science and in the microbiome literature (20 min).
+* **Go explore:** Wommack and Ravel editorial from Microbiome [ref] (5 min)
+* **Reflection:** What are the areas of microbiome research that are most
+  prone to limit reproduciblity? (5 min)
+* **Go explore:** Read and analyze a recent microbiome paper to identify where there are
+  possible limitations to reproducibility (20 min)
+* **Presentation:** Identify areas that are the most prone to limiting
+  reproducibility and provide a technology overview that links technologies
+  to specific hurdles in terms of insuring reproducibility (20 min).
+* **Go explore:** Create accounts at GitHub, FigShare, and DataDryad (20 min)
+* **Extend:** Perform an audit of your research group's most recent publications
+  and score them for their reproducibility using a supplied checklist
+
+***Assessments:***
+* Initial responses to the Reflection activity
+* Matching task linking failure to reproduce results to a practice/technology
+  discussed in the Presentations
+* How many reproducibility hurdles can they identify in the microbiome paper?
+* Evidence that they created the GitHub, FigShare, and DataDryad accounts
+* Time spent on case studies and presentations
+* Indication from future publications that practices have changed
 
 
 
@@ -680,7 +689,7 @@ unique qualifications of Schloss to lead the project.
 
 ## Potential Problems & Alternative Strategies
 
-
+* Difficulty monitoring long term behavioral changes
 
 
 
