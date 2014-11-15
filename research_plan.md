@@ -348,8 +348,8 @@ are novel.
 * Time spent on case studies and presentations
 * Number, frequency, quality of commits in the "Extend" activity
 * Evidence for more advanced git commands
-* Is there an indication from future publications that more descriptive analysis
-  methods are being published?
+* Indication from future publications that more descriptive analysis methods are
+  being published
 
 
 
