@@ -444,86 +444,91 @@ is a very different way of thinking for most researchers.
   published
 
 
-
 **Autotutorial 4: Making a computational notebook collaborative**
 
-* Rationale:
+***Rationale:*** By definition, science is an iterative and collaborative search
+to explain the world around us. Although making an analysis reproducible and
+automated are great, that is only part of the mission. By making the raw data
+and code publicly accessible, it increases collaboration within and between
+research groups. This also helps to insure that not only is an analysis
+reproducible, but that it is also done well.
 
-* Incoming:
-  * Knowledge:
-    * Familiarity with the scientific method as an iterative process
-    * Knowledge of different types of databases
-    * Experience requesting strains and reagents from others
-  * Misconceptions:
-    * The end goal is a paper, rather than the next paper going forward
-  * Conceptually difficult:
-    * Releasing data into the wild
-    * Making analysis accessible to PI or those that don't understand code
+***Incoming:***
+* Knowledge:
+  * Familiarity with the scientific method as an iterative process
+  * Knowledge of different types of public databases
+  * Experience requesting strains and reagents from others for wetlab-based
+    experiments
+* Misconceptions: The end goal of a project is a paper, rather than buildign to
+  the next paper
 
-* Learning goals:
-  * Primary: Science is an iterative process, were reproducibility is only the
-    starting point to moving the field forward
-  * Secondary: Understand how to use technology to engage in peer review of
-    computational analysis
-  * Topic/technology: GitHub. It's free, popular, has a lot of features, for
-    academic users their repositories can be made public
+***Conceptually difficult material:***
+* Releasing data to the public
+* Making analysis accessible to the research supevisor or those that do not
+  understand code
 
-* Learning outcomes:
-  * Appreciate the value of different platforms for archiving raw data
-  * Experience forking, modifying, and submitting/receiving pull requests
-  * Articulate the strengths and weaknesses of different open source licenses
+***Learning goals:***
+* *Primary:* Science is an iterative process, were reproducibility is only the
+  starting point to moving the field forward
+* *Secondary:* Understand how to use technology to engage in peer review of
+  computational analysis
+* *Technology:* GitHub is used throughout this autotutorial because it's free,
+  popular, has a lot of features, and for academic users their repositories can
+  be made private or public
 
-* Activities:
-  * Case study 1: A research group has their paper accepted at NatureScienceCell
-    and another researcher that is perceived as being a competitor reaches out
-    to them to get access to their raw data and data analysis pipeline. What
-    would you suggest? How would you argue?
-  * Presentation: Open science - licensing, open vs. closed source code
-  * Discussion: Does your laboratory have a consistent practice on whether to
-    make repositories public or private during development? What license does
-    your lab prefer? Why?
-  * Go explore: Journals vary in their requirements for making data accessible
-    and methods transparent. Go to the websites for your five favorite journals
-    and describe their policies. Which of the journals seems the most "open"?
-  * Case study 2: Congratulations, you just published a paper with reproducible
-    analyses! What hurdles remain to being fully reproducible? Making the data
-    and source code accessible. Where to make the data/source code available
-    what are the strengths and weaknesses of each?
-  * Presentation: Overview of storage possibilities including personal lab
-    servers, public databases, and commercial options (e.g. DataDrayd, FigShare,
-    Amazon, GitHub)
-  * Go explore: Look at your five favorite papers. How accessible are the
-    original raw data? Are there metadata about the data? Is the analysis
-    pipeline available?
-  * Demonstration: submitting data to a commercial repository
-  * Activity: submit a data file to DataDryad and automate the retrieval of that
-    file
-  * Demonstration: creating a presence on GitHub; pull/push workflow
-  * Activity: post repository to GitHub
-  * Demonstration: forking/pull requests, code review
-  * Activity: collaborative coding, code review
-  * Extend: post your repository to GitHub, pick a license, and privacy setting.
-  * Extend: engage your PI or labmates in conducting code review of each other's
-    code
+***Learning outcomes:***
+* Appreciate the value of different platforms for archiving raw data
+* Experience forking, modifying, and submitting/receiving pull requests
+* Articulate the strengths and weaknesses of different open source licenses
 
-* Assessment:
-  * Time spent on case studies and presentations
-  * Go explore results
-  * How well results match what we're looking for in the canned activities
-  * Demonstration that they got data in and out of DataDryad
-  * Have they setup their repository?
-  * How many repositories in their account after 30, 50, 100 days?
-  * Number and frequency of forks and pull requests in the "Extend" activities
-  * Indication from future publications that automated analyses are being
-    published? ($$$)
+***Activities:***
+* **Case study 1:** A research group has their paper accepted at
+  NatureScienceCell and another researcher that is perceived as being a
+  competitor reaches out to them to get access to their raw data and data
+  analysis pipeline. What would you suggest? How would you argue? This case
+  study emphasizes the importance of science as an iterative and collaborative
+  affair.
+* **Presentation:** Discussion of open science concepts including licensing and
+  open vs. closed source code
+* **Reflection:** Does your laboratory have a consistent practice on whether to
+  make repositories public or private during development? What license does
+  your lab prefer? Why?
+* **Go explore:** Journals vary in their requirements for making data accessible
+  and methods transparent. Go to the websites for your five favorite journals
+  and describe their policies. Which of the journals seems the most "open"?
+* **Case study 2:** Congratulations, you just published a paper with reproducible
+  analyses! What hurdles remain to being fully reproducible? This case study
+  will get the participants to realize that they now have to make their data
+  and source code accessible and that there are limitations and benefits to the
+  various approaches
+* **Presentation:** Overview of storage possibilities including personal lab
+  servers, public databases, and commercial options (e.g. DataDrayd, FigShare,
+  Amazon, GitHub)
+* **Go explore:** Look at your five favorite papers. How accessible are the
+  original raw data? Are there metadata about the data? Is the analysis
+  pipeline available?
+* **Presentation:** Submitting data to a commercial repository
+* **Activity:** Submit a data file to DataDryad and automate the retrieval of that
+  file
+* **Demonstration:** Creating a presence on GitHub; pull/push workflow
+* **Activity:** Post repository to GitHub
+* **Demonstration:** Forking, pull requests, and code review
+* **Activity:** Collaborative coding, code review
+* **Extend:** Post your repository to GitHub, pick a license, and privacy
+  setting.
+* **Extend:** engage your PI or labmates in conducting code review of each
+  other's code
 
-
-Alternative topics
-* Blogging
-* Presentations
-* LaTex
-
-
+***Assessment:***
+* Time spent on case studies and presentations
+* Go explore results
+* How well results match what we are looking for in the canned activities
+* Demonstration that they got data in and out of DataDryad
+* Have they setup their public repository?
+* How many repositories in their account after 30, 50, or 100 days?
+* Number and frequency of forks and pull requests in the "Extend" activities
+* Indication from future publications that automated analyses are being
+  published
 
 
 ## Evaluation Plan
@@ -719,6 +724,9 @@ unique qualifications of Schloss to lead the project.
 ## Potential Problems & Alternative Strategies
 
 * Difficulty monitoring long term behavioral changes
+* Blogging
+* Presentations
+* LaTex
 
 
 
