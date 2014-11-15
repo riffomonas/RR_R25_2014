@@ -277,7 +277,11 @@ forward.
 **Autotutorial 2: Maintaining an "electron trail" when documenting data analysis
 workflows**
 
-***Rationale:***
+***Rationale:*** Computational analyses are not generally a step-wise process
+like traditional bench science. Rather, they are iterative and involve
+significant interaction with computers. This Autotutorial will give participants
+the skills they need to maintain an iterative electronic notebook where they
+can record and annotate the flow of ideas as an analysis plan takes shape.
 
 ***Incoming:***
 * *Knowledge:*
