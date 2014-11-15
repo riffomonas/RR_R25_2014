@@ -191,11 +191,7 @@ or provide additional autotutorials. To gain access to the autotutorial each
 participant will need to create an account. Creation of the account will require
 them to provide their gender, age, race, ethnicity, level of education, career
 stage, institution, and self-ranking of proficiency with microbiome data
-analysis. Each autotutorial will have a variety of quantitative and qualitative
-assessments that will allow us to track a participant's progress through the
-module. We will create a badge-based commendation system where participants gain
-varying points. In addition, participants will receive a certificate indicating
-completion of the program.
+analysis.
 
 The following are outlines for the starting point in the development of four
 autotutorials that seek to help microbiome researchers appreciate the
@@ -532,14 +528,20 @@ reproducible, but that it is also done well.
 
 
 ## Evaluation Plan
-Applications must include a plan for evaluating the activities supported by the
-award in terms of their frequency of use and their usefulness. The application
-must specify baseline metrics (e.g., numbers, educational levels, and
-demographic characteristics of participants), as well as measures to gauge the
-short or long-term success of the research education award in achieving its
-objectives. Wherever appropriate, applicants are encouraged to obtain feedback
-from participants to help identify weaknesses and to provide suggestions for
-improvements.
+As described above, participants will register with the module through a website
+where they will provide demographic data. The website will track the amount of
+time spent on each item and their responses. The autotutorials will request the
+participants account name so that it is possible to look for their GitHub
+account to track their performance. It is important to note that aside from the
+account name, the evaluation will be completely anonymous. In general, it
+is not possible to ascertain a person's identity from their account name. Each
+autotutorial will have a variety of quantitative and qualitative assessments
+that will allow us to track a participant's progress through the module. We will
+create a badge-based commendation system where participants gain varying points.
+In addition, participants will receive a certificate indicating completion of
+the program. As we track the participants activities within each module we will
+also be able to evaluate the usefulness of each activity and modify the content
+to overcome misconceptions or confusion in the material.
 
 
 ## Dissemination Plan
@@ -566,7 +568,6 @@ modules.
 to advertise advertise the module through *Microbe* magazine and in workshop
 offerings at the society's General Meetings in 2016 and 2017 (see letter of
 support from ASM).
-
 
 In addition to a website that hosts information about the instructional
 materials, we intend to continue to develop instructional materials and best
