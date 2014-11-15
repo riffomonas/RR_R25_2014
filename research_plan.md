@@ -360,72 +360,88 @@ are novel.
 **Autotutorial 3: Developing a computational laboratory notebook for iterative
 analyses**
 
-* Rationale:
+***Rationale:*** Although marrying text and a description of a pipeline
+(Autotutorial 2) is a good start towards reproducibility and explaining what
+one did, it is not fully reproducible since it does not reflect the actual
+results from the actual commands being run. Here we will demonstrate how to
+build upon the content from the previous autotutorial by adding executable
+code chunks to make a fully reproducible analysis document.
 
-* Incoming:
-  * Knowledge:
-    * information from Autotutorial 2
-    * some programming knowledge
-    * how to use GUI and web-based tools
-  * Misconceptions:
-    * Programming is hard
-    * GUIs/web-based tools are easy
-  * Conceptually difficult:
-    * limited programming knowledge
-    * very different way of thinking
+***Incoming:***
+* Knowledge:
+  * This will build upon the information gained from Autotutorial 2
+  * Will need to have some programming knowledge to make it all the way through
+    this autotutorial
+  * Likely have familiarity with how to use GUI and web-based tools and their
+    strengths and weaknesses
+* Misconceptions:
+  * Programming is hard
+  * Tools with graphical interfaces or those that are available online are easy
+    to use
 
-* Learning goals:
-  * Primary: Appreciate the value of a fully automated analysis pipeline for
-    insuring reproducibility
-  * Secondary: Be able to assess their skills as an analyst and what additional
-    skills they need to develop. May need to see this as an advanced topic that
-    people come back to repeatedly until they develop competencies
-  * Topic/Technology:
-    * RStudio/knitr, but will also highlight IPython notebooks and the
-      developing Jupyter project
-    * R / Python
+***Conceptually difficult content:*** Although it is probably fair to expect
+people who are analyzing large microbiome datasets have experience writing
+scripts to analyze their data, this is often not the reality. Will have to
+create branch point here for people to jump off, go do some training in R or
+Python and then jump back in. Also, the idea of a program generate the text
+is a very different way of thinking for most researchers.
 
-* Learning outcomes:
-  * Explain what is meant by "literate" programming and its value in
-    reproducible research
-  * Create a fully reproducible, automated, and documented analysis pipeline
+***Learning goals:***
+* *Primary:* Appreciate the value of a fully automated analysis pipeline for
+  insuring reproducibility
+* *Secondary:* Be able to assess their skills as an analyst and what additional
+  skills they need to develop. May need to see this as an advanced topic that
+  people come back to repeatedly until they develop competencies
+* *Technology:*
+  * make, knitr, and IPython notebooks will be discussed because they are the
+    only ones widely in use although IPython may soon be replaced by Jupyter
+  * This module will not focus on programming languages or specific analysis
+    tools; however, we will demonstrate that these can be easily used in a
+    variety of literate programming contexts
 
-* Activities:
-  * Case study 1: Postdoc performs a statistical analysis in
-    Excel/Minitab. New data comes in, now what?
-  * Case study 2: You are revising your paper and begin to notice a number of
-    typos where you have either mis-transcribed a mean and 95% confidence
-    interval or have the wrong one inserted. Now what?
-  * Survey: Assess knowledge of command line arguments, python, R, make
-  * Presentation: define literate programming; describe tools for improving
-    reproducibility including open source code, make, knitr, IPython
-  * Go explore: React to several examples in the microbiome literature of
-    literate analyses
-  * Demonstration: make
-  * Activity: Navigate students through incorporating make into the Autotutorial
-    2 materials
-  * Demonstration: IPython/Jupyter notebooks
-  * Activity: Navigate students through incorporating the Autotutorial 2
-    materials into IPyton notebooks in an automated manner
-  * Demonstration: knitr
-  * Activity: Navigate students through incorporating the Autotutorial 2
-    materials into a knitr document
-  * Introspection: what would it take to consistently automate one component of
-    their analsyis? an entire paper?
-  * << Case study 3: ??? >>
-  * Extend: take the markdown document that they created in Autotutorial 2 and
-    automate it
+***Learning outcomes:***
+* Explain what is meant by "literate" programming and its value in reproducible
+  research
+* Create a fully reproducible, automated, and documented analysis pipeline
 
-* Assessment:
-  * Time spent on case studies and presentations
-  * Survey results
-  * Evaluate reactions to literate analyses from the literature
-  * Use of resource materials
-  * How well results match what we're looking for in the canned activities
-  * Number of executable codeblocks in markdown document
-  * Number, frequency, quality of commits in the "Extend" activity
-  * Indication from future publications that automated analyses are being
-    published? ($$$)
+***Activities:***
+* **Case study 1:** Postdoc performs a statistical analysis in
+  Excel/Minitab. New data comes in, now what? Case study will demonstrate the
+  value of having an automated analysis that can easily be adjusted to acommpany
+  new data or requirements.
+* **Case study 2:** You are revising your paper and begin to notice a number of
+  typos where you have either mis-transcribed a mean and 95% confidence
+  interval or have the wrong one inserted. Now what? Case study will emphasize
+  the problems encountered by copying and pasting or manually trainscribing
+  results
+* **Presentation:** Define literate programming; describe tools for improving
+  reproducibility including open source code, make, knitr, IPython
+* **Go explore:** React to several examples in the microbiome literature of
+  literate analyses
+* **Presentation:** make
+* **Activity:** Navigate students through incorporating make into the Autotutorial
+  2 materials
+* **Presentation:** IPython/Jupyter notebooks
+* **Activity:** Navigate students through incorporating the Autotutorial 2
+  materials into IPyton notebooks in an automated manner
+* **Presentation: knitr
+* **Activity:** Navigate students through incorporating the Autotutorial 2
+  materials into a knitr document
+* **Reflection:** What would it take to consistently automate one component of
+  their analsyis? an entire paper?
+* **Extend:** Take the markdown document that they created in Autotutorial 2 and
+  automate it
+
+***Assessment:***
+* Time spent on case studies and presentations
+* Assess knowledge of command line arguments, python, R, make
+* Evaluate reactions to literate analyses from the literature
+* Use of resource materials
+* How well results match what we're looking for in the canned activities
+* Number of executable codeblocks in markdown document
+* Number, frequency, quality of commits in the "Extend" activity
+* Indication from future publications that automated analyses are being
+  published
 
 
 
