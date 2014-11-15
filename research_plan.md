@@ -129,6 +129,7 @@ research.
   * Legal aspects
   * Doodling - apps for that?
   * Many ELN have proprietary formats
+  * Can't run an analysis from the notebook
 
 
 
@@ -152,7 +153,7 @@ We have developed the outlines for an initial set of four autotutorials:
     analyses**
 * **Autotutorial 4: Making a computational notebook collaborative**
 
-Each autotutorial will include: (i) a rationale, (ii) description of the
+Each autotutorial is based on will include: (i) a rationale, (ii) description of the
 expected prior knowledge and misconceptions that participants may enter with,
 (iii) the expected major conceptual hurdles for participants, (iv) statement of
 learning goals and learning objectives, (v) description of any specific
@@ -163,7 +164,7 @@ determine whether the participant has met the goals as well as the effectiveness
 of the autotutorials, (viii) the intended audience for each activit, and (ix)
 the amount of time required for each activity. The proposed activities will be
 selected based on the idea of the 5Es of Engage, Explore, Explain, Evaluate,
-Elaborate, and Extend. Briefly, we each autotutorial starts by getting the
+Elaborate, and Extend [ref]. Briefly, we each autotutorial starts by getting the
 students to ENGAGE their prior knowledge by reading and reacting to a case
 study. Next, activities will be developed where the participant has to go into
 the literature or their research group to EXPLORE a topic further. This will
@@ -196,12 +197,18 @@ module. We will create a badge-based commendation system where participants gain
 varying points. In addition, participants will receive a certificate indicating
 completion of the program.
 
+The following are outlines for the starting point in the development of four
+autotutorials that seek to help microbiome researchers appreciate the
+limitations to reproducibility of data analysis in our discipline and gain the
+skills needed to overcome those limitations. As we develop, pilot, and assess
+the reactions to the autotutorials we will modify their content, style, and
+organization.
 
-### Autotutorials
-**Autotutorial 1: The importance of reproducible research and its relevance to studying the
-   human microbiome**
 
-* Rationale:
+**Autotutorial 1: The importance of reproducible research and its relevance to
+studying the human microbiome**
+
+* Rationale: 
 
 * Incoming:
   * Knowledge: At least a general familiarity with scientific method and
