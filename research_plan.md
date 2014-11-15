@@ -222,8 +222,10 @@ research.
     competitors
   * "My lab's papers don't have a reproducibility problem"
 
-***Conceptually difficult content:*** A lack of reproducibility indicates bad
-science or fraud.
+***Conceptually difficult content:*** The idea that a lack of reproducibility
+does not necessarily indicate bad science or fraud. Rather, it limits one's
+ability to assess the unerlying science and the ability to move the science
+forward.
 
 ***Learning goals:***
 * *Primary:* Understand that reproducible research refers to the ability of
@@ -275,72 +277,78 @@ science or fraud.
 **Autotutorial 2: Maintaining an "electron trail" when documenting data analysis
 workflows**
 
-* Rationale:
+***Rationale:***
 
-* Incoming:
-  * Knowledge:
-    * Experience writing a paper with a million versions (PhD comics)
-    * Appreciation that an analysis is not a linear process
-    * History of using applications like Dropbox and Box
-  * Misconceptions:
-    * My project isn't big enough for all of this
-    * Difference between binary (*.docx) and text files
-  * Conceptually difficult:
-    * difficulty with command line tools
-    * version control is a novel concept
+***Incoming:***
+* *Knowledge:*
+  * Frustration from writing a paper that has multiple versions from different
+    co-authors
+  * Appreciation that an analysis is not a linear process and requires
+    iterations that involve testing numerous parameters
+  * Familiartity with applications such as Dropbox and Box
+* *Misconceptions:*
+  * "My project isn't big enough for all of this"
+  * There's no difference between binary (*.docx) and text files
 
-* Learning goals:
-  * Primary: Understand the importance of documenting one's analysis
-  * Secondary: Appreciate the value of keeping track of the evolution of an
-    analysis
-  * Topic/Technology:
-    * Will focus on markdown because of it's tie in with so many other
-      technologies (knitr, IPython, GitHub, pandoc) that we will use in later
-      autotutorials.
-    * Will utilize git and GitHub for version contorl because of its popularity,
-      numerous add-on tools, and integration with other packages (e.g. RStudio,
-      XCode, etc.)
+***Conceptually difficult content:*** Many microbiome researchers have
+difficulty with command line tools and the concepts inherent in version control
+are novel.
 
-* Learning outcomes:
-  * Describe the process and importance of documenting the evolution of an
-    analysis pipeline
-  * Create and maintain a repository for their project that results in
-    documentation
+***Learning goals:***
+* *Primary:* Understand the importance of documenting one's analysis
+* *Secondary:* Appreciate the value of keeping track of the evolution of an
+  analysis
+* *Technology:*
+  * Will focus on markdown because it is used with numerous other technologies
+    (e.g. knitr, IPython, GitHub, pandoc) that we will also use in later
+    autotutorials.
+  * Will utilize git and GitHub for version control because of its popularity,
+    numerous add-on tools, and its integration with other packages (e.g.
+    RStudio, XCode, etc.)
 
-* Activities:
-  * Case study 1: The prospect of taping screen shots, print outs, command line
-    arguments into a paper-based notebook
-  * Case study 2: You, 3 months from now, are your most important collaborator.
-  * Presentation: Define literate programming; introduce wikis, IPython
-    notebooks, and knitr-based documents; differentiate between these options
-  * Go explore: have participants look at good and bad examples from published
-    papers; have them point out strengths and weaknesses
-  * Get input: How do the participants rank the options in terms of ease of use,
-    reproducibility, usability, and ability to riff off of?
-  * Demonstration: learning markdown (cook book)
-  * Activity: Format an unformatted document
-  * Case study 3: The time stamps on my files are a mess, how and when did they
-    get like this?!
-  * Demonstration: learning git (cook book); simple workflows, the log,
-    navigating the history, branches
-  * Quiz: link common git commands with their function
-  * Activity: Using git to track changes in formatting; go back through
-    history; branches
-  * Case study 4: Continuum of reproducibility -> document electronically what
-    you've done vs. a fully executable paper
-  * Extend: take the most recently published paper in your lab and write a
-    document describing how a figure was generated
+***Learning outcomes:***
+* Describe the process and importance of documenting the evolution of an
+  analysis pipeline
+* Create and maintain a repository for their project that results in
+  documentation
 
-* Assessment:
-  * Evaluate submitted strengths and weaknesses of their exploration of papers
-    documentation
-  * Quiz results
-  * How well activities match what we're looking for in the canned activities
-  * Time spent on case studies and presentations
-  * Number, frequency, quality of commits in the "Extend" activity
-  * Evidence for more advanced git commands
-  * Indication from future publications that more descriptive analysis methods
-    are being published? ($$$)
+***Activities:***
+* **Case study 1:** The prospect of taping screen shots, print outs, command
+  line arguments into a paper-based notebook (Limitations of paper-based
+  notebooks for microbiome projects)
+* **Case study 2:** You, 3 months from now, are your most important collaborator
+  (The importance of documenting and commenting your analysis)
+* **Presentation:** Define literate programming; introduce wikis, IPython
+  notebooks, and knitr-based documents; differentiate between these options
+* **Go explore:** have participants look at good and bad examples from published
+  papers; have them point out strengths and weaknesses
+* **Presentation:** Markdown, RStudio, and pandoc
+* **Activity:** Format an unformatted document
+* **Case study 3:** The time stamps on my files are a mess, how and when did they
+  get like this?! (Annotating document changes)
+* **Presentation:** git; simple workflows, the log,
+  navigating the history, branches
+* **Activity:** Using git to track changes in formatting; go back through
+  history; branches
+* **Case study 4:** Scenario that describes that there is a continuum of
+  reproducibility ranging from an electronic document that details what you've
+  done versus a document that has the actual analysis embeded within it.
+* **Extend:** take the most recently published paper in your lab and write a
+  document describing how a figure was generated
+
+***Assessment:***
+* Evaluate the strengths and weaknesses that the participants find in the papers
+  that they go and explore
+* Have participants rank the various platforms (i.e. wikis, knitr, IPython) in
+  terms of ease of use, reproducibility, usability, and ability to use as a
+  starting point to move fowrad
+* Quiz asking participants to link common git commands with their function
+* How well activities match what we're looking for in the canned activities
+* Time spent on case studies and presentations
+* Number, frequency, quality of commits in the "Extend" activity
+* Evidence for more advanced git commands
+* Is there an indication from future publications that more descriptive analysis
+  methods are being published?
 
 
 
