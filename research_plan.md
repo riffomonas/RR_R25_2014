@@ -192,10 +192,9 @@ them to provide their gender, age, race, ethnicity, level of education, career
 stage, institution, and self-ranking of proficiency with microbiome data
 analysis. Each autotutorial will have a variety of quantitative and qualitative
 assessments that will allow us to track a participant's progress through the
-module. We will create a badge-based system where participants gain varying
-points. At different thresholds we will supply the participant with a
-certificate indicating their progress.
-
+module. We will create a badge-based commendation system where participants gain
+varying points. In addition, participants will receive a certificate indicating
+completion of the program.
 
 
 ### Autotutorials
