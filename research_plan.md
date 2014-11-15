@@ -708,7 +708,12 @@ unique qualifications of Schloss to lead the project.
 
 ## Expected Outcomes
 
-
+* Improved reproducibility of microbiome analyses
+* Improved computational skills
+* Greater collaboration
+* Increased re-use of data and code
+* Motivation to develop additional modules to improve reproducibility and data
+  analysis skills
 
 
 
