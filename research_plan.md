@@ -141,107 +141,51 @@ research.
 
 
 ***Research Design***
-**Proposed modules**
----
+**Overview of proposed autotutorials**
+We have developed the outlines for an initial set of four autotutorials:
 
-### Modules will provide
-* instruction on the importance of computational notebooks
-* templates for setting up and maintaining a blog-based notebook
-* best practices for using version control software (e.g. git and GitHub)
-* discussion of code review as an mechanism for mentor-mentee interaction
-* best practices for using literate programming tools for fostering reproducible
-  research
+* **Autotutorial 1: The importance of reproducible research and its relevance to
+    studying the human microbiome**
+* **Autotutorial 2: Maintaining an "electron trail" when documenting data
+    analysis workflows**
+* **Autotutorial 3: Developing a computational laboratory notebook for iterative
+    analyses**
+* **Autotutorial 4: Making a computational notebook collaborative**
 
-
-
-The length of the proposed training module should be explained in terms
-of scope and depth of coverage of the subject matter and how the research
-education will be utilized by trainees, for example, a module on how to avoid
-confirmation bias to be taken by all beginning laboratory workers at the
-graduate student, postdoctoral fellow and beginning investigator level, or a
-module on appropriate design of animal studies to be taken immediately prior to
-beginning such work.
-
-Describe the plans for piloting the training module.
-
-
-
-
-
-
-### Plan
-
-Core components of a teachable unit
-* Learning goals: what will students know, understand, and be able to do?
-* Intended learning outcomes: what performances or behaviors will indicate
-  whether students have met the learning goals?
-* Assessment activities: What activities will give students and instructors
-  regular feedback about learning?
-* Classroom activities: What activities will engage a diversity of students in
-  learning?
-
-Themes of a teachable unit
-* Active learning
-* Assessment
-* Diversity - use male/female names in case studies; select papers from diverse
-  environments; make sure papers that participants read are open
-* Scientific teaching  
-
-
-Bloom hierarchy
-* Evaluation
-* Synthesis
-* Analysis
-* Application
-* Understanding
-* Knowledge
-
-
-Backward design
-1. Identify desired results
-2. Determine evidence for learning
-3. Plan learning experiences and instruction (activities)
-4. Align goals, activities, and assessments
-
-
-Filter for learning goals
-* Primary conceptual goals (these are *essential* to understand)
-* Secondary conceptual goals (these are *important* to understand)
-* Specific topics (these *illustrate* what is to be understood or present
-  *interesting* examples with which students should be familiar)
-
-Consider what students already know and target the difficult concepts
-* What prior knowledge, previously held ideas, or misconceptions might students
-  have?
-* What are the conceptually challenging aspects of this material?
-* What experiences will encourage students to share their misconceptions so they
-  can be addressed?
-
-
-For each module:
-* Indicate the expected incoming knowledge, possible misconceptions, and
-  conceptually difficult content
-* State the learning goals: what is *essential* for the student to learn
-  (primary) what is *important* to understand (secondary)?
-* State the intended learning outcomes: what performances or behaviors will
-  indicate whether students have met the learning goals?
-* Autotutorial activities: What activities will engage a diversity of students
-  in learning?
-  * Get the students to ENGAGE their prior knowledge at the beginning
-  * Make sure that activities are diverse and get the student to EXPLORE the
-    topic. Should not be able to merely click through a website.
-  * Topics and activities should start cookie cutter and proscribed, then be
-    more open-ended, and then get the participant to self-evaluate. As they go
-    through, they should have to do more EXPLAINing and less regurgitation
-  * Needs to have an activity where the participant can EVALUATE their practices
-    or those of their lab/discipline
-  * Final activity should be a launch point for the participant to go into
-    their own research (ELABORATE/EXTEND)
-* Assessment activities: What activities will give students and instructors
-  regular feedback about learning? Needs to evaluate the participants as well
-  as the module
-
-
+These autotutorials will be accessible to participants through a freely
+accessible website. Also, all materials will be available through a repository
+on GitHub so that others can develop their own workshops, suggest improvements,
+or provide additional autotutorials. Each autotutorial will include: (i) a
+rationale, (ii) description of the expected prior knowledge and misconceptions
+that participants may enter with, (iii) the expected major conceptual hurdles
+for participants, (iv) statement of learning goals and learning objectives, (v)
+description of any specific technology, platform, or language that is used to
+illustrate the material with a justification, (vi) overview of activities that
+will help the participant to meet the learning goals and objectives, (vii)
+description of assessments to determine whether the participant has met the
+goals as well as the effectiveness of the autotutorials, (viii) the intended
+audience for each activit, and (ix) the amount of time required for each
+activity. The proposed activities will be selected based on the idea of the 5Es
+of Engage, Explore, Explain, Evaluate, Elaborate, and Extend. Briefly, we each
+autotutorial starts by getting the students to ENGAGE their prior knowledge by
+reading and reacting to a case study. Next, activities will be developed where
+the participant has to go into the literature or their research group to EXPLORE
+a topic further. This will prevent participants from merely clicking through
+material. Each autotutorial will include a demonstration where the steps are
+highly proscribed, a more open-ended example that is used throughout the
+autotutorials that requires the participant to insert material that they have
+learned in the earlier activites, and a fully open-ended activity where the
+participant applies the material to their specific situation and analysis needs.
+This scheme will gradually "remove the training wheels" for the participant,
+encourage introspection and force them to do more EXPLAINing and less
+regurgitation. In addition, by the time they are doing the final activity within
+the autotutorial, the participant should be at a launch point for the
+participant (ELABORATE/EXTEND). Finally, each autotutorial will provide an
+activity where the participant can EVALUATE their practices or those of their
+lab and the research community. As much as is possible in an autotutorial, our
+strategy will reinforce several themes including active learning, diversity,
+multiple forms of qualitative and quantitative assessment, and scientific
+teaching.
 
 
 ### Autotutorials
