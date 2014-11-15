@@ -492,11 +492,11 @@ reproducible, but that it is also done well.
 * **Go explore:** Journals vary in their requirements for making data accessible
   and methods transparent. Go to the websites for your five favorite journals
   and describe their policies. Which of the journals seems the most "open"?
-* **Case study 2:** Congratulations, you just published a paper with reproducible
-  analyses! What hurdles remain to being fully reproducible? This case study
-  will get the participants to realize that they now have to make their data
-  and source code accessible and that there are limitations and benefits to the
-  various approaches
+* **Case study 2:** Congratulations, you just published a paper with
+  reproducible analyses! What hurdles remain to being fully reproducible? This
+  case study will get the participants to realize that they now have to make
+  their data and source code accessible and that there are limitations and
+  benefits to the various approaches
 * **Presentation:** Overview of storage possibilities including personal lab
   servers, public databases, and commercial options (e.g. DataDrayd, FigShare,
   Amazon, GitHub)
@@ -504,8 +504,8 @@ reproducible, but that it is also done well.
   original raw data? Are there metadata about the data? Is the analysis
   pipeline available?
 * **Presentation:** Submitting data to a commercial repository
-* **Activity:** Submit a data file to DataDryad and automate the retrieval of that
-  file
+* **Activity:** Submit a data file to DataDryad and automate the retrieval of
+  that file
 * **Demonstration:** Creating a presence on GitHub; pull/push workflow
 * **Activity:** Post repository to GitHub
 * **Demonstration:** Forking, pull requests, and code review
@@ -672,12 +672,18 @@ previous training efforts indicates that our approach does an exceptional job of
 engaging a diverse cross section of microbiologists.
 
 We take seriously our commitment to maintaining a low barrier to participation
-in our training modules. This includes insuring that the proposed training
-modules are compliant with section 508 of the Rehabilitation Act (29 U.S.C. '794
-d), as amended by the Workforce Investment Act of 1998 (P.L. 105–220). To
-achieve this, we will follow the recommendations provided at the "GSA 508
-Tutorials, Guidance, Checklists" website
-(http://www.gsa.gov/portal/content/103565).  
+in our training modules. The activities we selected use a variety of formats to
+communicate material including case studies, presentations, explorations,
+discussions, reflections, and opportunities to extend the information to their
+own project. In selecting these examples we will take care to represent a
+diversity of examples and researchers in the case study descriptions, papers
+that are selected for exploration, and stories that are used for examples. By
+fostering this diversity, we will be in a better position to insure that the
+proposed training modules are compliant with section 508 of the Rehabilitation
+Act (29 U.S.C. '794d), as amended by the Workforce Investment Act of 1998 (P.L.
+105–220). To achieve this, we will follow the recommendations provided at the
+"GSA 508 Tutorials, Guidance, Checklists" website
+(http://www.gsa.gov/portal/content/103565).
 
 
 ## Institutional Environment and Commitment
