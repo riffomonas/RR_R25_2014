@@ -332,7 +332,8 @@ are novel.
   history; branches
 * **Case study 4:** Scenario that describes that there is a continuum of
   reproducibility ranging from an electronic document that details what you've
-  done versus a document that has the actual analysis embeded within it.
+  done versus a document that has the actual analysis embeded within it. This
+  is a transition to the next autotutorial
 * **Extend:** take the most recently published paper in your lab and write a
   document describing how a figure was generated
 
