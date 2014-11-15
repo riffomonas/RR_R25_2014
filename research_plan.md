@@ -324,8 +324,8 @@ are novel.
   papers; have them point out strengths and weaknesses
 * **Presentation:** Markdown, RStudio, and pandoc
 * **Activity:** Format an unformatted document
-* **Case study 3:** The time stamps on my files are a mess, how and when did they
-  get like this?! (Annotating document changes)
+* **Case study 3:** The time stamps on my files are a mess, how and when did
+  they get like this?! (Annotating document changes)
 * **Presentation:** git; simple workflows, the log,
   navigating the history, branches
 * **Activity:** Using git to track changes in formatting; go back through
