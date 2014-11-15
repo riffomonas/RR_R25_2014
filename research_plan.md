@@ -152,41 +152,42 @@ We have developed the outlines for an initial set of four autotutorials:
     analyses**
 * **Autotutorial 4: Making a computational notebook collaborative**
 
+Each autotutorial will include: (i) a rationale, (ii) description of the
+expected prior knowledge and misconceptions that participants may enter with,
+(iii) the expected major conceptual hurdles for participants, (iv) statement of
+learning goals and learning objectives, (v) description of any specific
+technology, platform, or language that is used to illustrate the material with a
+justification, (vi) overview of activities that will help the participant to
+meet the learning goals and objectives, (vii) description of assessments to
+determine whether the participant has met the goals as well as the effectiveness
+of the autotutorials, (viii) the intended audience for each activit, and (ix)
+the amount of time required for each activity. The proposed activities will be
+selected based on the idea of the 5Es of Engage, Explore, Explain, Evaluate,
+Elaborate, and Extend. Briefly, we each autotutorial starts by getting the
+students to ENGAGE their prior knowledge by reading and reacting to a case
+study. Next, activities will be developed where the participant has to go into
+the literature or their research group to EXPLORE a topic further. This will
+prevent participants from merely clicking through material. Each autotutorial
+will include a demonstration where the steps are highly proscribed, a more
+open-ended example that is used throughout the autotutorials that requires the
+participant to insert material that they have learned in the earlier activites,
+and a fully open-ended activity where the participant applies the material to
+their specific situation and analysis needs. This scheme will gradually "remove
+the training wheels" for the participant, encourage introspection and force them
+to do more EXPLAINing and less regurgitation. In addition, by the time they are
+doing the final activity within the autotutorial, the participant should be at a
+launch point for the participant (ELABORATE/EXTEND). Finally, each autotutorial
+will provide an activity where the participant can EVALUATE their practices or
+those of their lab and the research community. As much as is possible in an
+autotutorial, our strategy will reinforce several themes including active
+learning, diversity, multiple forms of qualitative and quantitative assessment,
+and scientific teaching.
+
+### Module infrastructure
 These autotutorials will be accessible to participants through a freely
 accessible website. Also, all materials will be available through a repository
 on GitHub so that others can develop their own workshops, suggest improvements,
-or provide additional autotutorials. Each autotutorial will include: (i) a
-rationale, (ii) description of the expected prior knowledge and misconceptions
-that participants may enter with, (iii) the expected major conceptual hurdles
-for participants, (iv) statement of learning goals and learning objectives, (v)
-description of any specific technology, platform, or language that is used to
-illustrate the material with a justification, (vi) overview of activities that
-will help the participant to meet the learning goals and objectives, (vii)
-description of assessments to determine whether the participant has met the
-goals as well as the effectiveness of the autotutorials, (viii) the intended
-audience for each activit, and (ix) the amount of time required for each
-activity. The proposed activities will be selected based on the idea of the 5Es
-of Engage, Explore, Explain, Evaluate, Elaborate, and Extend. Briefly, we each
-autotutorial starts by getting the students to ENGAGE their prior knowledge by
-reading and reacting to a case study. Next, activities will be developed where
-the participant has to go into the literature or their research group to EXPLORE
-a topic further. This will prevent participants from merely clicking through
-material. Each autotutorial will include a demonstration where the steps are
-highly proscribed, a more open-ended example that is used throughout the
-autotutorials that requires the participant to insert material that they have
-learned in the earlier activites, and a fully open-ended activity where the
-participant applies the material to their specific situation and analysis needs.
-This scheme will gradually "remove the training wheels" for the participant,
-encourage introspection and force them to do more EXPLAINing and less
-regurgitation. In addition, by the time they are doing the final activity within
-the autotutorial, the participant should be at a launch point for the
-participant (ELABORATE/EXTEND). Finally, each autotutorial will provide an
-activity where the participant can EVALUATE their practices or those of their
-lab and the research community. As much as is possible in an autotutorial, our
-strategy will reinforce several themes including active learning, diversity,
-multiple forms of qualitative and quantitative assessment, and scientific
-teaching.
-
+or provide additional autotutorials.
 
 ### Autotutorials
 **Autotutorial 1: The importance of reproducible research and its relevance to studying the
