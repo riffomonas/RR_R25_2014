@@ -183,11 +183,20 @@ autotutorial, our strategy will reinforce several themes including active
 learning, diversity, multiple forms of qualitative and quantitative assessment,
 and scientific teaching.
 
-### Module infrastructure
 These autotutorials will be accessible to participants through a freely
 accessible website. Also, all materials will be available through a repository
 on GitHub so that others can develop their own workshops, suggest improvements,
-or provide additional autotutorials.
+or provide additional autotutorials. To gain access to the autotutorial each
+participant will need to create an account. Creation of the account will require
+them to provide their gender, age, race, ethnicity, level of education, career
+stage, institution, and self-ranking of proficiency with microbiome data
+analysis. Each autotutorial will have a variety of quantitative and qualitative
+assessments that will allow us to track a participant's progress through the
+module. We will create a badge-based system where participants gain varying
+points. At different thresholds we will supply the participant with a
+certificate indicating their progress.
+
+
 
 ### Autotutorials
 **Autotutorial 1: The importance of reproducible research and its relevance to studying the
