@@ -285,7 +285,7 @@ can record and annotate the flow of ideas as an analysis plan takes shape.
     co-authors
   * Appreciation that an analysis is not a linear process and requires
     iterations that involve testing numerous parameters
-  * Familiartity with applications such as Dropbox and Box
+  * Familiarity with applications such as Dropbox and Box
 * *Misconceptions:*
   * "My project isn't big enough for all of this"
   * There's no difference between binary (*.docx) and text files
@@ -717,15 +717,31 @@ unique qualifications of Schloss to lead the project.
 
 
 ## Expected Outcomes
-
-* Improved reproducibility of microbiome analyses
-* Improved computational skills
-* Greater collaboration
-* Increased re-use of data and code
-* Motivation to develop additional modules to improve reproducibility and data
-  analysis skills
-
-
+At the most fundamental level, we expect to raise microbiome researcher's
+awareness of the growing concern regarding reproducibility and the ramifications
+for a lack of reproducibility. Through the autotutorials that we have proposed,
+we expect the reproducibility of the studies published by microbiome
+researchers who take the module will be significantly enhanced. Because
+microbiome research is a subset of the broader field of microbial ecology that
+is interested in microbial communities in everything from soils to the air, we
+anticipate that these scientists will benefit from this training as well. If we
+are successful in enhancing the reproducibility of microbiome research, then we
+anticipate that there will be an expansion in the number of studies that build
+off of the data from previous studies. This will lead to increased reuse of data
+and code and greater collaboration between researchers. Each of these outcomes
+will have a significant impact on microbiome research. We also expect that a
+secondary outcome of this module will be the improved computational skills of
+those that take the module. This expectation is based on the observation that
+many of the tools employed to improve reproducibility incorporate programming
+languages such as bash, R, and Python; it is simply too cumbersome to develop an
+automated analysis document using close-sourced tools with a graphical user
+interface. Finally, the success of this module will generate the momentum needed
+to develop additional modules to improve reproducibility and data analysis
+skills. Broader adoption of the skills needed to insure that microbiome
+analyses are reproducible must occur for the science to advance. Through the
+development of the mothur software package, our research group has a track
+record that demonstrates that we are uniquely poised to develop a training
+module that will bring about this change.
 
 
 ## Potential Problems & Alternative Strategies
