@@ -146,13 +146,11 @@ research.
 **Overview of proposed autotutorials**
 We have developed the outlines for an initial set of four autotutorials:
 
-* **Autotutorial 1: The importance of reproducible research and its relevance to
-    studying the human microbiome**
-* **Autotutorial 2: Maintaining an "electron trail" when documenting data
-    analysis workflows**
-* **Autotutorial 3: Developing a computational laboratory notebook for iterative
-    analyses**
-* **Autotutorial 4: Making a computational notebook collaborative**
+#. **The importance of reproducible research and its relevance to studying the
+  human microbiome**
+#. **Maintaining an "electron trail" when documenting data analysis workflows**
+#. **Developing a computational laboratory notebook for iterative analyses**
+#. **Making a computational notebook collaborative**
 
 Each autotutorial is based on will include: (i) a rationale, (ii) description of the
 expected prior knowledge and misconceptions that participants may enter with,
@@ -212,12 +210,14 @@ critical to start the module by establishing the importance of reproducible
 research.
 
 ***Incoming:***
+
 * *Knowledge:* At least a general familiarity with scientific method and
   microbiome research
 * *Misconceptions:*
+
   * Data and methods should be shrouded to protect research group from
     competitors
-  * "My lab's papers don't have a reproducibility problem"
+  * "My lab's papers don't have a reproducibility problem"  
 
 ***Conceptually difficult content:*** The idea that a lack of reproducibility
 does not necessarily indicate bad science or fraud. Rather, it limits one's
@@ -225,20 +225,24 @@ ability to assess the unerlying science and the ability to move the science
 forward.
 
 ***Learning goals:***
+
 * *Primary:* Understand that reproducible research refers to the ability of
   another researcher to use your methods to reproduce your results
 * *Secondary:*
-  * Be able to articulate the causes and possible solutions for the lack of
+
+    * Be able to articulate the causes and possible solutions for the lack of
     reproducibility in microbiome research
-  * Appreciate that an inability to reproduce another researcher's results
+    * Appreciate that an inability to reproduce another researcher's results
     limits the ability to build off of that work
 
 ***Learning outcomes:***
+
 * Articulate the importance of making raw data and detailed methods accessible
 * Identify various technologies as solutions to practices that limit
   reproducibility
 
 ***Activities (2 hrs):***
+
 * **Case study 1:** Lab publishes a paper and gets inundated by emails asking
   about the nitty gritty of the methods. The trainee that did the study has gone
   on to a new job. This is an example of the common problem in microbiome
@@ -261,6 +265,7 @@ forward.
   and score them for their reproducibility using a supplied checklist
 
 ***Assessments:***
+
 * Initial responses to the Reflection activity
 * Matching task linking failure to reproduce results to a practice/technology
   discussed in the Presentations
@@ -281,13 +286,17 @@ the skills they need to maintain an iterative electronic notebook where they
 can record and annotate the flow of ideas as an analysis plan takes shape.
 
 ***Incoming:***
+
 * *Knowledge:*
+
   * Frustration from writing a paper that has multiple versions from different
     co-authors
   * Appreciation that an analysis is not a linear process and requires
     iterations that involve testing numerous parameters
   * Familiarity with applications such as Dropbox and Box
+
 * *Misconceptions:*
+
   * "My project isn't big enough for all of this"
   * There's no difference between binary (*.docx) and text files
 
@@ -296,6 +305,7 @@ difficulty with command line tools and the concepts inherent in version control
 are novel.
 
 ***Learning goals:***
+
 * *Primary:* Understand the importance of documenting one's analysis
 * *Secondary:* Appreciate the value of keeping track of the evolution of an
   analysis
@@ -308,12 +318,14 @@ are novel.
     RStudio, XCode, etc.)
 
 ***Learning outcomes:***
+
 * Describe the process and importance of documenting the evolution of an
   analysis pipeline
 * Create and maintain a repository for their project that results in
   documentation
 
 ***Activities:***
+
 * **Case study 1:** The prospect of taping screen shots, print outs, command
   line arguments into a paper-based notebook (Limitations of paper-based
   notebooks for microbiome projects)
@@ -339,6 +351,7 @@ are novel.
   document describing how a figure was generated
 
 ***Assessment:***
+
 * Evaluate the strengths and weaknesses that the participants find in the papers
   that they go and explore
 * Have participants rank the various platforms (i.e. wikis, knitr, IPython) in
@@ -365,13 +378,17 @@ build upon the content from the previous autotutorial by adding executable
 code chunks to make a fully reproducible analysis document.
 
 ***Incoming:***
+
 * Knowledge:
+
   * This will build upon the information gained from Autotutorial 2
   * Will need to have some programming knowledge to make it all the way through
     this autotutorial
   * Likely have familiarity with how to use GUI and web-based tools and their
     strengths and weaknesses
+
 * Misconceptions:
+
   * Programming is hard
   * Tools with graphical interfaces or those that are available online are easy
     to use
@@ -384,12 +401,14 @@ Python and then jump back in. Also, the idea of a program generate the text
 is a very different way of thinking for most researchers.
 
 ***Learning goals:***
+
 * *Primary:* Appreciate the value of a fully automated analysis pipeline for
   insuring reproducibility
 * *Secondary:* Be able to assess their skills as an analyst and what additional
   skills they need to develop. May need to see this as an advanced topic that
   people come back to repeatedly until they develop competencies
 * *Technology:*
+
   * make, knitr, and IPython notebooks will be discussed because they are the
     only ones widely in use although IPython may soon be replaced by Jupyter
   * This module will not focus on programming languages or specific analysis
@@ -397,11 +416,13 @@ is a very different way of thinking for most researchers.
     variety of literate programming contexts
 
 ***Learning outcomes:***
+
 * Explain what is meant by "literate" programming and its value in reproducible
   research
 * Create a fully reproducible, automated, and documented analysis pipeline
 
 ***Activities:***
+
 * **Case study 1:** Postdoc performs a statistical analysis in
   Excel/Minitab. New data comes in, now what? Case study will demonstrate the
   value of having an automated analysis that can easily be adjusted to acommpany
@@ -430,6 +451,7 @@ is a very different way of thinking for most researchers.
   automate it
 
 ***Assessment:***
+
 * Time spent on case studies and presentations
 * Assess knowledge of command line arguments, python, R, make
 * Evaluate reactions to literate analyses from the literature
@@ -451,20 +473,25 @@ research groups. This also helps to insure that not only is an analysis
 reproducible, but that it is also done well.
 
 ***Incoming:***
+
 * Knowledge:
+
   * Familiarity with the scientific method as an iterative process
   * Knowledge of different types of public databases
   * Experience requesting strains and reagents from others for wetlab-based
     experiments
+
 * Misconceptions: The end goal of a project is a paper, rather than buildign to
   the next paper
 
 ***Conceptually difficult material:***
+
 * Releasing data to the public
 * Making analysis accessible to the research supevisor or those that do not
   understand code
 
 ***Learning goals:***
+
 * *Primary:* Science is an iterative process, were reproducibility is only the
   starting point to moving the field forward
 * *Secondary:* Understand how to use technology to engage in peer review of
@@ -474,11 +501,13 @@ reproducible, but that it is also done well.
   be made private or public
 
 ***Learning outcomes:***
+
 * Appreciate the value of different platforms for archiving raw data
 * Experience forking, modifying, and submitting/receiving pull requests
 * Articulate the strengths and weaknesses of different open source licenses
 
 ***Activities:***
+
 * **Case study 1:** A research group has their paper accepted at
   NatureScienceCell and another researcher that is perceived as being a
   competitor reaches out to them to get access to their raw data and data
@@ -517,6 +546,7 @@ reproducible, but that it is also done well.
   other's code
 
 ***Assessment:***
+
 * Time spent on case studies and presentations
 * Go explore results
 * How well results match what we are looking for in the canned activities
@@ -557,8 +587,8 @@ materials.
 We hope that this project will be a seed to engage other developers and the
 microbiome community, in general, improve the reproducibility of microbiome
 research. All instructional materials will be made freely available through a
-website at www.retromonas.org. To disseminate these materials we will several
-avenues. We will:  
+website at www.riffomonas.org. To disseminate these materials we will pursue
+several avenues. We will:  
 
 * Utilize social media (e.g. Twitter and blogs) to promote a reproducible
 microbiome research initiative. This will create enthusiasm in the microbiome
@@ -567,8 +597,9 @@ community and foster their interest in developing and improving the modules.
 reproducibility in microbiome research and the development of our teaching
 modules.
 * Exploit several microbiome-based e-mailing lists that Schloss (PI) is part of
-including the extensive mothur mailing list (N=XXXX users) and the Human
-Microbiome Project XXXXX mailing list (N=XXXX users).
+including the extensive mothur mailing list (N=3,062 users) and the Human
+Microbiome Project Data Analysis and Coordination Center website and mailing
+list (http://www.hmpdacc.org).
 * Network with other microbiome researchers (see letters of support) to
 facilitate workshops at 3 universities each of the two years of  the project.
 This will serve ot help us develop the modules as well as  disseminate the
@@ -585,8 +616,8 @@ reproducibility in microbiome research. Once funding for this project has been
 exhausted, the project should be able to continue on as a democratic, open
 source, community-supported endeavor. To support this all materials related
 to the project will be maintained as a public GitHub project repository
-(http://www.github/retromonas). In fact, the development of this proposal is
-available at http://www.github/retromonas/reproduciblity_R25.
+(http://www.github/riffomonas). In fact, the development of this proposal is
+available at http://www.github/riffomonas/reproduciblity_R25.
 
 
 ## Principal Investigator
