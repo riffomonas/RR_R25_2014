@@ -404,14 +404,14 @@ code chunks to make a fully reproducible analysis document.
 
   * Programming is hard
   * Tools with graphical interfaces or those that are available online are easy
-    to use
+    to use or are more reliable programs
 
 ***Conceptually difficult content:*** Although it is probably fair to expect
 people who are analyzing large microbiome datasets have experience writing
 scripts to analyze their data, this is often not the reality. Will have to
 create branch point here for people to jump off, go do some training in R or
 Python and then jump back in. Also, the idea of a program generate the text
-is a very different way of thinking for most researchers.
+is a very different, but welcomed, approach for most researchers.
 
 ***Learning goals:***
 
@@ -434,32 +434,32 @@ is a very different way of thinking for most researchers.
   research
 * Create a fully reproducible, automated, and documented analysis pipeline
 
-***Activities:***
+***Activities (~4 hrs):***
 
-* **Case study 1:** Postdoc performs a statistical analysis in
-  Excel/Minitab. New data comes in, now what? Case study will demonstrate the
-  value of having an automated analysis that can easily be adjusted to acommpany
-  new data or requirements.
+* **Case study 1:** Postdoc performs a statistical analysis in Excel/Minitab.
+  New data comes in, now what? Case study will demonstrate the value of having
+  an automated analysis that can easily be adjusted to acommpany new data or
+  requirements. (10 min)
 * **Case study 2:** You are revising your paper and begin to notice a number of
   typos where you have either mis-transcribed a mean and 95% confidence
   interval or have the wrong one inserted. Now what? Case study will emphasize
   the problems encountered by copying and pasting or manually trainscribing
-  results
+  results. (10 min)
 * **Presentation:** Define literate programming; describe tools for improving
-  reproducibility including open source code, make, knitr, IPython
+  reproducibility including open source code, make, knitr, IPython (30 min)
 * **Go explore:** React to several examples in the microbiome literature of
-  literate analyses
-* **Presentation:** make
+  literate analyses (30 min)
+* **Presentation:** make (30 min)
 * **Activity:** Navigate students through incorporating make into the Autotutorial
-  2 materials
-* **Presentation:** IPython/Jupyter notebooks
+  2 materials (30 min)
+* **Presentation:** IPython/Jupyter notebooks (30 min)
 * **Activity:** Navigate students through incorporating the Autotutorial 2
-  materials into IPyton notebooks in an automated manner
-* **Presentation: knitr
+  materials into IPyton notebooks in an automated manner (30 min)
+* **Presentation: knitr (30 min)
 * **Activity:** Navigate students through incorporating the Autotutorial 2
-  materials into a knitr document
+  materials into a knitr document (30 min)
 * **Reflection:** What would it take to consistently automate one component of
-  their analsyis? an entire paper?
+  their analsyis? an entire paper? (15 min)
 * **Extend:** Take the markdown document that they created in Autotutorial 2 and
   automate it
 
