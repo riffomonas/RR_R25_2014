@@ -77,28 +77,27 @@ habits for engaging in reproducible research**
 
 ***Introduction.*** The *objective* of this aim is to create a framework within
 a research team for documenting research progress, collaborating between
-researchers and supervisors, and ensuring the reproducibility of their research
-as it is disseminated in publications and oral presentations. We *hypothesize*
-that training microbiome researchers in the best practices for documenting their
-analyses will lead to greater transperancy in publications, improved
-reproducibility, and increased collaboration within and between research groups.
-The *rational* for pursuing this aim is based on personal experiences gained
-through supporting the mothur software package, supervising a number of
-microbiome research projects, and the observation that most microbiome research
-papers provide minimalist descriptions of the methods used to analyze sequencing
-data and the raw data are frequently not made publicly available. We will
-achieve the objective of this aim by developing a module consisting of a series
-of autotutorials that any microbiome researcher can follow to quickly develop
-the needed skills to generate a fully reproducible and automated analysis. This
-will improve the the overall *analysis and reporting* of microbiome research.
+researchers and supervisors, and ensuring the reproducibility of their data
+analysis as it is disseminated in publications and oral presentations. We
+*hypothesize* that training microbiome researchers in the best practices for
+documenting their analyses will lead to greater transparency in publications,
+improved reproducibility, and increased collaboration within and between
+research groups. The *rational* for pursuing this aim is based on personal
+experiences gained through supporting the mothur software package, supervising a
+number of microbiome research projects, and the observation that most microbiome
+research papers provide minimalist descriptions of the methods used to analyze
+sequencing data and the raw data are frequently not made publicly available. We
+will achieve the objective of this aim by developing a module consisting of four
+autotutorials that any microbiome researcher can follow to quickly develop the
+needed skills to generate a fully reproducible and automated analysis. This will
+improve the the overall *analysis and reporting* of microbiome research.
 Furthermore, our autotutorials will include content for research supervisors who
 are not personally doing the analyses but need an entry point for insuring the
-validity and reproducibility of their trainees' research. This will imporove the
+validity and reproducibility of their trainees' research. This will improve the
 *culture of microbiome science*. The content of this module will be made freely
 and publicly available and will serve as a starting point for developing other
 training modules to improve the rigor and reproducibility of microbiome
-research.
-
+research. 
 
 ***Justification & Feasibility***
 
