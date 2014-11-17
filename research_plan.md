@@ -5,32 +5,31 @@ great enthusiasm in understanding how the structure and function of the
 microbiome relates to human health {The Human Microbiome Consortium, 2012 #2616;
 The Human Microbiome Consortium, 2012 #2617}. This initiative has resulted
 in a expansion of support at the NIH, who now supports these research efforts
-across 27 institutes, centers, and offices. The funding for microbiome research
-more than doubled between fiscal years 2010 and 2012 to a total of more than
-$180 million for nearly 300 grants and contracts (Lita Proctor, NHGRI, personal
-communication). This financial support, combined with the development of next
-generation sequencing platforms resulted in a meteoric rise in
-microbiome-related publications (see Fig. 1). This massive expansion in
-microbiome research has relied on biomedical researchers to do their own
-bioinformatics leading to a common complaint that researchers are either unaware
-of or underserved by existing tools {Mardis, 2010 #1;Gevers, 2012 #2711}. The
-experience across the microbiome research domain has largely paralleled that of
-other biomedical research areas were, as the RFA for this competition notes,
-"graduate students were often significantly dependent on the mentor or the
-mentor's lab for the training received, and postdoctoral fellows were primarily
-dependent on the mentor or mentor's lab at all institutions.  Rather than
-being learned in prescribed curricula, **training in good laboratory practices
-that influence data reproducibility appears to be largely passed down from
-generation to generation of working scientists**, with substantial variation
-from laboratory to laboratory." It is clear that microbiome research is an
-important part of the NIH portfolio and that there is a dearth of training for
-its practitioners in the development of best practices related to insuring
-reproducibility of methods. The contribution of the proposed project will
-provide this growing community of researchers the tools they need to improve the
-reproducibility of their research. ***This will yield a significant vertical step
-in the field because we will have greater confidence in the results and we are
-better enabled to use previous studies as a launch point for further
-investigations.*** The support of this project will yield multiple benefits to
+across 16 of the 27 institutes, centers, and offices. The funding for microbiome
+research more than doubled between fiscal years 2010 and 2012 to a total between
+$120 and 150 million for nearly 300 grants and contracts (Lita Proctor, NHGRI,
+personal communication). This financial support, combined with the development
+of next generation sequencing platforms resulted in a meteoric rise in
+microbiome-related publications (see Figure 1). ![Fig. 1](citation.pdf) This
+massive expansion in microbiome research has relied on biomedical researchers to
+do their own bioinformatics leading to a common complaint that researchers are
+either unaware of or underserved by existing tools {Mardis, 2010 #1;Gevers, 2012
+#2711}. The experience across the microbiome research domain has largely
+paralleled that of other biomedical research areas were, as the RFA for this
+competition notes, "graduate students were often significantly dependent on the
+mentor or the mentor's lab for the training received, and postdoctoral fellows
+were primarily dependent on the mentor or mentor's lab at all institutions.
+Rather than being learned in prescribed curricula, **training in good laboratory
+practices that influence data reproducibility appears to be largely passed down
+from generation to generation of working scientists**, with substantial
+variation from laboratory to laboratory." It is clear that microbiome research
+is an important part of the NIH portfolio and that there is a dearth of training
+for its practitioners to insure reproducibility of methods. The proposed project
+will provide this growing community of researchers the tools they need to
+improve the reproducibility of their research. ***This will yield a significant
+vertical step in the field because we will have greater confidence in the
+results and we will be better enabled to use previous studies as a launch point
+for further investigations.*** This project will yield multiple benefits to
 NIH-funded projects and beyond. First, although the current proposal focuses on
 microbiome research, it is reasonable to expect that with some customization,
 the materials could be easily tailored to other disciplines where novice
@@ -40,37 +39,36 @@ ecologists who study environments as diverse as hydrothermal vents and soil
 {Lesniewski, 2012 #2732;Schloss, 2006 #992} will benefit from the training they
 can receive through the proposed instructional materials.
 
-
 ## Innovation
 Our research group has been at the forefront of microbiome research through our
 development of the popular software package, mothur, which has now been cited
 more than 2,200 times, making it the most widely cited software package for
-analyzing microbiome data [refs]. Through our development of mothur, we have
-engaged thousands of researchers through a wiki, forum, and mailing list that
-support mothur and through face-to-face workshops held at conferences,
-universities, and as part of larger training initiatives. We recently conducted
-a survey that was advertised through our newsletter and received 170 responses.
-First, 41% of users were graduate students, 41% were PhD-level scientists, and
-12% were faculty. Second, 48% of the respondents have used mothur within
-Windows, 32% within Mac OS X, and 45% within Linux. Finally and perhaps most
-surprising, 41% have no programming background. The others reported knowing R
-(35%), Perl (32%), Python (27%), C/C++ (16%), Java (10%), or some other language
-(10%).  These results and our experiences emphasize the that most individuals
-carrying out microbiome research have limited experience in performing
-bioinformatics research and are largely self-taught. In fact, from these
-experiences, we have met the graduate students, postdocs, and faculty that the
-quote from the RFA above describes and know that we are in a unique position to
-engage this community. Although there are some exceptions, the *status quo* has
-generally involved incomplete methods descriptions that are frequently at odds
-with the papers being referenced and the use of "in house" scripts and pipelines
-that are not disseminated with the final manuscript. ***Therefore, the proposed
-research is innovative, in our opinion, because it will fulfil and unmet need to
-develop instructional materials to train the growing number of microbiome
-researchers best practices and insure that their analyses are reproducible by
-others.*** Once it is possible to confidently reproduce analyses it will be
-possible to move on to determining whether the analyses were done well and to
-build off of previous analyses to expand our knowledge of how the microbiome
-affects transitions between health and disease.
+analyzing microbiome data {Schloss, 2009 #1816}. The mothur project has allowed
+us to engage thousands of researchers through the wiki, forum, and mailing list
+and through face-to-face workshops held at conferences, universities, and as
+part of larger training initiatives. We recently conducted a survey that was
+advertised through our newsletter and received 170 responses. First, 41% of
+users were graduate students, 41% were PhD-level scientists, and 12% were
+faculty. Second, 48% of the respondents have used mothur within Windows, 32%
+within Mac OS X, and 45% within Linux. Finally and perhaps most surprising, 41%
+had no programming experience. The others reported knowing R (35%), Perl (32%),
+Python (27%), C/C++ (16%), Java (10%), or some other language (10%).  These
+results and our experiences emphasize the that most individuals carrying out
+microbiome research have limited experience in performing bioinformatics
+research and are largely self-taught. In fact, from these experiences, we have
+met the graduate students, postdocs, and faculty that the quote from the RFA
+above describes and know that we are in a unique position to engage this
+community. Although there are some exceptions, the *status quo* has generally
+involved incomplete methods descriptions that are frequently at odds with the
+papers being referenced and the use of "in house" scripts and pipelines that are
+not disseminated with the final manuscript. ***Therefore, the proposed research
+is innovative, in our opinion, because it will fulfill and unmet need to develop
+instructional materials to train the growing number of microbiome researchers
+best practices and insure that their analyses are reproducible by others.***
+Once it is possible to confidently reproduce analyses it will be possible to
+move on to determining whether the analyses were done well and to build off of
+previous analyses to expand our knowledge of how the microbiome affects
+transitions between health and disease.
 
 
 ## Proposed Research Education Program
