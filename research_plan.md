@@ -139,6 +139,7 @@ research.
 * MICRBIOL612
 * our papers published with digital notebooks
 * preliminary autotutorials
+* NESCENT Reproducible Research Hackathon
 
 
 ***Research Design***
