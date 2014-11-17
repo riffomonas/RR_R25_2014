@@ -138,13 +138,65 @@ research.
 
 **Preliminary Studies.**  Through the development of the mothur software package
 our research group has emerged as leaders in the field of microbiome research.
+To help foster the development of the mothur software package we offered
+co-authorship to any researcher that would volunteer to post their analysis
+workflow to the mothur wiki {Schloss, 2009 #1816}. These analyses examples
+(www.mothur.org/wiki/Analysis_examples) have become a critical forum for
+new researchers to learn to use mothur and how it can be applied to diverse
+research questions. These analysis examples have also become the basis for
+workshops that are have been developed by ourselves and other researchers (see
+letter of support from Teal). Through interacting with other microbiome
+researchers through these workshops, exchanges on the user forum
+(www.mothur.org/forum), our mailing list, and data-driven blog (blog.mothur.org)
+we have developed a unique perspective of who the typical microbiome researcher
+is. This places us in a unique position to lead the proposed project.
 
+At the University of Michigan, Schloss teaches MICRBIOL 612, "Microbial
+Informatics". This course is a forum for teaching microbiologists and
+immunologists how to program using the R language. Each year this course is
+offered it grows and the representation of women and researchers from other
+departments have expanded. Virtually every class includes an opportunity for
+students to pair program on a simple exercise and a live coding example by
+Schloss. Both of these innovative approaches to teaching allow students to see
+programming in action, to correct each other and the instructor, and to gain
+confidence in new material. Students are taught to use the knitr R package and
+GitHub so that they can complete and submit assignments and projects. Again, the
+experience of teaching a programming course and introducing students to version
+control has given Schloss a unique perspective on the common problems people
+encounter when working with these tools.
 
-* mothur instructional materials / workshop / reproducibility
-* MICRBIOL612
-* our papers published with digital notebooks
-* preliminary autotutorials
-* NESCENT Reproducible Research Hackathon
+Many people have begun to ask for greater reproduciblity and transperancy in
+the description of methods; however, few have actually attempted to implement
+these strategies in their own research. In the past year, the Schloss lab has
+begun to release an executable digital notebook to accompany each of their
+papers. Examples include two papers that were published in *Nature* and *Applied
+and Environmental Microbiology* {Baxter, 2014 #3371; Ding, 2014 #3289}. As
+indicated by the letter from Grice, the IPython noteobok that accompanies the
+Nature* paper inspired her research group to use that platform to make their
+research more reproducible. We have received several emails from researchers
+thanking us for making that document available so that they could attempt to
+adopt the methods for their own related research questions. We are in the
+process of revisiting older papers from the lab to release similar digital
+notebooks. These are availble with the papers as well as through the lab's
+GitHub website (schlosslab.org) and repository (github.com/schlosslab). In
+addition, recent talks that Schloss has given have utilized the slidify R
+package to generate reproducible presentations. These talks are availble on his
+GitHub site (pschloss.github.io). These examples demonstrate the value of making
+data analyses available in an automated and reproducible form. Our initiative in
+making these materials publically available as well as that of others will
+provide a number of case studies that we can point to in the autotutorials that
+we develop for the proposed module.
+
+The Research Design that follows presents outlines for four autotutorials that
+will be developed for the proposed module. This proposal, the autotutorial
+outlines, and initial efforts to develop the outlines into actual instructional
+materials are all available at www.riffomonas.org and through the project GitHub
+repository at github.com/riffomonas. Finally, as indicated by the letter from
+Teal, Schloss will be participating in the Reproducible Research Hackathon at
+the National Evolutionary Synthesis Center (NESCent) in December 2014
+(www.nescent.org/cal/calendar_detail.php?id=1125) where researchers from diverse
+disciplines will gather to discuss ideas for creating instructional materials
+to improve research reproducibility.
 
 
 ***Research Design***
