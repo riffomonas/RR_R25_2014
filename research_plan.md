@@ -214,9 +214,9 @@ organization.
 **Autotutorial 1: The importance of reproducible research and its relevance to
 studying the human microbiome**
 
-***Rationale:*** Very few published microbiome studies can be reproduced based
-on the level of detail provided in the published paper. In some cases, it is
-not possible to access the raw data and associated metadata. Thus, it is
+***Rationale:*** Very few published microbiome studies can be easily reproduced
+based on the level of detail provided in the published paper. In some cases, it
+is not possible to access the raw data and associated metadata. Thus, it is
 critical to start the module by establishing the importance of reproducible
 research.
 
@@ -232,7 +232,7 @@ research.
 
 ***Conceptually difficult content:*** The idea that a lack of reproducibility
 does not necessarily indicate bad science or fraud. Rather, it limits one's
-ability to assess the unerlying science and the ability to move the science
+ability to assess the underlying science and the ability to move the science
 forward.
 
 ***Learning goals:***
@@ -252,22 +252,23 @@ forward.
 * Identify various technologies as solutions to practices that limit
   reproducibility
 
-***Activities (2 hrs):***
+***Activities (~2 hrs):***
 
 * **Case study 1:** Lab publishes a paper and gets inundated by emails asking
   about the nitty gritty of the methods. The trainee that did the study has gone
   on to a new job. This is an example of the common problem in microbiome
   research (10 min)
-* **Case study 2:** Student finds Meadows et al. IPython notebook [ref] and wants to
-  do a secondary analysis. This is an example of a good practice in microbioe
-  research (10 min)
+* **Case study 2:** Student finds Meadow et al. {Meadow, 2014 #3431} IPython
+  notebook and wants to do a secondary analysis. This is an example of a good
+  practice in microbiome research (10 min)
 * **Presentation:** Describe of the recent history highlighting problems in
   reproducibility across science and in the microbiome literature (20 min).
-* **Go explore:** Wommack and Ravel editorial from Microbiome [ref] (5 min)
+* **Go explore:** Ravel and Wommack editorial from Microbiome {Ravel, 2014
+  #3432} (10 min)
 * **Reflection:** What are the areas of microbiome research that are most
   prone to limit reproduciblity? (5 min)
-* **Go explore:** Read and analyze a recent microbiome paper to identify where there are
-  possible limitations to reproducibility (20 min)
+* **Go explore:** Read and analyze a recent microbiome paper to identify where
+  there are possible limitations to reproducibility (20 min)
 * **Presentation:** Identify areas that are the most prone to limiting
   reproducibility and provide a technology overview that links technologies
   to specific hurdles in terms of insuring reproducibility (20 min).
