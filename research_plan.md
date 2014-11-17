@@ -773,16 +773,22 @@ mechanisms provided within each autotutorial outline.
 
 
 ## Future Directions
-
-* Establish an evolving resource for describing tools and practices for
-  further development of these materials and practices (e.g. make, authoring
-  papers, etc)
-* Blogging
-* Presentations
-* LaTex
-
-
-
+The microbiome research field is rapidly expanding and has evoked some amount
+of skepticism (e.g. the concept of enterotypes, the presence of a placental
+microbiome). Insuring the reproducibility of our experiments and analyses is
+critical. We are optimistic that the material described in this proposal will
+improve the overall reproducibility of the field. One question that needs to be
+addressed is how reproducible the data analysis is in the typical microbiome
+study. We anticipate using this module as a starting point to evaluate the
+availability of raw data, description of methods, and general reproducibility of
+data analysis within the microbiome research area. Furthermore, the the four
+autotutorials described in this proposal will hopefully form the nucleus of a
+collection of instructional materials designed to improve the reproducibility of
+microbiome research. We foresee additional materials directed at producing
+reproducible quantitative blog posts (e.g. Jekyll), presentations (e.g.
+slidify), and methods of rendering markdown files (e.g. LaTeX). In the future,
+we hope that the microbiome resarch community will embrace this initiative and
+that it will evolve because of the contributions of other researchers.  
 
 
 ## Timeline
