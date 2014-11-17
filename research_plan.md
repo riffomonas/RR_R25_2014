@@ -295,7 +295,7 @@ workflows**
 like traditional bench science. Rather, they are iterative and involve
 significant interaction with computers. This Autotutorial will give participants
 the skills they need to maintain an iterative electronic notebook where they
-can record and annotate the flow of ideas as an analysis plan takes shape.
+can record and annotate the flow of ideas as their analysis takes shape.
 
 ***Incoming:***
 
@@ -314,7 +314,7 @@ can record and annotate the flow of ideas as an analysis plan takes shape.
 
 ***Conceptually difficult content:*** Many microbiome researchers have
 difficulty with command line tools and the concepts inherent in version control
-are novel.
+are likely to be novel to most researchers.
 
 ***Learning goals:***
 
@@ -336,29 +336,30 @@ are novel.
 * Create and maintain a repository for their project that results in
   documentation
 
-***Activities:***
+***Activities (~4 hrs):***
 
 * **Case study 1:** The prospect of taping screen shots, print outs, command
   line arguments into a paper-based notebook (Limitations of paper-based
-  notebooks for microbiome projects)
+  notebooks for microbiome projects) (10 min)
 * **Case study 2:** You, 3 months from now, are your most important collaborator
-  (The importance of documenting and commenting your analysis)
+  (The importance of documenting and commenting your analysis) (10 min)
 * **Presentation:** Define literate programming; introduce wikis, IPython
-  notebooks, and knitr-based documents; differentiate between these options
+  notebooks, and knitr-based documents; differentiate between these options (30
+  min)
 * **Go explore:** have participants look at good and bad examples from published
-  papers; have them point out strengths and weaknesses
-* **Presentation:** Markdown, RStudio, and pandoc
-* **Activity:** Format an unformatted document
+  papers; have them point out strengths and weaknesses (20 min)
+* **Presentation:** Markdown, RStudio, and pandoc (30 min)
+* **Activity:** Format an unformatted document (30 min)
 * **Case study 3:** The time stamps on my files are a mess, how and when did
-  they get like this?! (Annotating document changes)
-* **Presentation:** git; simple workflows, the log,
-  navigating the history, branches
+  they get like this?! (Annotating document changes) (10 min)
+* **Presentation:** git; simple workflows, the log, navigating the history,
+  branches (30 min)
 * **Activity:** Using git to track changes in formatting; go back through
-  history; branches
+  history; branches (45 min)
 * **Case study 4:** Scenario that describes that there is a continuum of
   reproducibility ranging from an electronic document that details what you've
   done versus a document that has the actual analysis embeded within it. This
-  is a transition to the next autotutorial
+  is a transition to the next autotutorial (10 min)
 * **Extend:** take the most recently published paper in your lab and write a
   document describing how a figure was generated
 
