@@ -1,4 +1,4 @@
-# Research Strategy
+# Research Strategy
 ## Significance
 The NIH-funded Human Microbiome Project (HMP) Roadmap Initiative engendered
 great enthusiasm in understanding how the structure and function of the
@@ -117,15 +117,16 @@ the same methods and population and model, or even the same data. While some of
 the lack of reproducibility may be due to fraud, it is more likely that this is
 due to incomplete methods descriptions as a result of limited space in journals.
 
-NIH Director Dr. Fancis Collins and Principal Deputy Director Lawrence Tabak
+NIH Director Dr. Francis Collins and Principal Deputy Director Lawrence Tabak
 recently published a commentary in *Nature* expressing their concern and
 outlined several possible explanations for the lack of reproducibility {Collins,
 2014 #3436}. In this commentary they point to an increased desire for authors to
 make provocative claims over presenting methods, poor training in experimental
 design, lack of opportunity to publish negative results or results that question
-previous studies, and the inability to access the original data. A recent
-editorial by Jacuqes Ravel and Eric Wommack, the editors of the journal
-*Microbiome*, suggested that there may be a reproducibility problem in
+previous studies, and the inability to access the original data. As Ioannidis
+recently stated, we need to adopt a "replication culture" {Ioannidis, 2014
+#3447}. A recent editorial by Jacuqes Ravel and Eric Wommack, the editors of the
+journal *Microbiome*, suggested that there may be a reproducibility problem in
 microbiome research {Ravel, 2014 #3356}. We have witnessed similar problems
 within the microbiome research community as it continues to grow.
 
@@ -159,23 +160,24 @@ fundamentally a problem of documentation. The mainstay of science has been the
 use of bound paper notebooks that serve as an experimental diary of a
 researcher's efforts. In a discipline where we are generating large amounts of
 data that are analyzed using complex computational workflows this format has
-outlived its usefulness. It is common to find notebooks with large amounts
-of printed materials taped to the pages and in our experience, people quickly
-lose interest in transcribing command line commands into their notebooks. Added
-difficulties include the inability to incorporate multimedia and datasets. Our
-informal survey of scientists found that many trainees usually update their
-notebook prior to meeting with their supervisor when the notebook will be
-inspected. This suggests that the trainee does not find the paper-based notebook
-format useful. In fact, the notebook is often depicted as a legal document that
-once it is filled will live out its life on a shelp in the supervior's office.
-In contrast, electronic notebooks have a more dynamic and collaborative style.
-Experiments can be tagged and searched to easily retreive methods and results
-and can be shared electronically in real-time. Problems with electronic
-notebooks is that they can be expensive and have proprietary formats that limit
-their portability to other systems. For the purposes of bioinformatic analyses
-although electronic notebooks are an advance over paper-based notebooks, the
-inability to execute an analysis from within the notebook is an added
-limitation.
+outlived its usefulness {Nussbeck, 2014 #3446}. It is common to find notebooks
+with large amounts of printed materials taped to the pages and in our
+experience, people quickly lose interest in transcribing command line commands
+into their notebooks. Added difficulties include the inability to incorporate
+multimedia and datasets. Our informal survey of scientists found that many
+trainees usually update their notebook prior to meeting with their supervisor
+when the notebook will be inspected. This suggests that the trainee does not
+find the paper-based notebook format useful. In fact, the notebook is often
+depicted as a legal document that once it is filled will live out its life on a
+shelp in the supervior's office. In contrast, electronic notebooks have a more
+dynamic and collaborative style {Bird, 2013 #3445;Kihlen, 2003 #3444;Noble,
+2009 #3451}. Experiments can be tagged and searched to easily retrieve methods
+and results and can be shared electronically in real-time. Problems with
+electronic notebooks is that they can be expensive and have proprietary formats
+that limit their portability to other systems. For the purposes of bioinformatic
+analyses although electronic notebooks are an advance over paper-based
+notebooks, the inability to execute an analysis from within the notebook is an
+added limitation.
 
 In the current proposal, we describe autotutorials that will help microbiome
 researchers engage in "literate programming" because it is an approach that
@@ -200,11 +202,11 @@ control repository such as git {Chacon, 2009 #3442}. This then allows an
 investigator to maintain an annotated history for the evolution of an analysis
 pipeline, create branches to experiment with different methods, and make the
 repository available to others who can then adapt or collaborate to improve the
-pipeline. Considering all of these tools are widely used, freely available, open
-sourced, and can be used online or offline they have considerable potential to
-replace the traditional paper-based notebook for the microbiome analyst. Put
-simply, these tools enable one to do as Knuth suggests: blend executable code
-within documentation.
+pipeline {Zagalsky, 2015 #3448;Petre, 2014 #3449}. Considering all of these
+tools are widely used, freely available, open sourced, and can be used online or
+offline they have considerable potential to replace the traditional paper-based
+notebook for the microbiome analyst. Put simply, these tools enable one to do as
+Knuth suggested: blend executable code within documentation.
 
 Albeit on a limited scale, the literate programming approach has been applied to
 varying degrees with in the microbiome research community. Some researchers,
@@ -359,10 +361,10 @@ organization.
 studying the human microbiome**
 
 ***Rationale:*** Very few published microbiome studies can be easily reproduced
-based on the level of detail provided in the published paper. In some cases, it
-is not possible to access the raw data and associated metadata. Thus, it is
-critical to start the module by establishing the importance of reproducible
-research.
+based on the level of detail provided in the published paper {Ravel, 2014 #3356}.
+In some cases, it is not possible to access the raw data and associated
+metadata. Thus, it is critical to start the module by establishing the
+importance of reproducible research.
 
 ***Incoming:***
 
@@ -927,11 +929,11 @@ communities in everything from soils to the air, we anticipate that these
 scientists will benefit from this training as well. If we are successful in
 enhancing the reproducibility of microbiome research, then we anticipate that
 there will be an expansion in the number of studies that build off of the data
-and analyses of previous studies. This will lead to increased reuse of data and code and
-greater collaboration between researchers. Each of these outcomes will have a
-significant impact on microbiome research. We also expect that a secondary
+and analyses of previous studies. This will lead to increased reuse of data and
+code and greater collaboration between researchers. Each of these outcomes will
+have a significant impact on microbiome research. We also expect that a secondary
 outcome of this module will be the improved computational skills of those that
-take the module. This expectation is based on the observation that many of the
+take the module {Wilson, 2014 #3450}. This expectation is based on the observation that many of the
 tools employed to improve reproducibility incorporate programming languages such
 as bash, R, and Python (see Autotutorial 3); it is simply too cumbersome to
 develop an automated analysis document using close-sourced tools with a
