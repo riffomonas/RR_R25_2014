@@ -542,7 +542,15 @@ create a badge-based commendation system where participants gain varying points.
 In addition, participants will receive a certificate indicating completion of
 the program. As we track the participants activities within each module we will
 also be able to evaluate the usefulness of each activity and modify the content
-to overcome misconceptions or confusion in the material.
+to overcome misconceptions or confusion in the material. Finally, we will assess
+the overall success of the module by sending an automated email to each
+participant at 1, 2, and 3 year anniversaries of the date they completed the
+module. These emails will invite the participant to complete a survey that
+describes their current reproducible research  practices. We will monitor how
+they have changed relative to when they started the module. The evaluation plan
+that we have developed blends quantitative and qualitative measures of the
+participants' learning and behavior as well as the quality of the instructional
+materials.
 
 
 ## Dissemination Plan
