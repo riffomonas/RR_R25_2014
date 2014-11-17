@@ -99,6 +99,7 @@ and publicly available and will serve as a starting point for developing other
 training modules to improve the rigor and reproducibility of microbiome
 research.
 
+
 ***Justification & Feasibility***
 
 **Review of Relevant Literature**
@@ -127,10 +128,15 @@ research.
   * Doodling - apps for that?
   * Many ELN have proprietary formats
   * Can't run an analysis from the notebook
+* Methods of developing automated data analysis documents
+  * Literate programming: markdown/LaTeX
+  * make
+  * knitr/RStudio/slidify
+  * IPython/Project Jupyter
 
 
 
-**Preliminary Studies**
+**Preliminary Studies.**  
 
 * mothur instructional materials / workshop / reproducibility
 * MICRBIOL612
@@ -834,7 +840,7 @@ collection of instructional materials designed to improve the reproducibility of
 microbiome research. We foresee additional materials directed at producing
 reproducible quantitative blog posts (e.g. Jekyll), presentations (e.g.
 slidify), and methods of rendering markdown files (e.g. LaTeX). In the future,
-we hope that the microbiome resarch community will embrace this initiative and
+we hope that the microbiome research community will embrace this initiative and
 that it will evolve because of the contributions of other researchers.  
 
 
