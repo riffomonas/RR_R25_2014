@@ -97,7 +97,7 @@ validity and reproducibility of their trainees' research. This will improve the
 *culture of microbiome science*. The content of this module will be made freely
 and publicly available and will serve as a starting point for developing other
 training modules to improve the rigor and reproducibility of microbiome
-research. 
+research.
 
 ***Justification & Feasibility***
 
@@ -149,18 +149,26 @@ We have developed the outlines for an initial set of four autotutorials:
 #. **Developing a computational laboratory notebook for iterative analyses**
 #. **Making a computational notebook collaborative**
 
-Each autotutorial is based on will include: (i) a rationale, (ii) description of the
-expected prior knowledge and misconceptions that participants may enter with,
-(iii) the expected major conceptual hurdles for participants, (iv) statement of
-learning goals and learning objectives, (v) description of any specific
-technology, platform, or language that is used to illustrate the material with a
-justification, (vi) overview of activities that will help the participant to
-meet the learning goals and objectives, (vii) description of assessments to
-determine whether the participant has met the goals as well as the effectiveness
-of the autotutorials, (viii) the intended audience for each activit, and (ix)
-the amount of time required for each activity. The proposed activities will be
-selected based on the idea of the 5Es of Engage, Explore, Explain, Evaluate,
-Elaborate, and Extend [ref]. Briefly, we each autotutorial starts by getting the
+The design for each autotutorial is adapted from guidelines developed through
+the HHMI-funded Scientific Teaching workshop developed by Dr. Jo Handelsman with
+whom Schloss did his postdoctoral training {Handelsman, 2004 #925; Handelsman,
+2007 #3429}. The guiding principle is that educational materials should be
+developed using the scientific method to yield materials that accurately depict
+how science is done. Furthermore, participants should be facilitated as they
+construct their own knowledge using a diversity of activities. Each autotutorial
+will include: (i) a rationale for how it fits within the broader module, (ii)
+description of the expected prior knowledge and misconceptions that participants
+may have, (iii) the expected major conceptual hurdles for participants, (iv)
+statement of learning goals and learning objectives, (v) description of any
+specific technology, platform, or language that is used to illustrate the
+material with a justification, (vi) overview of activities that will help the
+participant to meet the learning goals and objectives, (vii) description of
+assessments to determine whether the participant has met the goals as well as
+the effectiveness of the autotutorials, (viii) the intended audience for each
+activity, and (ix) the amount of time required for each activity. The proposed
+activities will be selected based on an expanded concept of the 5Es: Engage,
+Explore, Explain, Evaluate, Elaborate, and Extend {Eisenkraft, 2003 #3430;
+Handelsman, 2007 #3429}. Briefly, each autotutorial will start by getting the
 students to ENGAGE their prior knowledge by reading and reacting to a case
 study. Next, activities will be developed where the participant has to go into
 the literature or their research group to EXPLORE a topic further. This will
@@ -172,24 +180,30 @@ and a fully open-ended activity where the participant applies the material to
 their specific situation and analysis needs. This scheme will gradually "remove
 the training wheels" for the participant, encourage introspection and force them
 to do more EXPLAINing and less regurgitation. In addition, by the time they are
-doing the final activity within the autotutorial, the participant should be at a
+doing the final activity within the autotutorial the participant should be at a
 launch point for the participant (ELABORATE/EXTEND). Finally, each autotutorial
 will provide an activity where the participant can EVALUATE their practices or
 those of their lab and the research community. As much as is possible in an
-autotutorial, our strategy will reinforce several themes including active
-learning, diversity, multiple forms of qualitative and quantitative assessment,
-and scientific teaching.
+autotutorial, our strategy will incorporate active learning, diversity, multiple
+forms of qualitative and quantitative assessment, and scientific teaching.
 
-These autotutorials will be accessible to participants through a freely
-accessible website. Also, all materials will be available through a repository
-on GitHub so that others can develop their own workshops, suggest improvements,
-or provide additional autotutorials. To gain access to the autotutorial each
-participant will need to create an account. Creation of the account will require
-them to provide their gender, age, race, ethnicity, level of education, career
-stage, institution, and self-ranking of proficiency with microbiome data
+The autotutorials for this module will be accessible to participants through a
+freely accessible website. We are using this project to launch the "Riffomonas"
+project (www.riffomonas.org). The title of this project refers to the musical
+idea of "riffing" and a comon suffix for bacterial genera. Riffing is where a
+musician repeats a theme and alters the theme using their own style. This is
+what we want for microbiome research - the ability to repeat an analysis, but
+then be able to take the analysis further with additional data or new methods.
+All instructional and assessment materials will be available through a
+repository on GitHub so that others can fork the material to develop their own
+workshops, make pull requests to suggest improvements, or provide additional
+autotutorials. To gain access to the module each participant will need to
+create an account. Creation of the account will require them to provide their
+gender, age, race, ethnicity, level of education, career stage, institution,
+email address, and self-rating of their proficiency with microbiome data
 analysis.
 
-The following are outlines for the starting point in the development of four
+The following outlines are the starting point in the development of four
 autotutorials that seek to help microbiome researchers appreciate the
 limitations to reproducibility of data analysis in our discipline and gain the
 skills needed to overcome those limitations. As we develop, pilot, and assess
