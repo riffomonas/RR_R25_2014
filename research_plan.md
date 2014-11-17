@@ -102,38 +102,122 @@ research.
 
 ***Justification & Feasibility***
 
-**Review of Relevant Literature**
+**Review of Relevant Literature.** There is broad concern over the general
+reproducibility of biomedical research. A commonly cited example comes from
+researchers at Amgen who have replicated 53 "landmark" papers and could only
+confirm 6 (11%) of the findings {Begley, 2012 #3433}. Even more disturbing is
+the conventional wisdom among pharmaceutical companies that at least 50% of
+published studies from academic laboratories cannot be replicated in industrial
+laboratories {Prinz, 2011 #3435}. Needless to say, the lack of reproducibility
+is expensive in terms of lost time and materials and significantly reduces the
+rate of "bench to bedside" translation. The reproducibility problem manifests
+itself at multiple scales by the inability to replicate results when an
+experiment is repeated with similar methods but a different population or model,
+the same methods and population and model, or even the same data. While some of
+the lack of reproducibility may be due to fraud, it is more likely that this is
+due to incomplete methods descriptions as a result of limited space in journals.
 
-* Reproducible research
-  * Basis for concern over reproducible research broadly
-  * Basis for concern within the microbiome research world
-  * Examples of microbiome research papers that co-publish computational notebooks
-* Problems with paper/pen notebooks
-  * Note useful to the researcher
-  * Not collaborative - live most of their lives in a file cabinet or a shelf
-    - this would be very collaborative
-    - permanence
-  * Difficult to index through
-    - tags
-    - search engine accessible
-  * Inefficient, difficult to incorporate multi-media
-    - makes writing more efficient
-    - multi-media very easy to incorporate
-  * Incomplete - large datasets impossible to tape into document
-  * Difficult to share with potential employers
-* Problems with digital notebooks
-  * Learning curve - but people need to get over that in computational disciplines
-  * Security/privacy concerns
-  * Legal aspects
-  * Doodling - apps for that?
-  * Many ELN have proprietary formats
-  * Can't run an analysis from the notebook
-* Methods of developing automated data analysis documents
-  * Literate programming: markdown/LaTeX
-  * make
-  * knitr/RStudio/slidify
-  * IPython/Project Jupyter
+NIH Director Dr. Fancis Collins and Principal Deputy Director Lawrence Tabak
+recently published a commentary in *Nature* expressing their concern and
+outlined several possible explanations for the lack of reproducibility {Collins,
+2014 #3436}. In this commentary they point to an increased desire for authors to
+make provocative claims over presenting methods, poor training in experimental
+design, lack of opportunity to publish negative results or results that question
+previous studies, and the inability to access the original data. A recent
+editorial by Jacuqes Ravel and Eric Wommack, the editors of the journal
+*Microbiome*, suggested that there may be a reproducibility problem in
+microbiome research {Ravel, 2014 #3356}. We have witnessed similar problems
+within the microbiome research community as it continues to grow.
 
+As yet, there has not been an Amgen style meta-analysis of data availability and
+reproducibility in the microbiome literature. Unfortunately, we are not
+optimistic that results from our discipline are any more reproducible than other
+fields. Raw data are frequently unavailable and methods descriptions are sparse.
+For example, a recent study compared the microbiota of the Hadza and Europeans
+and observed that the Hadza had a significantly enriched diversity and
+surprisingly had a large fraction of spirochaetes in their gut microbiota
+{Schnorr, 2014 #3437}. This study received a considerable amount of attention in
+the media and so we were interested in looking closer at the data.
+Unfortunately, we were unable to get access to the raw data. Half of the data
+was avaialbe through the MG-RAST website in a processed form. After several
+email exchanges, we finally gained access to the raw data and one of the files
+was corrupted. After sorting through that problem, we quickly realized that the
+presence of Spirochaeate 16S rRNA gene sequences in the datasets was due to the
+presence of a large number of low quality short sequences. This indicated that
+the reads were unlikely from Spirochaetes, but were rather artifacts. This is
+just one example of the difficulty of obtaining the raw data from a study that
+was further compounded by an incomplete methods description. Finally, as pointed
+out by Collins and Tabak, there are few opportunities now for us to disseminate
+our re-analysis of the original data and so the idea that the Hadza have
+Spirochaetes in their gut persists.
+
+As we describe throughout the current proposal, we believe that examples such as
+the Hadza microbiota study occur because traditionally trained bench scientists
+are informally trained to become bioinformaticists and do not have an
+appreciation for the level of detail required to reproduce a study. This is
+fundamentally a problem of documentation. The mainstay of science has been the
+use of bound paper notebooks that serve as an experimental diary of a
+researcher's efforts. In a discipline where we are generating large amounts of
+data that are analyzed using complex computational workflows this format has
+outlived its usefulness. It is common to find notebooks with large amounts
+of printed materials taped to the pages and in our experience, people quickly
+lose interest in transcribing command line commands into their notebooks. Added
+difficulties include the inability to incorporate multimedia and datasets. Our
+informal survey of scientists found that many trainees usually update their
+notebook prior to meeting with their supervisor when the notebook will be
+inspected. This suggests that the trainee does not find the paper-based notebook
+format useful. In fact, the notebook is often depicted as a legal document that
+once it is filled will live out its life on a shelp in the supervior's office.
+In contrast, electronic notebooks have a more dynamic and collaborative style.
+Experiments can be tagged and searched to easily retreive methods and results
+and can be shared electronically in real-time. Problems with electronic
+notebooks is that they can be expensive and have proprietary formats that limit
+their portability to other systems. For the purposes of bioinformatic analyses
+although electronic notebooks are an advance over paper-based notebooks, the
+inability to execute an analysis from within the notebook is an added
+limitation.
+
+In the current proposal, we describe autotutorials that will help microbiome
+researchers engage in "literate programming" because it is an approach that
+allows one to fully integrate documentation with computational methods and
+results. Literate programming was initially described by Knuth as {Knuth, 1992 #3438}:
+
+> A methodology that combines a programming language with a documentation
+> language, thereby making programs more robust, more portable, more easily
+> maintained, and arguably more fun to write than programs that are written only
+> in a high-level language. The main idea is to treat a program as a piece of
+> literature, addressed to human beings rather than to a computer.
+
+In the proposed module, students will learn to use markdown to write text
+(daringfireball.net/projects/markdown/).  Markdown is a method for formatting
+text that is easy to read and write and is well-supported by a number of tools,
+including pandoc (johnmacfarlane.net/pandoc/index.html), for converting to a
+diverse array of formats including html, docx, and pdf. Other developers have
+created tools such as Sweave {Leisch, 2002 #3440}, knitr {Leisch, 2002 #3440},
+and IPython interactive computing notebooks {Perez, 2007 #3439}. Since all of
+these files are text-based, it is possible to maintain them under a version
+control repository such as git {Chacon, 2009 #3442}. This then allows an
+investigator to maintain an annotated history for the evolution of an analysis
+pipeline, create branches to experiment with different methods, and make the
+repository available to others who can then adapt or collaborate to improve the
+pipeline. Considering all of these tools are widely used, freely available, open
+sourced, and can be used online or offline they have considerable potential to
+replace the traditional paper-based notebook for the microbiome analyst. Put
+simply, these tools enable one to do as Knuth suggests: blend executable code
+within documentation.
+
+Albeit on a limited scale, the literate programming approach has been applied to
+varying degrees with in the microbiome research community. Some researchers,
+including ourselves, have used it as a way to describe how calculations were
+performed and figures were generated {e.g. \Meadow, 2014 #3368;
+Ding, 2014 #3370; Howe, 2014 #3423}. Others, also including ourselves, have used
+the approach to write entire books and papers in which methods and results are
+imbedded directly into the text, tables, and figures {e.g. \Baxter, 2014 #3371;
+Xie, #3360; Gandrud,  #3443}. The goal of the current proposal is to develop a
+module that will train microbiome researchers to see the value of this type of
+documentation, to learn develop these types of documents, and use them to
+interact with each other to improve the overall reproducibility and quality of
+microbiome analyses.
 
 
 **Preliminary Studies.**  Through the development of the mothur software package
