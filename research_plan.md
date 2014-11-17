@@ -599,39 +599,39 @@ materials.
 
 ## Dissemination Plan
 We hope that this project will be a seed to engage other developers and the
-microbiome community, in general, improve the reproducibility of microbiome
-research. All instructional materials will be made freely available through a
+microbiome community to improve the reproducibility of microbiome data analysis.
+All instructional materials will be made freely available through a
 website at www.riffomonas.org. To disseminate these materials we will pursue
-several avenues. We will:  
+several avenues including:  
 
-* Utilize social media (e.g. Twitter and blogs) to promote a reproducible
-microbiome research initiative. This will create enthusiasm in the microbiome
-community and foster their interest in developing and improving the modules.
-* Publish at least two manuscripts describing the issue of
-reproducibility in microbiome research and the development of our teaching
-modules.
-* Exploit several microbiome-based e-mailing lists that Schloss (PI) is part of
-including the extensive mothur mailing list (N=3,062 users) and the Human
-Microbiome Project Data Analysis and Coordination Center website and mailing
-list (http://www.hmpdacc.org).
-* Network with other microbiome researchers (see letters of support) to
-facilitate workshops at 3 universities each of the two years of  the project.
-This will serve ot help us develop the modules as well as  disseminate the
-modules.
+* Social media (e.g. Twitter and blogs) to promote a reproducible microbiome
+research initiative. This will create enthusiasm in the microbiome community and
+foster their interest in developing and improving the modules.
+* At least two manuscripts that will address the issue of reproducibility in
+microbiome research and the development of our teaching modules.
+* Microbiome-based e-mailing lists that Schloss (PI) is part of including the
+extensive mothur mailing list, which currently has more than 3,000 registered
+users and the Human Microbiome Project Data Analysis and Coordination Center
+website and mailing list (http://www.hmpdacc.org).
+* Networking with other microbiome researchers (see letters of support) to
+facilitate workshops at 3 universities each of the two years of the project (see
+the letters of support). This will serve to help us develop the modules as well
+as  disseminate the modules.
 * Utilize our connections within the American Society for Microbiology
 to advertise advertise the module through *Microbe* magazine and in workshop
 offerings at the society's General Meetings in 2016 and 2017 (see letter of
 support from ASM).
 
-In addition to a website that hosts information about the instructional
-materials, we intend to continue to develop instructional materials and best
-practices beyond the funded period of this project to foster greater
-reproducibility in microbiome research. Once funding for this project has been
-exhausted, the project should be able to continue on as a democratic, open
-source, community-supported endeavor. To support this all materials related
-to the project will be maintained as a public GitHub project repository
-(http://www.github/riffomonas). In fact, the development of this proposal is
-available at http://www.github/riffomonas/reproduciblity_R25.
+In addition to www.riffomonas.org, which will host information about the
+instructional materials, we intend to continue to develop instructional
+materials and best practices beyond the funded period of this project to foster
+greater reproducibility in microbiome research (see Future Directions). Once
+funding for this project has been exhausted, the project should be able to
+continue on as a democratic, open source, community-supported endeavor. To
+support this all materials related to the project will be maintained as a public
+GitHub project repository (www.github.com/riffomonas). In fact, the
+development of this proposal is available at
+www.github.com/riffomonas/reproduciblity_R25.
 
 
 ## Principal Investigator
