@@ -823,6 +823,17 @@ that it will evolve because of the contributions of other researchers.
 
 
 ## Timeline
-Provide a timeline for module development, piloting and refinement,
-dissemination, evaluation, and maintenance.  This timeline must propose making
-the training publicly available within two years of the award date
+The two years of this project will allow us to develop, pilot, assess, refine,
+and disseminate the module. For three additional unfunded years we will provide
+maintenance and follow-up assessment of the module.
+
+|               | Q3 '15 | Q4 '15 | Q1 '16 | Q2 '16 | Q3 '16 | Q4 '16 | Q1 '17 | Q2 '17 |  Y3-Y5 |
+|---------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| Initial draft |   X    |    X   |        |        |        |        |        |        |        |
+| Pilot         |        |    X   |    X   |    X   |    X   |        |        |        |        |
+| Assess        |        |    X   |    X   |    X   |    X   |    X   |    X   |    X   |    X   |
+| Refine        |        |        |    X   |    X   |    X   |    X   |        |        |        |
+| Disseminate   |        |        |        |        |        |        |    X   |    X   |    X   |
+| Manuscript 1  |        |        |        |    X   |        |        |        |        |        |
+| Manuscript 2  |        |        |        |        |        |        |        |    X   |        |
+| ASM Workshop  |        |        |        |    X   |        |        |        |    X   |        |
