@@ -799,19 +799,20 @@ to advance. Through the development of the mothur software package, our research
 group has a track record that demonstrates that we are uniquely poised to
 develop a training module that will bring about this change.  
 
+
 ## Potential Problems & Alternative Strategies
 We foresee two potential problems that could arise during this project. First,
 it may be difficult for us to monitor the long term behavioral changes in the
 participants. We intend to follow-up with participants every year for three
 years to complete a survey of how the material in the workshop has affected
-their research strategy. This follow-up will likely extend beyond the life of
-the funding mechanism for most participants. However, because it is possible to
-automate the dispersal of emails to past participants asking them to complete a
-survey, it will be possible to perform the follow-up with minimal effort. A
-second potential problem is the content of the module materials. The outlines
-provided for the four autotutorials in our module represent a first iteration
-of developing the content. As we proceed, we may realize that the participants
-have a deep prior knowledge in a particular area making some of the content
+their research strategy. For most participants this follow-up will likely extend
+beyond the life of the funding mechanism. However, because it is possible to
+automate the dispersal of emails asking past participants to complete a survey,
+it will be possible to perform the follow-up with minimal effort. A second
+potential problem is the content of the module materials. The outlines provided
+for the four autotutorials in our module represent a first iteration of
+developing the content. As we proceed, we may realize that the participants have
+a deep prior knowledge in a particular area making some of the content
 unnecessary or a more limited prior knowledge, which will require us to add
 background material. We will assess the alignment of the participants' prior
 knowledge with our learning goals and activities through the assessment
