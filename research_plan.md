@@ -136,7 +136,9 @@ research.
 
 
 
-**Preliminary Studies.**  
+**Preliminary Studies.**  Through the development of the mothur software package
+our research group has emerged as leaders in the field of microbiome research.
+
 
 * mothur instructional materials / workshop / reproducibility
 * MICRBIOL612
