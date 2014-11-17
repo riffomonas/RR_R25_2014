@@ -1,5 +1,7 @@
-# Research Strategy
+# Research Strategy
+
 ## Significance
+
 The NIH-funded Human Microbiome Project (HMP) Roadmap Initiative engendered
 great enthusiasm in understanding how the structure and function of the
 microbiome relates to human health {The Human Microbiome Consortium, 2012 #2616;
@@ -10,10 +12,10 @@ research more than doubled between fiscal years 2010 and 2012 to a total between
 $120 and 150 million for nearly 300 grants and contracts (Lita Proctor, NHGRI,
 personal communication). This financial support, combined with the development
 of next generation sequencing platforms resulted in a meteoric rise in
-microbiome-related publications (see Figure 1). ![Fig. 1](citation.pdf) This
+microbiome-related publications (see figure at right). ![Fig. 1](citation.pdf) This
 massive expansion in microbiome research has relied on biomedical researchers to
 do their own bioinformatics leading to a common complaint that researchers are
-either unaware of or underserved by existing tools {Mardis, 2010 #1;Gevers, 2012
+either unaware of or underserved by existing tools {Mardis, 2010 #3452;Gevers, 2012
 #2711}. The experience across the microbiome research domain has largely
 paralleled that of other biomedical research areas were, as the RFA for this
 competition notes, "graduate students were often significantly dependent on the
@@ -33,7 +35,7 @@ for further investigations.*** This project will yield multiple benefits to
 NIH-funded projects and beyond. First, although the current proposal focuses on
 microbiome research, it is reasonable to expect that with some customization,
 the materials could be easily tailored to other disciplines where novice
-practitioners are implementign their own bioinformatic analyses. Second,
+practitioners are implementing their own bioinformatic analyses. Second,
 microbiome research is a specialized form of microbial ecology. Other microbial
 ecologists who study environments as diverse as hydrothermal vents and soil
 {Lesniewski, 2012 #2732;Schloss, 2006 #992} will benefit from the training they
@@ -90,7 +92,7 @@ sequencing data and the raw data are frequently not made publicly available. We
 will achieve the objective of this aim by developing a module consisting of four
 autotutorials that any microbiome researcher can follow to quickly develop the
 needed skills to generate a fully reproducible and automated analysis. This will
-improve the the overall *analysis and reporting* of microbiome research.
+improve the overall *analysis and reporting* of microbiome research.
 Furthermore, our autotutorials will include content for research supervisors who
 are not personally doing the analyses but need an entry point for insuring the
 validity and reproducibility of their trainees' research. This will improve the
@@ -211,8 +213,8 @@ Knuth suggested: blend executable code within documentation.
 Albeit on a limited scale, the literate programming approach has been applied to
 varying degrees with in the microbiome research community. Some researchers,
 including ourselves, have used it as a way to describe how calculations were
-performed and figures were generated {e.g. \Meadow, 2014 #3368;
-Ding, 2014 #3370; Howe, 2014 #3423}. Others, also including ourselves, have used
+performed and figures were generated {e.g.\ Meadow, 2014 #3368;
+Ding, 2014 #3310; Howe, 2014 #3423}. Others, also including ourselves, have used
 the approach to write entire books and papers in which methods and results are
 imbedded directly into the text, tables, and figures {e.g. \Baxter, 2014 #3371;
 Xie, #3360; Gandrud,  #3443}. The goal of the current proposal is to develop a
@@ -286,6 +288,7 @@ to improve research reproducibility.
 
 
 ***Research Design***
+
 **Overview of proposed autotutorials**
 We have developed the outlines for an initial set of four autotutorials:
 
@@ -764,7 +767,7 @@ facilitate workshops at 3 universities each of the two years of the project (see
 the letters of support). This will serve to help us develop the modules as well
 as  disseminate the modules.
 * Utilize our connections within the American Society for Microbiology
-to advertise advertise the module through *Microbe* magazine and in workshop
+to advertise the module through *Microbe* magazine and in workshop
 offerings at the society's General Meetings in 2016 and 2017 (see letter of
 support from ASM).
 
@@ -825,7 +828,7 @@ with varying research interests (alphabetical):
 * Gary Huffnagle, PhD: University of Michigan
 * John LiPuma, MD: University of Michigan
 * Harry Mobley, PhD: University of Michigan
-* Eric Pamer, MD: Memorial Sloan-Ketterin Cancer Center
+* Eric Pamer, MD: Memorial Sloan-Kettering Cancer Center
 * Courtney Robinson, PhD: Howard University
 * Julie Segre, PhD: National Human Genetics Research Institute
 * Vincent Young, MD/PhD: University of Michigan
@@ -974,7 +977,7 @@ improve the overall reproducibility of the field. One question that needs to be
 addressed is how reproducible the data analysis is in the typical microbiome
 study. We anticipate using this module as a starting point to evaluate the
 availability of raw data, description of methods, and general reproducibility of
-data analysis within the microbiome research area. Furthermore, the the four
+data analysis within the microbiome research area. Furthermore, the four
 autotutorials described in this proposal will hopefully form the nucleus of a
 collection of instructional materials designed to improve the reproducibility of
 microbiome research. We foresee additional materials directed at producing
