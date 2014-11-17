@@ -494,13 +494,13 @@ reproducible, but that it is also done well.
   * Experience requesting strains and reagents from others for wetlab-based
     experiments
 
-* Misconceptions: The end goal of a project is a paper, rather than buildign to
-  the next paper
+* Misconceptions: The end goal of a project is a paper, rather than building to
+  a series of papers
 
 ***Conceptually difficult material:***
 
 * Releasing data to the public
-* Making analysis accessible to the research supevisor or those that do not
+* Making analysis accessible to the research supervisor or those that do not
   understand code
 
 ***Learning goals:***
@@ -519,43 +519,44 @@ reproducible, but that it is also done well.
 * Experience forking, modifying, and submitting/receiving pull requests
 * Articulate the strengths and weaknesses of different open source licenses
 
-***Activities:***
+***Activities (~4 hrs):***
 
 * **Case study 1:** A research group has their paper accepted at
   NatureScienceCell and another researcher that is perceived as being a
   competitor reaches out to them to get access to their raw data and data
   analysis pipeline. What would you suggest? How would you argue? This case
   study emphasizes the importance of science as an iterative and collaborative
-  affair.
+  affair. (10 min)
 * **Presentation:** Discussion of open science concepts including licensing and
-  open vs. closed source code
+  open vs. closed source code. (20 min)
 * **Reflection:** Does your laboratory have a consistent practice on whether to
   make repositories public or private during development? What license does
-  your lab prefer? Why?
+  your lab prefer? Why? (15 min)
 * **Go explore:** Journals vary in their requirements for making data accessible
   and methods transparent. Go to the websites for your five favorite journals
-  and describe their policies. Which of the journals seems the most "open"?
-* **Case study 2:** Congratulations, you just published a paper with
-  reproducible analyses! What hurdles remain to being fully reproducible? This
+  and describe their policies. Which of the journals seems the most "open"? (20
+  min)
+* **Case study 2:** Congratulations, you just published a paper with a
+  reproducible analysis! What hurdles remain to being fully reproducible? This
   case study will get the participants to realize that they now have to make
   their data and source code accessible and that there are limitations and
-  benefits to the various approaches
+  benefits to the various approaches. (10 min)
 * **Presentation:** Overview of storage possibilities including personal lab
   servers, public databases, and commercial options (e.g. DataDrayd, FigShare,
-  Amazon, GitHub)
+  Amazon, GitHub) (15 min)
 * **Go explore:** Look at your five favorite papers. How accessible are the
   original raw data? Are there metadata about the data? Is the analysis
-  pipeline available?
-* **Presentation:** Submitting data to a commercial repository
+  pipeline available? (15 min)
+* **Presentation:** Submitting data to a commercial repository (15 min)
 * **Activity:** Submit a data file to DataDryad and automate the retrieval of
-  that file
-* **Demonstration:** Creating a presence on GitHub; pull/push workflow
-* **Activity:** Post repository to GitHub
-* **Demonstration:** Forking, pull requests, and code review
-* **Activity:** Collaborative coding, code review
+  that file (15 min)
+* **Demonstration:** Creating a presence on GitHub; pull/push workflow (20 min)
+* **Activity:** Post repository to GitHub (30 min)
+* **Demonstration:** Forking, pull requests, and code review (20 min)
+* **Activity:** Collaborative coding, code review (30 min)
 * **Extend:** Post your repository to GitHub, pick a license, and privacy
   setting.
-* **Extend:** engage your PI or labmates in conducting code review of each
+* **Extend:** engage your PI or lab mates in conducting code review of each
   other's code
 
 ***Assessment:***
