@@ -645,24 +645,23 @@ that time. From this funding he has published 32 peer-reviewed publications and
 he was the senior author on 16 of these studies; all of these studies have
 involved research questions related to the microbiome. At the University of
 Michigan, Schloss has developed two courses: *Symbiosis* and *Microbial
-informatics*. The latter is a course that is designed to teach microbiology MS
-and PhD students and postdocs to use R. This semester, in preparation for this
-proposal, Schloss successfully experimented with using knitr-based documents and
-GitHub repositories to submit assignments. In addition, all of his course
-materials have been made available through the course's GitHub site including
-the lecture slides that were prepared using the R slidify package that is based
-on the knitr package (microbialinformatics.github.io). Although this course
-touches on the content of the proposed teaching mateirals, it focused on
-developing R skills rather than laboratory practices. This couse and Schloss's
-willingness to experiment with the content is indicative of his innovative
-approach to teaching. Finally, over the past 7 years, Schloss has offered 4-5
-workshops describing how microbiologists can use mothur and R to analyze data
-from microbiome research projects. This experience has given him a unique
-perspective into the needs and competencies of the microbiome resarch community.
-Together, these data and experiences indicate Schloss is "actively engaged in
-research in an area related to the mission of NIH, and can organize, administer,
-monitor, and evaluate the research education program."
-
+informatics*. The latter is a course that is designed to teach microbiologists
+in MS and PhD programs and postdocs how to use R. This semester, in preparation
+for this proposal, Schloss successfully experimented with using knitr-based
+documents and GitHub repositories to submit assignments. In addition, all of his
+course materials have been made available through the course's GitHub site
+including the lecture slides that were prepared using the R slidify package that
+is based on the knitr package (microbialinformatics.github.io). Although this
+course touches on the content of the proposed teaching materials, it focused on
+developing R programming skills rather than data analysis practices. This couse
+and Schloss's  willingness to experiment with the content is indicative of his
+innovative approach to teaching. Finally, over the past 7 years, Schloss has
+offered 4-5 workshops describing how microbiologists can use mothur and R to
+analyze data from microbiome research projects. This experience has given him a
+unique perspective into the needs and competencies of the microbiome resarch
+community. Together, these data and experiences indicate Schloss is "actively
+engaged in research in an area related to the mission of NIH, and can organize,
+administer, monitor, and evaluate the research education program."
 
 ## Program Faculty
 Schloss will be the primary Program Faculty member for this project. In
@@ -691,39 +690,42 @@ The target audiences for these modules are graduate students, postdoctoral
 fellows, junior faculty, and more senior investigators that lead research
 groups. Although we anticipate that any researcher will gain something from the
 materials, our  primary audience is the growing pool of researchers that are new
-to microbiome research and have limited computational skills. For this audience,
-we will have an entry level stage where they would go through all of the
-modules. An innovative component of our project will provide training materials
-for those leading research groups to help them understand how to interact with
-those researchers that they supervise. Two significant problems with a lack of
-reproducibility include the inability of supervisors to adequately vet a
-trainees methods and the inability of supervisors to fully engage with the
-trainee in develop the methods. By including participants from across multiple
-levels we will be able to take a more holistic approach to the problem of
-reproducible research within the microbiome research area.
+to microbiome research and have limited computational skills. An innovative
+component of our project will provide training materials for those leading
+research groups to help them understand how to interact with those researchers
+that they supervise. A common sentiment that we have heard from colleagues is
+that they do not know how to do the data analysis themselves and are left to
+trust that their trainees have acquired the information they need to do the
+analysis. This puts the research supervisors in a difficult position of insuring
+that the analysis is done well and reproducibly. By including these individuals
+in the training program, especially Autotutorials 1 and 4, they will see how
+they can "collaborate" with their own research group on the analysis. By
+including participants from across multiple levels we will be able to take a
+more holistic approach to the problem of reproducible research within the
+microbiome research area.
 
 We pride ourselves on recruiting diverse cohorts of researchers to the workshops
 we hold to instruct people on best practices for using mothur to analyze 16S
 rRNA gene sequences. It is common for the number of women to outnumber men and
-to have 4-5 African American and Hispanic American researchers attend workshop
-with 30 participants. This level of diversity is uncommon in computational
-workshops. Our strategy is to place a very low bar for admission to the
-workshops, requiring that the researcher merely email us to register. We have
-identified a number of research groups led by diverse investigators that we will
-use to help develop and refine our materials prior to final dissemination.
-Included in these is the research group of Dr. Courtney Robinson, an Assistant
-Professor at Howard University, which is a Historically Black University. For
-all of our assessments we will keep track of the researchers' gender, race,
-ethnicity, and academic rank to understand whether there are individual groups
-that we are not accessing or that may be having greater difficulties with some
-materials than other groups. Finally, because the materials will be made freely
-available to anyone that wants to participate in the modules, there should be
-little difficulty in maintaining a high level of diversity among the
-participants. Regardless, we will continue to monitor the demographic
-distribution of the participants on the pre-test. We are committed to making
-our materials accessible to anyone wanting to engage them. Our track record with
-previous training efforts indicates that our approach does an exceptional job of
-engaging a diverse cross section of microbiologists.
+to have 4-5 visible minorities attend a workshop with 30 participants. This
+level of diversity is uncommon in computational workshops. Our strategy is to
+place a very low bar for admission to the workshops, requiring that the
+researcher merely email us to register. We have identified a number of research
+groups led by diverse investigators that we will use to help develop and refine
+our materials prior to final dissemination. Included in these is the research
+group of Dr. Courtney Robinson, an Assistant Professor at Howard University,
+which is a Historically Black University. For all of our assessments we will
+keep track of the researchers' gender, race, ethnicity, and academic rank to
+understand whether there are individual demographic groups that we are not
+accessing or that may be having greater difficulties with some materials than
+others. Finally, because the materials will be made freely available to anyone
+that wants to participate in the modules, there should be little difficulty in
+maintaining a high level of diversity among the participants. Regardless, we
+will continue to monitor the demographic distribution of the participants on the
+pre-test. We are committed to making our materials accessible to anyone wanting
+to engage them. Our track record with previous training efforts indicates that
+our approach does an exceptional job of engaging a diverse cross section of
+microbiologists.
 
 We take seriously our commitment to maintaining a low barrier to participation
 in our training modules. The activities we selected use a variety of formats to
