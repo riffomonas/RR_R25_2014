@@ -2,31 +2,33 @@
 
 Enthusiasm for understanding how changes in the human microbiome affect health
 has led to an influx of researchers who have little experience in documenting
-and performing bioinfomatic analyses. Compounding this problem is the fact that
-over the past 10 years microbiome datasests have grown from hundreds to millions
-of sequences. Of course, with the increased size of the datasets the complexity
-of the analyses has also grown. Researchers that once used Microsoft Excel to
-analyze sequence data now struggle to use command line tools and to document
-their workflows. Traditional training programs have not been able to meet the
-needs of these researchers and so it is essential that instructional modules be
+and performing bioinfomatic analyses. Compounding this problem is that
+over the past 10 years microbiome datasets have grown from hundreds to millions
+of sequences. With the increased size of the datasets the complexity
+of the analyses has also grown. Researchers that once used spreadsheets to
+analyze their data now struggle to use command line tools. Traditional training
+programs have not been able to meet the
+needs of these researchers and so it is essential that instructional materials be
 developed to train these researchers on the best practices for documenting and
 disseminating their analyses so that they can be reproduced by others. The
-objective of this proposal is to develop training modules that members of the
-microbiome research community can use to improve the reproducibility and overall
+objective of this proposal is to develop a training module that
+microbiome researchers can use to improve the reproducibility and overall
 quality of their research. Aside from the general importance of insuring that
-all research is reproducible, the rationale for why this is important now is due
-to the significant growth of the community. The specific aim of the proposed
-effort will develop a set of auto-tutorial modules to teach microbiome
+all research is reproducible,
+the significant growth of the community makes it urgent that such instructional
+materials are developed now. The specific aim of the proposed
+effort will develop a set of autotutorials to teach microbiome
 researchers habits for engaging in reproducible research. This aim will be
 achieved through an iterative process of development, evaluation, and refinement
-using a wide network of microbiome researchers. The expected outcomes of the
+using a wide network of microbiome researchers to assess the materials prior to
+broader dissemination. The expected outcomes of the
 proposed modules are the improvement of the reproducibility of research within
 the microbiome research community, increased accessibility to raw original data,
 and a greater use of literate programming tools for constructing manuscripts and
-oral presentations. Furthermore, if it is possible to improve the reproduciblity
+oral presentations. Furthermore, if it is possible to improve the reproducibility
 of the original research, then it will be more likely that other researchers
 will use those data, results, and methods to perform additional analyses
-resulting in a greater  understanding of the microbiome. Such a process is rare
+resulting in a greater understanding of the microbiome. Such a process is rare
 within the microbiome literature given the vast size of many of these datasets.
 The long-term goal of this project is to establish a broader community-supported
 resource devoted to disseminating best practices in performing reproducible
