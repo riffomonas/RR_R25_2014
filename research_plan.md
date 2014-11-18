@@ -6,7 +6,7 @@ The NIH-funded Human Microbiome Project (HMP) Roadmap Initiative engendered
 great enthusiasm in understanding how the structure and function of the
 microbiome relates to human health {The Human Microbiome Consortium, 2012 #2616;
 The Human Microbiome Consortium, 2012 #2617}. This initiative has resulted
-in a expansion of support at the NIH, who now supports these research efforts
+in an expansion of support at the NIH, who now supports these research efforts
 across 16 of the 27 institutes, centers, and offices. The funding for microbiome
 research more than doubled between fiscal years 2010 and 2012 to a total between
 $120 and 150 million for nearly 300 grants and contracts (Lita Proctor, NHGRI,
@@ -21,9 +21,9 @@ paralleled that of other biomedical research areas were, as the RFA for this
 competition notes, "graduate students were often significantly dependent on the
 mentor or the mentor's lab for the training received, and postdoctoral fellows
 were primarily dependent on the mentor or mentor's lab at all institutions.
-Rather than being learned in prescribed curricula, **training in good laboratory
+Rather than being learned in prescribed curricula, training in good laboratory
 practices that influence data reproducibility appears to be largely passed down
-from generation to generation of working scientists**, with substantial
+from generation to generation of working scientists, with substantial
 variation from laboratory to laboratory." It is clear that microbiome research
 is an important part of the NIH portfolio and that there is a dearth of training
 for its practitioners to insure reproducibility of methods. The proposed project
@@ -55,7 +55,7 @@ faculty. Second, 48% of the respondents have used mothur within Windows, 32%
 within Mac OS X, and 45% within Linux. Finally and perhaps most surprising, 41%
 had no programming experience. The others reported knowing R (35%), Perl (32%),
 Python (27%), C/C++ (16%), Java (10%), or some other language (10%).  These
-results and our experiences emphasize the that most individuals carrying out
+results and our experiences emphasize that most individuals carrying out
 microbiome research have limited experience in performing bioinformatics
 research and are largely self-taught. In fact, from these experiences, we have
 met the graduate students, postdocs, and faculty that the quote from the RFA
@@ -118,7 +118,6 @@ experiment is repeated with similar methods but a different population or model,
 the same methods and population and model, or even the same data. While some of
 the lack of reproducibility may be due to fraud, it is more likely that this is
 due to incomplete methods descriptions as a result of limited space in journals.
-
 NIH Director Dr. Francis Collins and Principal Deputy Director Lawrence Tabak
 recently published a commentary in *Nature* expressing their concern and
 outlined several possible explanations for the lack of reproducibility {Collins,
@@ -127,7 +126,7 @@ make provocative claims over presenting methods, poor training in experimental
 design, lack of opportunity to publish negative results or results that question
 previous studies, and the inability to access the original data. As Ioannidis
 recently stated, we need to adopt a "replication culture" {Ioannidis, 2014
-#3447}. A recent editorial by Jacuqes Ravel and Eric Wommack, the editors of the
+#3447}. A recent editorial by Jacques Ravel and Eric Wommack, the editors of the
 journal *Microbiome*, suggested that there may be a reproducibility problem in
 microbiome research {Ravel, 2014 #3356}. We have witnessed similar problems
 within the microbiome research community as it continues to grow.
@@ -138,23 +137,23 @@ optimistic that results from our discipline are any more reproducible than other
 fields. Raw data are frequently unavailable and methods descriptions are sparse.
 For example, a recent study compared the microbiota of the Hadza and Europeans
 and observed that the Hadza had a significantly enriched diversity and
-surprisingly had a large fraction of spirochaetes in their gut microbiota
+surprisingly had a large fraction of spirochetes in their gut microbiota
 {Schnorr, 2014 #3437}. This study received a considerable amount of attention in
 the media and so we were interested in looking closer at the data.
 Unfortunately, we were unable to get access to the raw data. Half of the data
 was avaialbe through the MG-RAST website in a processed form. After several
 email exchanges, we finally gained access to the raw data and one of the files
 was corrupted. After sorting through that problem, we quickly realized that the
-presence of Spirochaeate 16S rRNA gene sequences in the datasets was due to the
+presence of spirochete 16S rRNA gene sequences in the datasets was due to the
 presence of a large number of low quality short sequences. This indicated that
-the reads were unlikely from Spirochaetes, but were rather artifacts. This is
+the reads were unlikely from spirochetes, but were rather artifacts. This is
 just one example of the difficulty of obtaining the raw data from a study that
 was further compounded by an incomplete methods description. Finally, as pointed
 out by Collins and Tabak, there are few opportunities now for us to disseminate
 our re-analysis of the original data and so the idea that the Hadza have
-Spirochaetes in their gut persists.
+spirochetes in their gut persists.
 
-As we describe throughout the current proposal, we believe that examples such as
+We believe that examples such as
 the Hadza microbiota study occur because traditionally trained bench scientists
 are informally trained to become bioinformaticists and do not have an
 appreciation for the level of detail required to reproduce a study. This is
@@ -171,20 +170,20 @@ trainees usually update their notebook prior to meeting with their supervisor
 when the notebook will be inspected. This suggests that the trainee does not
 find the paper-based notebook format useful. In fact, the notebook is often
 depicted as a legal document that once it is filled will live out its life on a
-shelp in the supervior's office. In contrast, electronic notebooks have a more
+shelf in the supervisor's office. In contrast, electronic notebooks have a more
 dynamic and collaborative style {Bird, 2013 #3445;Kihlen, 2003 #3444;Noble,
 2009 #3451}. Experiments can be tagged and searched to easily retrieve methods
 and results and can be shared electronically in real-time. Problems with
-electronic notebooks is that they can be expensive and have proprietary formats
+electronic notebooks are that they can be expensive and have proprietary formats
 that limit their portability to other systems. For the purposes of bioinformatic
-analyses although electronic notebooks are an advance over paper-based
+analyses, although electronic notebooks are an advance over paper-based
 notebooks, the inability to execute an analysis from within the notebook is an
 added limitation.
 
 In the current proposal, we describe autotutorials that will help microbiome
 researchers engage in "literate programming" because it is an approach that
 allows one to fully integrate documentation with computational methods and
-results. Literate programming was initially described by Knuth as {Knuth, 1992 #3438}:
+results. Literate programming was described by Knuth as {Knuth, 1992 #3438}:
 
 > A methodology that combines a programming language with a documentation
 > language, thereby making programs more robust, more portable, more easily
@@ -198,7 +197,8 @@ text that is easy to read and write and is well-supported by a number of tools,
 including pandoc (johnmacfarlane.net/pandoc/index.html), for converting to a
 diverse array of formats including html, docx, and pdf. Other developers have
 created tools such as Sweave {Leisch, 2002 #3440}, knitr {Leisch, 2002 #3440},
-and IPython interactive computing notebooks {Perez, 2007 #3439}. Since all of
+and IPython interactive computing notebooks {Perez, 2007 #3439}, all of which
+incorporate markdown. Since all of
 these files are text-based, it is possible to maintain them under a version
 control repository such as git {Chacon, 2009 #3442}. This then allows an
 investigator to maintain an annotated history for the evolution of an analysis
@@ -210,11 +210,11 @@ offline they have considerable potential to replace the traditional paper-based
 notebook for the microbiome analyst. Put simply, these tools enable one to do as
 Knuth suggested: blend executable code within documentation.
 
-Albeit on a limited scale, the literate programming approach has been applied to
-varying degrees with in the microbiome research community. Some researchers,
-including ourselves, have used it as a way to describe how calculations were
-performed and figures were generated {e.g.\ Meadow, 2014 #3368;
-Ding, 2014 #3310; Howe, 2014 #3423}. Others, also including ourselves, have used
+Albeit on a limited scale, the literate programming approach has been applied
+with in the microbiome research community. Some researchers,
+including us, have used it as a way to describe how calculations were
+performed and figures were generated {e.g.\Meadow, 2014 #3368;
+Ding, 2014 #3310; Howe, 2014 #3423}. Others, also including us, have used
 the approach to write entire books and papers in which methods and results are
 imbedded directly into the text, tables, and figures {e.g. \Baxter, 2014 #3371;
 Xie, #3360; Gandrud,  #3443}. The goal of the current proposal is to develop a
@@ -232,16 +232,20 @@ workflow to the mothur wiki {Schloss, 2009 #1816}. These analyses examples
 (www.mothur.org/wiki/Analysis_examples) have become a critical forum for
 new researchers to learn to use mothur and how it can be applied to diverse
 research questions. These analysis examples have also become the basis for
-workshops that are have been developed by ourselves and other researchers (see
+workshops that are have been developed by us and other researchers (see
 letter of support from Teal). Through interacting with other microbiome
 researchers through these workshops, exchanges on the user forum
 (www.mothur.org/forum), our mailing list, and data-driven blog (blog.mothur.org)
 we have developed a unique perspective of who the typical microbiome researcher
 is. This places us in a unique position to lead the proposed project.
 
-At the University of Michigan, Schloss teaches MICRBIOL 612, "Microbial
-Informatics". This course is a forum for teaching microbiologists and
-immunologists how to program using the R language. Each year this course is
+At the University of Michigan, Schloss teaches MICRBIOL 612, *Microbial
+Informatics*.  All of the lecture materials are available through the course
+website (microbialinformatics.github.io) and through a GitHub repository
+(www.github.com/microbialinformatics) where lectures developed using the slidify
+R package were used to generate reproducible lecture material. This course is a
+forum for teaching microbiologists and immunologists how to program using the R
+language. Each year this course is
 offered it grows and the representation of women and researchers from other
 departments have expanded. Virtually every class includes an opportunity for
 students to pair program on a simple exercise and a live coding example by
@@ -253,7 +257,7 @@ experience of teaching a programming course and introducing students to version
 control has given Schloss a unique perspective on the common problems people
 encounter when working with these tools.
 
-Many people have begun to ask for greater reproduciblity and transperancy in
+Many people have begun to ask for greater reproducibility and transparency in
 the description of methods; however, few have actually attempted to implement
 these strategies in their own research. In the past year, the Schloss lab has
 begun to release an executable digital notebook to accompany each of their
@@ -269,6 +273,28 @@ notebooks. These are availble with the papers as well as through the lab's
 GitHub website (schlosslab.org) and repository (github.com/schlosslab). In
 addition, recent talks that Schloss has given have utilized the slidify R
 package to generate reproducible presentations. These talks are availble on his
+GitHub site (pschloss.github.io). These examples demonstrate the value of making
+data analyses available in an automated and reproducible form. Our initiative in
+making these materials publically available as well as that of others will
+provide a number of case studies that we can point to in the autotutorials that
+we develop for the proposed module.
+
+Many people have begun to ask for greater reproducibility and transparency in
+the description of methods; however, few have actually attempted to implement
+these strategies in their own research. In the past year, the Schloss lab has
+begun to release an executable digital notebook to accompany each of their
+papers. Examples include two papers that were published in *Nature* and *Applied
+and Environmental Microbiology* {Baxter, 2014 #3371; Ding, 2014 #3289}. As
+indicated by the letter from Grice, the IPython notebook that accompanies the
+*Nature* paper inspired her research group to use that platform to make their
+research more reproducible. We have received several emails from researchers
+thanking us for making that document available so that they could attempt to
+adopt the methods for their own related research questions. We are in the
+process of revisiting older papers from the lab to release similar digital
+notebooks. These are available with the papers as well as through the lab's
+GitHub website (schlosslab.org) and repository (github.com/schlosslab). In
+addition, recent talks that Schloss has given have utilized the slidify R
+package to generate reproducible presentations. These talks are available on his
 GitHub site (pschloss.github.io). These examples demonstrate the value of making
 data analyses available in an automated and reproducible form. Our initiative in
 making these materials publically available as well as that of others will
@@ -324,7 +350,7 @@ the literature or their research group to EXPLORE a topic further. This will
 prevent participants from merely clicking through material. Each autotutorial
 will include a demonstration where the steps are highly proscribed, a more
 open-ended example that is used throughout the autotutorials that requires the
-participant to insert material that they have learned in the earlier activites,
+participant to insert material that they have learned in the earlier activities,
 and a fully open-ended activity where the participant applies the material to
 their specific situation and analysis needs. This scheme will gradually "remove
 the training wheels" for the participant, encourage introspection and force them
@@ -339,7 +365,7 @@ forms of qualitative and quantitative assessment, and scientific teaching.
 The autotutorials for this module will be accessible to participants through a
 freely accessible website. We are using this project to launch the "Riffomonas"
 project (www.riffomonas.org). The title of this project refers to the musical
-idea of "riffing" and a comon suffix for bacterial genera. Riffing is where a
+idea of "riffing" and a common suffix for bacterial genera. Riffing is where a
 musician repeats a theme and alters the theme using their own style. This is
 what we want for microbiome research - the ability to repeat an analysis, but
 then be able to take the analysis further with additional data or new methods.
@@ -518,7 +544,7 @@ are likely to be novel to most researchers.
   that they go and explore
 * Have participants rank the various platforms (i.e. wikis, knitr, IPython) in
   terms of ease of use, reproducibility, usability, and ability to use as a
-  starting point to move fowrad
+  starting point to move forward
 * Quiz asking participants to link common git commands with their function
 * How well activities match what we're looking for in the canned activities
 * Time spent on case studies and presentations
@@ -604,11 +630,11 @@ is a very different, but welcomed, approach for most researchers.
 * **Presentation:** IPython/Jupyter notebooks (30 min)
 * **Activity:** Navigate students through incorporating the Autotutorial 2
   materials into IPyton notebooks in an automated manner (30 min)
-* **Presentation: knitr (30 min)
+* **Presentation:** knitr (30 min)
 * **Activity:** Navigate students through incorporating the Autotutorial 2
   materials into a knitr document (30 min)
 * **Reflection:** What would it take to consistently automate one component of
-  their analsyis? an entire paper? (15 min)
+  their analysis? an entire paper? (15 min)
 * **Extend:** Take the markdown document that they created in Autotutorial 2 and
   automate it
 
@@ -725,7 +751,7 @@ reproducible, but that it is also done well.
 As described above, participants will register with the module through a website
 where they will provide demographic data. The website will track the amount of
 time spent on each item and their responses. The autotutorials will request the
-participants account name so that it is possible to look for their GitHub
+participants' account name so that it is possible to look for their GitHub
 account to track their performance. It is important to note that aside from the
 account name, the evaluation will be completely anonymous. In general, it
 is not possible to ascertain a person's identity from their account name. Each
@@ -733,11 +759,11 @@ autotutorial will have a variety of quantitative and qualitative assessments
 that will allow us to track a participant's progress through the module. We will
 create a badge-based commendation system where participants gain varying points.
 In addition, participants will receive a certificate indicating completion of
-the program. As we track the participants activities within each module we will
+the program. As we track the participants' activities within each module we will
 also be able to evaluate the usefulness of each activity and modify the content
 to overcome misconceptions or confusion in the material. Finally, we will assess
 the overall success of the module by sending an automated email to each
-participant at 1, 2, and 3 year anniversaries of the date they completed the
+participant at 1, 2, and 3-year anniversaries of the date they completed the
 module. These emails will invite the participant to complete a survey that
 describes their current reproducible research  practices. We will monitor how
 they have changed relative to when they started the module. The evaluation plan
@@ -789,7 +815,7 @@ respected member of the microbiome research community and is an excellent
 teacher that is anxious to utilize innovative teaching methods to communicate
 complex materials. Over the past 6 years, Schloss has been the PI on 9 research
 grants funded by NIH and other agencies including 2 R01 projects related to the
-microibome. He has served as a co-Investigator on 7 additional projects during
+microbiome. He has served as a co-Investigator on 7 additional projects during
 that time. From this funding he has published 32 peer-reviewed publications and
 he was the senior author on 16 of these studies; all of these studies have
 involved research questions related to the microbiome. At the University of
@@ -802,12 +828,12 @@ course materials have been made available through the course's GitHub site
 including the lecture slides that were prepared using the R slidify package that
 is based on the knitr package (microbialinformatics.github.io). Although this
 course touches on the content of the proposed teaching materials, it focused on
-developing R programming skills rather than data analysis practices. This couse
+developing R programming skills rather than data analysis practices. This course
 and Schloss's  willingness to experiment with the content is indicative of his
 innovative approach to teaching. Finally, over the past 7 years, Schloss has
 offered 4-5 workshops describing how microbiologists can use mothur and R to
 analyze data from microbiome research projects. This experience has given him a
-unique perspective into the needs and competencies of the microbiome resarch
+unique perspective into the needs and competencies of the microbiome research
 community. Together, these data and experiences indicate Schloss is "actively
 engaged in research in an area related to the mission of NIH, and can organize,
 administer, monitor, and evaluate the research education program."
